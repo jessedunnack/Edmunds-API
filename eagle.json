@@ -1,0 +1,4911 @@
+{
+  "premier": {
+    "1991": {
+      "ES Limited": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2407
+        },
+        "numOfDoors": "4",
+        "name": "ES Limited 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6442,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200617903",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200617904",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      },
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2407
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6443,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200617892",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200617893",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2407
+        },
+        "numOfDoors": "4",
+        "name": "ES 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6441,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200617881",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200617882",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      }
+    },
+    "1992": {
+      "ES Limited": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 867
+        },
+        "numOfDoors": "4",
+        "name": "ES Limited 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6575,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525035",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200525036",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      },
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 867
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6576,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525047",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200525048",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 867
+        },
+        "numOfDoors": "4",
+        "name": "ES 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6574,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525023",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200525024",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      }
+    },
+    "1990": {
+      "ES Limited": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2406
+        },
+        "numOfDoors": "4",
+        "name": "ES Limited 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "24"
+        },
+        "id": 6452,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200617877",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200617878",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      },
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2406
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "24"
+        },
+        "id": 6453,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200617879",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200617880",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2406
+        },
+        "numOfDoors": "4",
+        "name": "ES 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "24"
+        },
+        "id": 6451,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200617875",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.0",
+          "id": "200617876",
+          "torque": 171,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3600
+          },
+          "horsepower": 150,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "premier",
+          "name": "Premier",
+          "id": "Eagle_Premier"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Premier Sedan"
+        }
+      }
+    }
+  },
+  "talon": {
+    "1994": {
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 871
+        },
+        "numOfDoors": "2",
+        "name": "ES 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6558,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525290",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200525292",
+          "torque": 125,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 871
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "23"
+        },
+        "id": 6560,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525322",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200525324",
+          "torque": 203,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 195,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 871
+        },
+        "numOfDoors": "2",
+        "name": "DL 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "id": 6557,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525306",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200525308",
+          "torque": 105,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3500
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1997": {
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2419
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback AWD",
+        "price": {
+          "usedPrivateParty": 1380.0,
+          "usedTmvRetail": 2374.0,
+          "estimateTmv": false,
+          "usedTradeIn": 784.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 17,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618506",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200618508",
+          "torque": 214,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 210,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "tsi",
+          "tuner": "TSi",
+          "modelName": "Talon TSi"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2419
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "30"
+        },
+        "id": 743,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618517",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618519",
+          "torque": 130,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2419
+        },
+        "numOfDoors": "2",
+        "name": "ESi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "30"
+        },
+        "id": 13,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618528",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618530",
+          "torque": 130,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1991": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 870
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6448,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525243",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200525245",
+          "torque": 125,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 870
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6449,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525253",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200525255",
+          "torque": 203,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 190,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1996": {
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2418
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6625,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618495",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 8.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4ITCG2.0",
+          "compressorType": "turbocharger",
+          "id": "200618497",
+          "torque": 220,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 205,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 2.0
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "tsi",
+          "tuner": "TSi",
+          "modelName": "Talon TSi"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2418
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "29"
+        },
+        "id": 6623,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618462",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618464",
+          "torque": 130,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2418
+        },
+        "numOfDoors": "2",
+        "name": "ESi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "29"
+        },
+        "id": 6622,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618473",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 8.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618475",
+          "torque": 130,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 2.0
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1992": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2415
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6438,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618365",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618367",
+          "torque": 125,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2415
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "23"
+        },
+        "id": 6440,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618375",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200618377",
+          "torque": 203,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 195,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1995": {
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2417
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "25"
+        },
+        "id": 6637,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618440",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200618442",
+          "torque": 214,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 210,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "tsi",
+          "tuner": "TSi",
+          "modelName": "Talon TSi"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2417
+        },
+        "numOfDoors": "2",
+        "name": "ESi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "29"
+        },
+        "id": 6635,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618451",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618453",
+          "torque": 131,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1998": {
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1998,
+          "id": 2420
+        },
+        "numOfDoors": "2",
+        "name": "ESi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1270.0,
+          "usedTmvRetail": 2302.0,
+          "estimateTmv": false,
+          "usedTradeIn": 650.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "30"
+        },
+        "id": 17390,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618554",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618556",
+          "torque": 130,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1998,
+          "id": 2420
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1240.0,
+          "usedTmvRetail": 2272.0,
+          "estimateTmv": false,
+          "usedTradeIn": 621.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "30"
+        },
+        "id": 17388,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618551",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618553",
+          "torque": 130,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4800
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1998,
+          "id": 2420
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback AWD",
+        "price": {
+          "usedPrivateParty": 1614.0,
+          "usedTmvRetail": 2672.0,
+          "estimateTmv": false,
+          "usedTradeIn": 979.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 17392,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618560",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200618562",
+          "torque": 214,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 210,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "tsi",
+          "tuner": "TSi",
+          "modelName": "Talon TSi"
+        }
+      }
+    },
+    "1993": {
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2416
+        },
+        "numOfDoors": "2",
+        "name": "ES 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6571,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618396",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618398",
+          "torque": 125,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2416
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6572,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618407",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200618409",
+          "torque": 203,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 195,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2416
+        },
+        "numOfDoors": "2",
+        "name": "DL 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "id": 6570,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618385",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618387",
+          "torque": 105,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3500
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    },
+    "1990": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2414
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6459,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618348",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.0",
+          "id": "200618350",
+          "torque": 125,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2414
+        },
+        "numOfDoors": "2",
+        "name": "TSi Turbo 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6460,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618351",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.0,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200618352",
+          "torque": 203,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 190,
+          "configuration": "inline",
+          "code": "4ITCG2.0"
+        },
+        "model": {
+          "niceName": "talon",
+          "name": "Talon",
+          "id": "Eagle_Talon"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Talon Hatchback"
+        }
+      }
+    }
+  },
+  "summit": {
+    "1994": {
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2412
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "30"
+        },
+        "id": 6554,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618115",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618117",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2412
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "22"
+        },
+        "id": 6556,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618163",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.4",
+          "id": "200618165",
+          "torque": 145,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 4250
+          },
+          "horsepower": 136,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2412
+        },
+        "numOfDoors": "2",
+        "name": "ES 2dr Coupe",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "35"
+        },
+        "id": 6550,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618195",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200618197",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Summit Coupe"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2412
+        },
+        "numOfDoors": "2",
+        "name": "ESi 2dr Coupe",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "30"
+        },
+        "id": 6552,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618147",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618149",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Summit Coupe"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2412
+        },
+        "numOfDoors": "4",
+        "name": "DL 4dr Wagon",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "27"
+        },
+        "id": 6549,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618226",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618228",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      }
+    },
+    "1991": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2410
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "32"
+        },
+        "id": 6447,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617957",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200617959",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2410
+        },
+        "numOfDoors": "4",
+        "name": "ES 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "32"
+        },
+        "id": 6445,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617927",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200617929",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      }
+    },
+    "1996": {
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2413
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "30"
+        },
+        "id": 6619,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618273",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618275",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2413
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "22"
+        },
+        "id": 6621,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618243",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.4",
+          "id": "200618245",
+          "torque": 145,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 4250
+          },
+          "horsepower": 136,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 2.4
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2413
+        },
+        "numOfDoors": "2",
+        "name": "ESi 2dr Coupe",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "35"
+        },
+        "id": 6617,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618303",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200618305",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Summit Coupe"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2413
+        },
+        "numOfDoors": "2",
+        "name": "DL 2dr Coupe",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "35"
+        },
+        "id": 6615,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618333",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200618335",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 1.5
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Summit Coupe"
+        }
+      }
+    },
+    "1992": {
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 868
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Wagon",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "26"
+        },
+        "id": 6580,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525137",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200525139",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 1.8
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 868
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "32"
+        },
+        "id": 6436,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525072",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200525074",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 1.5
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 868
+        },
+        "numOfDoors": "2",
+        "name": "ES 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "32"
+        },
+        "id": 6578,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525111",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200525113",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 1.5
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Summit Hatchback"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 868
+        },
+        "numOfDoors": "4",
+        "name": "DL 4dr Wagon",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "26"
+        },
+        "id": 6577,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525085",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200525087",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 1.8
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      }
+    },
+    "1995": {
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 869
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "30"
+        },
+        "id": 6632,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525151",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200525153",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 869
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "22"
+        },
+        "id": 6634,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525177",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.4",
+          "id": "200525179",
+          "torque": 145,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 4250
+          },
+          "horsepower": 136,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 869
+        },
+        "numOfDoors": "4",
+        "name": "ESi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "30"
+        },
+        "id": 6631,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525229",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200525231",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 869
+        },
+        "numOfDoors": "2",
+        "name": "DL 2dr Coupe",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "35"
+        },
+        "id": 6628,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200525190",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200525192",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Summit Coupe"
+        }
+      }
+    },
+    "1993": {
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2411
+        },
+        "numOfDoors": "4",
+        "name": "LX 4dr Wagon",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "26"
+        },
+        "id": 6568,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617988",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 2.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG2.4",
+          "id": "200617990",
+          "torque": 145,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 4250
+          },
+          "horsepower": 136,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "MIDSIZE_STATION_WAGONS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2411
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon AWD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "24"
+        },
+        "id": 6569,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618004",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618006",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Summit Wagon"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2411
+        },
+        "numOfDoors": "4",
+        "name": "ES 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "id": 6567,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618083",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.8,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.8",
+          "id": "200618085",
+          "torque": 116,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4500
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2411
+        },
+        "numOfDoors": "4",
+        "name": "DL 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "36"
+        },
+        "id": 6564,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200618035",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200618037",
+          "torque": 93,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3000
+          },
+          "horsepower": 92,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      }
+    },
+    "1990": {
+      "LX": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2409
+        },
+        "numOfDoors": "4",
+        "name": "LX DOHC 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "26"
+        },
+        "id": 6457,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617921",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.6,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.6",
+          "id": "200617923",
+          "torque": 99,
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 5000
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2409
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "31"
+        },
+        "id": 6458,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617924",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200617926",
+          "torque": 91,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 3000
+          },
+          "horsepower": 81,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "ES": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2409
+        },
+        "numOfDoors": "4",
+        "name": "ES 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "26"
+        },
+        "id": 6455,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617915",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.6,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.6",
+          "id": "200617917",
+          "torque": 99,
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 5000
+          },
+          "horsepower": 113,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      },
+      "DL": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2409
+        },
+        "numOfDoors": "4",
+        "name": "DL 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "31"
+        },
+        "id": 6454,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200617912",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "size": 1.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "4INAG1.5",
+          "id": "200617914",
+          "torque": 91,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 3000
+          },
+          "horsepower": 81,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "summit",
+          "name": "Summit",
+          "id": "Eagle_Summit"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Summit Sedan"
+        }
+      }
+    }
+  },
+  "vision": {
+    "1994": {
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 872
+        },
+        "numOfDoors": "4",
+        "name": "TSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6639,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525350",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.5",
+          "id": "200525351",
+          "torque": 221,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 2800
+          },
+          "horsepower": 214,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 872
+        },
+        "numOfDoors": "4",
+        "name": "ESi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 6638,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525338",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.3,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.3",
+          "id": "200525339",
+          "torque": 181,
+          "rpm": {
+            "horsepower": 5300,
+            "torque": 3200
+          },
+          "horsepower": 161,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      }
+    },
+    "1997": {
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 873
+        },
+        "numOfDoors": "4",
+        "name": "ESi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "17",
+          "highway": "25"
+        },
+        "id": 19,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525363",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.3,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.3",
+          "id": "200525364",
+          "torque": 181,
+          "rpm": {
+            "horsepower": 5300,
+            "torque": 3200
+          },
+          "horsepower": 161,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 873
+        },
+        "numOfDoors": "4",
+        "name": "TSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "24"
+        },
+        "id": 20,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200525376",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.5",
+          "id": "200525377",
+          "torque": 221,
+          "rpm": {
+            "horsepower": 5850,
+            "torque": 3100
+          },
+          "horsepower": 214,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      }
+    },
+    "1995": {
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2422
+        },
+        "numOfDoors": "4",
+        "name": "TSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6627,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200618599",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.5",
+          "id": "200618600",
+          "torque": 221,
+          "rpm": {
+            "horsepower": 5850,
+            "torque": 3100
+          },
+          "horsepower": 214,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2422
+        },
+        "numOfDoors": "4",
+        "name": "ESi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 6626,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200618587",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.3,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.3",
+          "id": "200618588",
+          "torque": 181,
+          "rpm": {
+            "horsepower": 5300,
+            "torque": 3200
+          },
+          "horsepower": 161,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      }
+    },
+    "1996": {
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2423
+        },
+        "numOfDoors": "4",
+        "name": "TSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6614,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200618611",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.5",
+          "id": "200618612",
+          "torque": 221,
+          "rpm": {
+            "horsepower": 5850,
+            "torque": 3100
+          },
+          "horsepower": 214,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.5
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      },
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2423
+        },
+        "numOfDoors": "4",
+        "name": "ESi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "17",
+          "highway": "24"
+        },
+        "id": 6613,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200618625",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "compressionRatio": 8.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.3",
+          "id": "200618626",
+          "torque": 181,
+          "rpm": {
+            "horsepower": 5300,
+            "torque": 3200
+          },
+          "horsepower": 161,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.3
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      }
+    },
+    "1993": {
+      "ESi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2421
+        },
+        "numOfDoors": "4",
+        "name": "ESi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 6561,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200618563",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.3,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.3",
+          "id": "200618564",
+          "torque": 177,
+          "rpm": {
+            "horsepower": 5300,
+            "torque": 2800
+          },
+          "horsepower": 153,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      },
+      "TSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "LARGE_CARS",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2421
+        },
+        "numOfDoors": "4",
+        "name": "TSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "24"
+        },
+        "id": 6562,
+        "make": {
+          "niceName": "eagle",
+          "name": "Eagle",
+          "id": 200347865
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200618575",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "size": 3.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "6VNAG3.5",
+          "id": "200618576",
+          "torque": 221,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 2800
+          },
+          "horsepower": 214,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "vision",
+          "name": "Vision",
+          "id": "Eagle_Vision"
+        },
+        "drivenWheels": "front wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Vision Sedan"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,840 @@
+{
+  "esperante": {
+    "2002": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2002,
+          "id": 100502976
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 88950.0
+        },
+        "manufacturerCode": "PNZESP",
+        "id": 100191788,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200313035",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "code": "8VNAG4.6",
+          "compressorType": "NA",
+          "id": "200313034",
+          "torque": 317,
+          "compressionRatio": 9.8,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4750
+          },
+          "horsepower": 320,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Esperante Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      }
+    },
+    "2003": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2003,
+          "id": 100502977
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 88950.0
+        },
+        "manufacturerCode": "PNZESP",
+        "id": 100187675,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200269989",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "code": "8VNAG4.6",
+          "compressorType": "NA",
+          "id": "200269988",
+          "torque": 317,
+          "compressionRatio": 9.8,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4750
+          },
+          "horsepower": 320,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Esperante Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      }
+    },
+    "2004": {
+      "GTLM": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100504098
+        },
+        "numOfDoors": "2",
+        "name": "GTLM 2dr Coupe (4.6L 8cyl S/C 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 125443.0
+        },
+        "manufacturerCode": "16",
+        "id": 100384922,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200255900",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VSCG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 8.5,
+          "compressorType": "supercharger",
+          "id": "200255899",
+          "torque": 390,
+          "manufacturerEngineCode": "C",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3500
+          },
+          "horsepower": 425,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "gtlm",
+          "body": "Coupe",
+          "tuner": "GTLM",
+          "modelName": "Esperante GTLM"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100504098
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 92962.0
+        },
+        "manufacturerCode": "2",
+        "id": 100384920,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200255888",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VNAG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 9.9,
+          "compressorType": "NA",
+          "id": "200255887",
+          "torque": 317,
+          "manufacturerEngineCode": "A",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4750
+          },
+          "horsepower": 320,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Esperante Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      },
+      "GT": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100504098
+        },
+        "numOfDoors": "2",
+        "name": "GT 2dr Convertible (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 96271.0
+        },
+        "manufacturerCode": "10",
+        "id": 100377834,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200255870",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VNAG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 9.9,
+          "compressorType": "NA",
+          "id": "200255869",
+          "torque": 317,
+          "manufacturerEngineCode": "A",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4750
+          },
+          "horsepower": 320,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Esperante Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      }
+    },
+    "2006": {
+      "GTLM": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100507639
+        },
+        "numOfDoors": "2",
+        "name": "GTLM 2dr Coupe (4.6L 8cyl S/C 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 128319.0
+        },
+        "manufacturerCode": "16",
+        "id": 100704042,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200194951",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VSCG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 8.5,
+          "compressorType": "supercharger",
+          "id": "200194950",
+          "torque": 420,
+          "manufacturerEngineCode": "C",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3500
+          },
+          "horsepower": 420,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "gtlm",
+          "body": "Coupe",
+          "tuner": "GTLM",
+          "modelName": "Esperante GTLM"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100507639
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 98229.0
+        },
+        "manufacturerCode": "2",
+        "id": 100704038,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200194927",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VNAG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 9.9,
+          "compressorType": "NA",
+          "id": "200194926",
+          "torque": 320,
+          "manufacturerEngineCode": "A",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4200
+          },
+          "horsepower": 305,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Esperante Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      },
+      "GT": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100507639
+        },
+        "numOfDoors": "2",
+        "name": "GT 2dr Convertible (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 97360.0
+        },
+        "manufacturerCode": "10",
+        "id": 100704039,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200194933",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VNAG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 9.9,
+          "compressorType": "NA",
+          "id": "200194932",
+          "torque": 320,
+          "manufacturerEngineCode": "A",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4200
+          },
+          "horsepower": 305,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Esperante Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      }
+    },
+    "2005": {
+      "GTLM": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100505445
+        },
+        "numOfDoors": "2",
+        "name": "GTLM 2dr Convertible (4.6L 8cyl S/C 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 121326.0
+        },
+        "manufacturerCode": "15",
+        "id": 100507154,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200230268",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VSCG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 8.5,
+          "compressorType": "supercharger",
+          "id": "200230267",
+          "torque": 390,
+          "manufacturerEngineCode": "C",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 3500
+          },
+          "horsepower": 420,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "gtlm",
+          "body": "Convertible",
+          "tuner": "GTLM",
+          "modelName": "Esperante GTLM"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100505445
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 98229.0
+        },
+        "manufacturerCode": "2",
+        "id": 100507151,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200230250",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VNAG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 9.9,
+          "compressorType": "NA",
+          "id": "200230249",
+          "torque": 320,
+          "manufacturerEngineCode": "A",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4200
+          },
+          "horsepower": 305,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Esperante Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      },
+      "GT": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100505445
+        },
+        "numOfDoors": "2",
+        "name": "GT 2dr Convertible (4.6L 8cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1500.0,
+          "estimateTmv": false,
+          "baseMSRP": 97360.0
+        },
+        "manufacturerCode": "10",
+        "id": 100507152,
+        "make": {
+          "name": "Panoz",
+          "niceName": "panoz",
+          "id": 200194838
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200230256",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "displacement": 4601.0,
+          "code": "8VNAG4.6",
+          "totalValves": 32,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.6,
+          "compressionRatio": 9.9,
+          "compressorType": "NA",
+          "id": "200230255",
+          "torque": 320,
+          "manufacturerEngineCode": "A",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4200
+          },
+          "horsepower": 305,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Esperante Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Esperante",
+          "niceName": "esperante",
+          "id": "Panoz_Esperante"
+        }
+      }
+    }
+  }
+}

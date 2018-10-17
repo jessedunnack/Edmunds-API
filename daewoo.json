@@ -1,0 +1,2216 @@
+{
+  "nubira": {
+    "2002": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100028
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Wagon (2.0L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1375.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 12739.0,
+          "usedTradeIn": 798.0,
+          "usedTmvRetail": 2336.0,
+          "baseMSRP": 13999.0,
+          "deliveryCharges": 495.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "28"
+        },
+        "manufacturerCode": "EWCQ5",
+        "id": 100003578,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200312255",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 136,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "compressorType": "NA",
+          "id": "200312254",
+          "displacement": 2.0,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Nubira Wagon"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100028
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan (2.0L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1221.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 10646.0,
+          "usedTradeIn": 643.0,
+          "usedTmvRetail": 2184.0,
+          "baseMSRP": 11699.0,
+          "deliveryCharges": 495.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "29"
+        },
+        "manufacturerCode": "E4MQ5",
+        "id": 100003575,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200312249",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 136,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "compressorType": "NA",
+          "id": "200312248",
+          "displacement": 2.0,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Nubira Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "2001": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000067
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Wagon (2.0L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1191.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 13071.0,
+          "usedTradeIn": 591.0,
+          "usedTmvRetail": 2191.0,
+          "baseMSRP": 15199.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "29"
+        },
+        "manufacturerCode": "EWCQ5",
+        "id": 100000755,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200340147",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 136,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "compressorType": "NA",
+          "id": "200340146",
+          "displacement": 2.0,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Nubira Wagon"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000067
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan (2.0L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 10061.0,
+          "usedTradeIn": 500.0,
+          "usedTmvRetail": 2000.0,
+          "baseMSRP": 11699.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "29"
+        },
+        "manufacturerCode": "E4MQ5",
+        "id": 100000758,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200340153",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 136,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "compressorType": "NA",
+          "id": "200340152",
+          "displacement": 2.0,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Nubira Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "2000": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "SMALL_STATION_WAGONS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 2000,
+          "id": 956
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Wagon",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "28"
+        },
+        "id": 17419,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200529374",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "id": "200529376",
+          "torque": 136,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Nubira Wagon"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 2000,
+          "id": 956
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "28"
+        },
+        "id": 711,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200529385",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "id": "200529387",
+          "torque": 136,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Nubira Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "1999": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 1999,
+          "id": 493
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "28"
+        },
+        "id": 8714,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200504589",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "id": "200504591",
+          "torque": 136,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Nubira Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "SMALL_STATION_WAGONS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Nubira",
+          "niceName": "nubira",
+          "id": "Daewoo_Nubira"
+        },
+        "year": {
+          "year": 1999,
+          "id": 493
+        },
+        "numOfDoors": "4",
+        "name": "SX 4dr Wagon",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "28"
+        },
+        "id": 8712,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200504599",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4INAG2.0",
+          "id": "200504601",
+          "torque": 136,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 4400
+          },
+          "horsepower": 129,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "Nubira Wagon"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    }
+  },
+  "leganza": {
+    "2002": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100029
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Sedan (2.2L 4cyl 4A)",
+        "price": {
+          "usedPrivateParty": 1458.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 16739.0,
+          "usedTradeIn": 840.0,
+          "usedTmvRetail": 2489.0,
+          "baseMSRP": 18599.0,
+          "deliveryCharges": 495.0
+        },
+        "MPG": {
+          "city": "17",
+          "highway": "25"
+        },
+        "manufacturerCode": "F4CR4",
+        "id": 100003577,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200312287",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 148,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "compressorType": "NA",
+          "id": "200312286",
+          "displacement": 2198.0,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100029
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan (2.2L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1217.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 13139.0,
+          "usedTradeIn": 598.0,
+          "usedTmvRetail": 2248.0,
+          "baseMSRP": 14599.0,
+          "deliveryCharges": 495.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "manufacturerCode": "F4MR5",
+        "id": 100003576,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200312281",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 148,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "compressorType": "NA",
+          "id": "200312280",
+          "displacement": 2198.0,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "2001": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000066
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Sedan (2.2L 4cyl 4A)",
+        "price": {
+          "usedPrivateParty": 1213.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 16319.0,
+          "usedTradeIn": 574.0,
+          "usedTmvRetail": 2279.0,
+          "baseMSRP": 19199.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "17",
+          "highway": "25"
+        },
+        "manufacturerCode": "F4CR4",
+        "id": 100000749,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200323942",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 148,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "compressorType": "NA",
+          "id": "200323941",
+          "displacement": 2198.0,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000066
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan (2.2L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 12239.0,
+          "usedTradeIn": 500.0,
+          "usedTmvRetail": 2000.0,
+          "baseMSRP": 14399.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "manufacturerCode": "F4MR5",
+        "id": 100000751,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200323954",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 148,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "compressorType": "NA",
+          "id": "200323953",
+          "displacement": 2198.0,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000066
+        },
+        "numOfDoors": "4",
+        "name": "SX 4dr Sedan (2.2L 4cyl 4A)",
+        "price": {
+          "usedPrivateParty": 1079.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 15044.0,
+          "usedTradeIn": 500.0,
+          "usedTmvRetail": 2043.0,
+          "baseMSRP": 17699.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "17",
+          "highway": "25"
+        },
+        "manufacturerCode": "F4XR4",
+        "id": 100000752,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200323960",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 148,
+          "totalValves": 16,
+          "compressionRatio": 9.6,
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "compressorType": "NA",
+          "id": "200323959",
+          "displacement": 2198.0,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "2000": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "MIDSIZE_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2000,
+          "id": 1097
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1107.0,
+          "usedTmvRetail": 2120.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 6509,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200538523",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "id": "200538524",
+          "torque": 148,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "MIDSIZE_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2000,
+          "id": 1097
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "27"
+        },
+        "id": 6507,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200538543",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "id": "200538545",
+          "torque": 148,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "MIDSIZE_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 2000,
+          "id": 1097
+        },
+        "numOfDoors": "4",
+        "name": "SX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 6508,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200538533",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "id": "200538534",
+          "torque": 148,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "1999": {
+      "CDX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "MIDSIZE_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 1999,
+          "id": 1227
+        },
+        "numOfDoors": "4",
+        "name": "CDX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 8709,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200547193",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "id": "200547194",
+          "torque": 148,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "MIDSIZE_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 1999,
+          "id": 1227
+        },
+        "numOfDoors": "4",
+        "name": "SE 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "27"
+        },
+        "id": 8707,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200547201",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "id": "200547203",
+          "torque": 148,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "MIDSIZE_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Leganza",
+          "niceName": "leganza",
+          "id": "Daewoo_Leganza"
+        },
+        "year": {
+          "year": 1999,
+          "id": 1227
+        },
+        "numOfDoors": "4",
+        "name": "SX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "18",
+          "highway": "26"
+        },
+        "id": 8708,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200547184",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.2,
+          "code": "4INAG2.2",
+          "id": "200547185",
+          "torque": 148,
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 2800
+          },
+          "horsepower": 131,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Leganza Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    }
+  },
+  "lanos": {
+    "2002": {
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100027
+        },
+        "numOfDoors": "4",
+        "name": "S 4dr Sedan (1.6L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1088.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 9392.0,
+          "usedTradeIn": 500.0,
+          "usedTmvRetail": 2068.0,
+          "baseMSRP": 10099.0,
+          "deliveryCharges": 495.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "32"
+        },
+        "manufacturerCode": "D4LS5",
+        "id": 100003572,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200312216",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 106,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "compressorType": "NA",
+          "id": "200312215",
+          "displacement": 1598.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Lanos Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "Sport": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100027
+        },
+        "numOfDoors": "2",
+        "name": "Sport 2dr Hatchback (1.6L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1242.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 12089.0,
+          "usedTradeIn": 640.0,
+          "usedTmvRetail": 2244.0,
+          "baseMSRP": 12999.0,
+          "deliveryCharges": 495.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "32"
+        },
+        "manufacturerCode": "D3MS5",
+        "id": 100003573,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200312222",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 106,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "compressorType": "NA",
+          "id": "200312221",
+          "displacement": 1598.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Lanos Hatchback"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "2001": {
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000065
+        },
+        "numOfDoors": "4",
+        "name": "S 4dr Sedan (1.6L 4cyl 4A)",
+        "price": {
+          "usedPrivateParty": 1077.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 9482.0,
+          "usedTradeIn": 500.0,
+          "usedTmvRetail": 2037.0,
+          "baseMSRP": 10899.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "30"
+        },
+        "manufacturerCode": "D4LS5",
+        "id": 100000746,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200323906",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 106,
+          "totalValves": 16,
+          "compressionRatio": 9.5,
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "compressorType": "NA",
+          "id": "200323905",
+          "displacement": 1598.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Lanos Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "Sport": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000065
+        },
+        "numOfDoors": "2",
+        "name": "Sport 2dr Hatchback (1.6L 4cyl 5M)",
+        "price": {
+          "usedPrivateParty": 1126.0,
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "baseInvoice": 11309.0,
+          "usedTradeIn": 507.0,
+          "usedTmvRetail": 2156.0,
+          "baseMSRP": 12999.0,
+          "deliveryCharges": 460.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "32"
+        },
+        "manufacturerCode": "D3MS5",
+        "id": 100000748,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200323918",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "torque": 106,
+          "totalValves": 16,
+          "compressionRatio": 9.5,
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "compressorType": "NA",
+          "id": "200323917",
+          "displacement": 1598.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE",
+          "type": "gas"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Lanos Hatchback"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "2000": {
+      "SX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2000,
+          "id": 955
+        },
+        "numOfDoors": "4",
+        "name": "SX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "33"
+        },
+        "id": 709,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200529353",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200529355",
+          "torque": 106,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Lanos Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2000,
+          "id": 955
+        },
+        "numOfDoors": "2",
+        "name": "S 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "33"
+        },
+        "id": 18,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200529323",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200529325",
+          "torque": 106,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Lanos Hatchback"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 2000,
+          "id": 955
+        },
+        "numOfDoors": "2",
+        "name": "SE 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "33"
+        },
+        "id": 705,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200529333",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200529335",
+          "torque": 106,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Lanos Hatchback"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    },
+    "1999": {
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 1999,
+          "id": 1226
+        },
+        "numOfDoors": "4",
+        "name": "S 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "33"
+        },
+        "id": 8703,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200547140",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200547142",
+          "torque": 106,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Lanos Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 1999,
+          "id": 1226
+        },
+        "numOfDoors": "2",
+        "name": "SE 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "33"
+        },
+        "id": 8704,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200547157",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200547159",
+          "torque": 106,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Lanos Hatchback"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      },
+      "SX": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "COMPACT_CARS",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "name": "Lanos",
+          "niceName": "lanos",
+          "id": "Daewoo_Lanos"
+        },
+        "year": {
+          "year": 1999,
+          "id": 1226
+        },
+        "numOfDoors": "4",
+        "name": "SX 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "33"
+        },
+        "id": 8706,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200547149",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200547151",
+          "torque": 106,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 3400
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Lanos Sedan"
+        },
+        "make": {
+          "name": "Daewoo",
+          "niceName": "daewoo",
+          "id": 200312185
+        }
+      }
+    }
+  }
+}

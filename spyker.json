@@ -1,0 +1,231 @@
+{
+  "c8": {
+    "2009": {
+      "Aileron": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100528189
+        },
+        "numOfDoors": "2",
+        "name": "Aileron 2dr Coupe (4.2L 8cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 219990.0
+        },
+        "id": 101169540,
+        "make": {
+          "name": "Spyker",
+          "niceName": "spyker",
+          "id": 200046567
+        },
+        "transmission": {
+          "id": "200046708",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "torque": 354,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.2,
+          "code": "8VNAG4.2",
+          "compressorType": "NA",
+          "id": "200046707",
+          "displacement": 4172.0,
+          "rpm": {
+            "torque": 3500
+          },
+          "horsepower": 400,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "C8 Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "C8",
+          "niceName": "c8",
+          "id": "Spyker_C8"
+        }
+      },
+      "Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100528189
+        },
+        "numOfDoors": "2",
+        "name": "Spyder 2dr Convertible (4.2L 8cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 219990.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "18"
+        },
+        "id": 101169538,
+        "make": {
+          "name": "Spyker",
+          "niceName": "spyker",
+          "id": 200046567
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200046718",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "torque": 354,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.2,
+          "code": "8VNAG4.2",
+          "compressorType": "NA",
+          "id": "200046717",
+          "displacement": 4172.0,
+          "rpm": {
+            "torque": 3500
+          },
+          "horsepower": 400,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "C8 Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "C8",
+          "niceName": "c8",
+          "id": "Spyker_C8"
+        }
+      },
+      "Laviolette": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100528189
+        },
+        "numOfDoors": "2",
+        "name": "Laviolette 2dr Coupe (4.2L 8cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 209990.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "18"
+        },
+        "id": 101169537,
+        "make": {
+          "name": "Spyker",
+          "niceName": "spyker",
+          "id": 200046567
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200046713",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "configuration": "V",
+          "torque": 354,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 4.2,
+          "code": "8VNAG4.2",
+          "compressorType": "NA",
+          "id": "200046712",
+          "displacement": 4172.0,
+          "rpm": {
+            "torque": 3500
+          },
+          "horsepower": 400,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "C8 Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "C8",
+          "niceName": "c8",
+          "id": "Spyker_C8"
+        }
+      }
+    }
+  }
+}

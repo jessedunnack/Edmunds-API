@@ -1,0 +1,6906 @@
+{
+  "500": {
+    "2017": {
+      "C Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401654792
+        },
+        "price": {
+          "baseInvoice": 17293.0,
+          "baseMSRP": 17485.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Pop 2dr Convertible (1.4L 4cyl 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "FFFS27",
+        "id": 401654801,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401654959",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401654963",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401654792
+        },
+        "price": {
+          "baseInvoice": 19620.0,
+          "baseMSRP": 19995.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Abarth 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "33"
+        },
+        "manufacturerCode": "FFFX24",
+        "id": 401654804,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401654960",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401654962",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "abarth",
+          "tuner": "Abarth",
+          "modelName": "500 Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401654792
+        },
+        "price": {
+          "baseInvoice": 19029.0,
+          "baseMSRP": 19390.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Lounge 2dr Hatchback (1.4L 4cyl 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 401654802,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401654959",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401654963",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401654792
+        },
+        "price": {
+          "baseInvoice": 15850.0,
+          "baseMSRP": 15990.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Pop 2dr Hatchback (1.4L 4cyl 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "FFFS24",
+        "id": 401654800,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401654959",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401654963",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401654792
+        },
+        "price": {
+          "baseInvoice": 20472.0,
+          "baseMSRP": 20885.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Lounge 2dr Convertible (1.4L 4cyl 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "FFFP27",
+        "id": 401654803,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401654959",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401654963",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401654792
+        },
+        "price": {
+          "baseInvoice": 21063.0,
+          "baseMSRP": 21490.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Abarth 2dr Convertible (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "33"
+        },
+        "manufacturerCode": "FFFX27",
+        "id": 401654805,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401654960",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401654962",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "c-abarth",
+          "tuner": "C Abarth",
+          "modelName": "500 C Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      }
+    },
+    "2013": {
+      "C Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 6298.0,
+          "estimateTmv": false,
+          "baseInvoice": 19126.0,
+          "usedPrivateParty": 7642.0,
+          "usedTmvRetail": 8834.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 19695.0
+        },
+        "name": "C Pop 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL27",
+        "id": 200440782,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L 16V MultiAir Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200440896",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "t Turbo": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 6145.0,
+          "estimateTmv": false,
+          "baseInvoice": 18820.0,
+          "usedPrivateParty": 7485.0,
+          "usedTmvRetail": 8674.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 19500.0
+        },
+        "name": "t Turbo 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFT24",
+        "id": 200440786,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 150,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L 16V MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200440898",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 7162.0,
+          "estimateTmv": false,
+          "baseInvoice": 21233.0,
+          "usedPrivateParty": 8525.0,
+          "usedTmvRetail": 9734.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 22095.0
+        },
+        "name": "Abarth 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX24",
+        "id": 200440780,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200440897",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "abarth",
+          "tuner": "Abarth",
+          "modelName": "500 Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 5657.0,
+          "estimateTmv": false,
+          "baseInvoice": 17890.0,
+          "usedPrivateParty": 6985.0,
+          "usedTmvRetail": 8162.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 18500.0
+        },
+        "name": "Lounge 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 200440783,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L 16V MultiAir Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200440896",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 4940.0,
+          "estimateTmv": false,
+          "baseInvoice": 15746.0,
+          "usedPrivateParty": 6242.0,
+          "usedTmvRetail": 7396.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 16195.0
+        },
+        "name": "Pop 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL24",
+        "id": 200440784,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L 16V MultiAir Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200440896",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 7353.0,
+          "estimateTmv": false,
+          "baseInvoice": 21735.0,
+          "usedPrivateParty": 8725.0,
+          "usedTmvRetail": 9941.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 22500.0
+        },
+        "name": "C Lounge 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP27",
+        "id": 200440781,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L 16V MultiAir Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200440896",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 8645.0,
+          "estimateTmv": false,
+          "baseInvoice": 25078.0,
+          "usedPrivateParty": 10044.0,
+          "usedTmvRetail": 11284.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 26095.0
+        },
+        "name": "C Abarth 2dr Convertible (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX27",
+        "id": 200460943,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200440897",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "c-abarth",
+          "tuner": "C Abarth",
+          "modelName": "500 C Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Sport": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200440779
+        },
+        "price": {
+          "usedTradeIn": 5296.0,
+          "estimateTmv": false,
+          "baseInvoice": 16960.0,
+          "usedPrivateParty": 6611.0,
+          "usedTmvRetail": 7777.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 17500.0
+        },
+        "name": "Sport 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFH24",
+        "id": 200440785,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200441087",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L 16V MultiAir Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200440896",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      }
+    },
+    "2015": {
+      "C Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 9020.0,
+          "estimateTmv": false,
+          "baseInvoice": 19983.0,
+          "usedPrivateParty": 10472.0,
+          "usedTmvRetail": 11568.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 20345.0
+        },
+        "name": "C Pop 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFL27",
+        "id": 200700821,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 10298.0,
+          "estimateTmv": false,
+          "baseInvoice": 21908.0,
+          "usedPrivateParty": 11888.0,
+          "usedTmvRetail": 13087.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 22495.0
+        },
+        "name": "Abarth 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX24",
+        "id": 200700813,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200700822",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "abarth",
+          "tuner": "Abarth",
+          "modelName": "500 Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 8139.0,
+          "estimateTmv": false,
+          "baseInvoice": 18360.0,
+          "usedPrivateParty": 9561.0,
+          "usedTmvRetail": 10633.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 18700.0
+        },
+        "name": "Lounge 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 200700815,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "1957 Edition": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 8495.0,
+          "estimateTmv": false,
+          "baseInvoice": 19809.0,
+          "usedPrivateParty": 9933.0,
+          "usedTmvRetail": 11018.0,
+          "deliveryCharges": 850.0,
+          "baseMSRP": 20400.0
+        },
+        "name": "1957 Edition 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 200700840,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Ribelle": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 7541.0,
+          "estimateTmv": false,
+          "baseInvoice": 17131.0,
+          "usedPrivateParty": 8941.0,
+          "usedTmvRetail": 9997.0,
+          "deliveryCharges": 900.0,
+          "baseMSRP": 17495.0
+        },
+        "name": "Ribelle 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL24",
+        "id": 200721753,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 7202.0,
+          "estimateTmv": false,
+          "baseInvoice": 16625.0,
+          "usedPrivateParty": 8592.0,
+          "usedTmvRetail": 9641.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 16845.0
+        },
+        "name": "Pop 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL24",
+        "id": 200700817,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 10491.0,
+          "estimateTmv": false,
+          "baseInvoice": 22278.0,
+          "usedPrivateParty": 11975.0,
+          "usedTmvRetail": 13095.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 22800.0
+        },
+        "name": "C Lounge 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFP27",
+        "id": 200700819,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Turbo": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 8795.0,
+          "estimateTmv": false,
+          "baseInvoice": 19295.0,
+          "usedPrivateParty": 10231.0,
+          "usedTmvRetail": 11315.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 19700.0
+        },
+        "name": "Turbo 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFT24",
+        "id": 200700814,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 150,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200700823",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 12173.0,
+          "estimateTmv": false,
+          "baseInvoice": 25826.0,
+          "usedPrivateParty": 13691.0,
+          "usedTmvRetail": 14836.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 26595.0
+        },
+        "name": "C Abarth 2dr Convertible (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX27",
+        "id": 200700818,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200700822",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "c-abarth",
+          "tuner": "C Abarth",
+          "modelName": "500 C Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C 1957 Edition": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 11227.0,
+          "estimateTmv": false,
+          "baseInvoice": 24007.0,
+          "usedPrivateParty": 12727.0,
+          "usedTmvRetail": 13858.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 24700.0
+        },
+        "name": "C 1957 Edition 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFP27",
+        "id": 200733043,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Sport": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700812
+        },
+        "price": {
+          "usedTradeIn": 7683.0,
+          "estimateTmv": false,
+          "baseInvoice": 17425.0,
+          "usedPrivateParty": 9092.0,
+          "usedTmvRetail": 10155.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 17700.0
+        },
+        "name": "Sport 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFH24",
+        "id": 200700816,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200700826",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200700824",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      }
+    },
+    "2012": {
+      "C Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2012,
+          "id": 100532699
+        },
+        "price": {
+          "usedTradeIn": 4700.0,
+          "estimateTmv": false,
+          "baseInvoice": 18775.0,
+          "usedPrivateParty": 6118.0,
+          "usedTmvRetail": 7426.0,
+          "deliveryCharges": 700.0,
+          "baseMSRP": 19500.0
+        },
+        "name": "C Pop 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "30",
+          "highway": "38"
+        },
+        "manufacturerCode": "FFFL27/21A",
+        "id": 101385814,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200373807",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200373806",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2012,
+          "id": 100532699
+        },
+        "price": {
+          "usedTradeIn": 5481.0,
+          "estimateTmv": false,
+          "baseInvoice": 21035.0,
+          "usedPrivateParty": 6922.0,
+          "usedTmvRetail": 8253.0,
+          "deliveryCharges": 700.0,
+          "baseMSRP": 22000.0
+        },
+        "name": "Abarth 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX24/25X",
+        "id": 101419483,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200410875",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200410874",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "abarth",
+          "tuner": "Abarth",
+          "modelName": "500 Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2012,
+          "id": 100532699
+        },
+        "price": {
+          "usedTradeIn": 4523.0,
+          "estimateTmv": false,
+          "baseInvoice": 17780.0,
+          "usedPrivateParty": 5931.0,
+          "usedTmvRetail": 7230.0,
+          "deliveryCharges": 700.0,
+          "baseMSRP": 18500.0
+        },
+        "name": "Lounge 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFP24/21J",
+        "id": 101356430,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200410875",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200351795",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2012,
+          "id": 100532699
+        },
+        "price": {
+          "usedTradeIn": 3970.0,
+          "estimateTmv": false,
+          "baseInvoice": 14990.0,
+          "usedPrivateParty": 5352.0,
+          "usedTmvRetail": 6628.0,
+          "deliveryCharges": 700.0,
+          "baseMSRP": 15500.0
+        },
+        "name": "Pop 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "30",
+          "highway": "38"
+        },
+        "manufacturerCode": "FFFL24/21A",
+        "id": 101235876,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200033025",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200033024",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2012,
+          "id": 100532699
+        },
+        "price": {
+          "usedTradeIn": 5765.0,
+          "estimateTmv": false,
+          "baseInvoice": 21565.0,
+          "usedPrivateParty": 7219.0,
+          "usedTmvRetail": 8562.0,
+          "deliveryCharges": 700.0,
+          "baseMSRP": 22500.0
+        },
+        "name": "C Lounge 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "32"
+        },
+        "manufacturerCode": "FFFP27/21J",
+        "id": 101385815,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200410875",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200373811",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Sport": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2012,
+          "id": 100532699
+        },
+        "price": {
+          "usedTradeIn": 4322.0,
+          "estimateTmv": false,
+          "baseInvoice": 16850.0,
+          "usedPrivateParty": 5719.0,
+          "usedTmvRetail": 7009.0,
+          "deliveryCharges": 700.0,
+          "baseMSRP": 17500.0
+        },
+        "name": "Sport 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "30",
+          "highway": "38"
+        },
+        "manufacturerCode": "FFFH24/21D",
+        "id": 101348476,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200344193",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200344192",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      }
+    },
+    "2014": {
+      "C Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 8033.0,
+          "estimateTmv": false,
+          "baseInvoice": 19151.0,
+          "usedPrivateParty": 9407.0,
+          "usedTmvRetail": 10531.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 19695.0
+        },
+        "name": "C Pop 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFL27",
+        "id": 200493800,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200494037",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 9135.0,
+          "estimateTmv": false,
+          "baseInvoice": 21381.0,
+          "usedPrivateParty": 10522.0,
+          "usedTmvRetail": 11657.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 22195.0
+        },
+        "name": "Abarth 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX24",
+        "id": 200493799,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200494038",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "abarth",
+          "tuner": "Abarth",
+          "modelName": "500 Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 7479.0,
+          "estimateTmv": false,
+          "baseInvoice": 17945.0,
+          "usedPrivateParty": 8833.0,
+          "usedTmvRetail": 9941.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 18500.0
+        },
+        "name": "Lounge 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 200493797,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200494037",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "GQ Edition": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 10787.0,
+          "estimateTmv": false,
+          "baseInvoice": 25196.0,
+          "usedPrivateParty": 12216.0,
+          "usedTmvRetail": 13385.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 26195.0
+        },
+        "name": "GQ Edition 2dr Convertible (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX27",
+        "id": 200674223,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200494038",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 6313.0,
+          "estimateTmv": false,
+          "baseInvoice": 15801.0,
+          "usedPrivateParty": 7641.0,
+          "usedTmvRetail": 8727.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 16195.0
+        },
+        "name": "Pop 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL24",
+        "id": 200493795,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200494037",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 9424.0,
+          "estimateTmv": false,
+          "baseInvoice": 21760.0,
+          "usedPrivateParty": 10827.0,
+          "usedTmvRetail": 11974.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 22500.0
+        },
+        "name": "C Lounge 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFP27",
+        "id": 200493801,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200494037",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Turbo": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 7966.0,
+          "estimateTmv": false,
+          "baseInvoice": 18875.0,
+          "usedPrivateParty": 9333.0,
+          "usedTmvRetail": 10452.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 19500.0
+        },
+        "name": "Turbo 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFT24",
+        "id": 200493798,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 150,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200494036",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 11426.0,
+          "estimateTmv": false,
+          "baseInvoice": 25196.0,
+          "usedPrivateParty": 12863.0,
+          "usedTmvRetail": 14038.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 26195.0
+        },
+        "name": "C Abarth 2dr Convertible (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX27",
+        "id": 200493802,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200494038",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "c-abarth",
+          "tuner": "C Abarth",
+          "modelName": "500 C Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Sport": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200493793
+        },
+        "price": {
+          "usedTradeIn": 6576.0,
+          "estimateTmv": false,
+          "baseInvoice": 17015.0,
+          "usedPrivateParty": 7914.0,
+          "usedTmvRetail": 9008.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 17500.0
+        },
+        "name": "Sport 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFH24",
+        "id": 200493796,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "200494035",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200494037",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      }
+    },
+    "2016": {
+      "Retro": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 20763.0,
+          "baseMSRP": 21295.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Retro 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 401572434,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 21983.0,
+          "baseMSRP": 22575.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Abarth 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX24",
+        "id": 401572436,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401572294",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "body": "Hatchback",
+          "niceName": "abarth",
+          "tuner": "Abarth",
+          "modelName": "500 Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 19944.0,
+          "baseMSRP": 20395.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Lounge 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP24",
+        "id": 401572299,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Sport": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 17612.0,
+          "baseMSRP": 17900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Sport 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFH24",
+        "id": 401572298,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 20039.0,
+          "baseMSRP": 20395.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Pop 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL27",
+        "id": 401572437,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Pop": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 16765.0,
+          "baseMSRP": 16995.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Pop 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFL24",
+        "id": 401572291,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Lounge": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 23873.0,
+          "baseMSRP": 24495.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Lounge 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFP27",
+        "id": 401572439,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Turbo": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 19295.0,
+          "baseMSRP": 19700.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Turbo 2dr Hatchback (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFT24",
+        "id": 401572435,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 150,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401572293",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 135,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "Easy": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 17467.0,
+          "baseMSRP": 17745.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Easy 2dr Hatchback (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFS24",
+        "id": 401572297,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500 Hatchback"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Easy": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 20974.0,
+          "baseMSRP": 21395.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Easy 2dr Convertible (1.4L 4cyl 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "31",
+          "highway": "40"
+        },
+        "manufacturerCode": "FFFS27",
+        "id": 401572438,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 98,
+          "totalValves": 16,
+          "compressionRatio": 10.8,
+          "name": "1.4L I4 MultiAir 16V Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401572292",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAB",
+          "rpm": {
+            "horsepower": 6500,
+            "torque": 4000
+          },
+          "horsepower": 101,
+          "configuration": "inline",
+          "code": "4INAG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "500 Convertible"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      },
+      "C Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401572290
+        },
+        "price": {
+          "baseInvoice": 25930.0,
+          "baseMSRP": 26695.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "C Abarth 2dr Convertible (1.4L 4cyl Turbo 5M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Factory Tuner,Performance"
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "34"
+        },
+        "manufacturerCode": "FFFX27",
+        "id": 401572885,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "5M",
+          "id": "401572295",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 170,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 16V MultiAir Turbo Engine (Abarth)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401572294",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAF",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "c-abarth",
+          "tuner": "C Abarth",
+          "modelName": "500 C Abarth"
+        },
+        "model": {
+          "name": "500",
+          "niceName": "500",
+          "id": "FIAT_500"
+        }
+      }
+    }
+  },
+  "124-spider": {
+    "2017": {
+      "Classica": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 200742453
+        },
+        "price": {
+          "baseInvoice": 24436.0,
+          "baseMSRP": 24995.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Classica 2dr Convertible (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Performance"
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "35"
+        },
+        "manufacturerCode": "BAFH27",
+        "id": 200742455,
+        "drivenWheels": "rear wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401644017",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200742454",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "124 Spider Convertible"
+        },
+        "model": {
+          "name": "124 Spider",
+          "niceName": "124-spider",
+          "id": "FIAT_124_Spider"
+        }
+      },
+      "Abarth": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 200742453
+        },
+        "price": {
+          "baseInvoice": 27428.0,
+          "baseMSRP": 28195.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Abarth 2dr Convertible (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Performance"
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "35"
+        },
+        "manufacturerCode": "BAFX27",
+        "id": 401643914,
+        "drivenWheels": "rear wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401644017",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200742454",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "124 Spider Convertible"
+        },
+        "model": {
+          "name": "124 Spider",
+          "niceName": "124-spider",
+          "id": "FIAT_124_Spider"
+        }
+      },
+      "Lusso": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 200742453
+        },
+        "price": {
+          "baseInvoice": 26773.0,
+          "baseMSRP": 27495.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Lusso 2dr Convertible (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Performance"
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "35"
+        },
+        "manufacturerCode": "BAFS27",
+        "id": 401643913,
+        "drivenWheels": "rear wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401644017",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200742454",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "124 Spider Convertible"
+        },
+        "model": {
+          "name": "124 Spider",
+          "niceName": "124-spider",
+          "id": "FIAT_124_Spider"
+        }
+      }
+    }
+  },
+  "500x": {
+    "2017": {
+      "Pop": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 401665073
+        },
+        "price": {
+          "baseInvoice": 19895.0,
+          "baseMSRP": 19995.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Pop 4dr SUV (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "FBFL49",
+        "id": 401665091,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401665105",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401665104",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 401665073
+        },
+        "price": {
+          "baseInvoice": 24335.0,
+          "baseMSRP": 25135.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Lounge 4dr SUV (2.4L 4cyl 9A)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "FBFP49",
+        "id": 401665090,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "9A",
+          "id": "401665106",
+          "numberOfSpeeds": "9",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 175,
+          "totalValves": 16,
+          "compressionRatio": 10.1,
+          "name": "2.4L I4 MultiAir Engine",
+          "size": 2.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401665108",
+          "displacement": 2360.0,
+          "manufacturerEngineCode": "ED6",
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 3900
+          },
+          "horsepower": 180,
+          "configuration": "inline",
+          "code": "4INAG2.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      },
+      "Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 401665073
+        },
+        "price": {
+          "baseInvoice": 24478.0,
+          "baseMSRP": 25235.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Trekking 4dr SUV AWD (2.4L 4cyl 9A)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "manufacturerCode": "FBGM49",
+        "id": 401665087,
+        "drivenWheels": "all wheel drive",
+        "transmission": {
+          "name": "9A",
+          "id": "401665106",
+          "numberOfSpeeds": "9",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 175,
+          "totalValves": 16,
+          "compressionRatio": 10.1,
+          "name": "2.4L I4 MultiAir Engine",
+          "size": 2.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "401665108",
+          "displacement": 2360.0,
+          "manufacturerEngineCode": "ED6",
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 3900
+          },
+          "horsepower": 180,
+          "configuration": "inline",
+          "code": "4INAG2.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      }
+    },
+    "2016": {
+      "Pop": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 200721405
+        },
+        "price": {
+          "usedTradeIn": 11535.0,
+          "estimateTmv": false,
+          "baseInvoice": 19895.0,
+          "usedPrivateParty": 13202.0,
+          "usedTmvRetail": 14460.0,
+          "deliveryCharges": 995.0,
+          "baseMSRP": 20000.0
+        },
+        "name": "Pop 4dr SUV (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "34"
+        },
+        "manufacturerCode": "FBFL49",
+        "id": 200721407,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200732727",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 MultiAir Turbo Engine",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200721406",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      },
+      "Trekking Plus": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 200721405
+        },
+        "price": {
+          "usedTradeIn": 16886.0,
+          "estimateTmv": false,
+          "baseInvoice": 28194.0,
+          "usedPrivateParty": 18580.0,
+          "usedTmvRetail": 19858.0,
+          "deliveryCharges": 995.0,
+          "baseMSRP": 29235.0
+        },
+        "name": "Trekking Plus 4dr SUV AWD (2.4L 4cyl 9A)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "30"
+        },
+        "manufacturerCode": "FBGT49",
+        "id": 200732658,
+        "drivenWheels": "all wheel drive",
+        "transmission": {
+          "name": "9A",
+          "id": "200732728",
+          "numberOfSpeeds": "9",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 175,
+          "totalValves": 16,
+          "compressionRatio": 10.1,
+          "name": "2.4L I4 MultiAir Engine",
+          "size": 2.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200732726",
+          "displacement": 2360.0,
+          "manufacturerEngineCode": "ED6",
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 3900
+          },
+          "horsepower": 180,
+          "configuration": "inline",
+          "code": "4INAG2.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 200721405
+        },
+        "price": {
+          "usedTradeIn": 14415.0,
+          "estimateTmv": false,
+          "baseInvoice": 24331.0,
+          "usedPrivateParty": 16096.0,
+          "usedTmvRetail": 17364.0,
+          "deliveryCharges": 995.0,
+          "baseMSRP": 25135.0
+        },
+        "name": "Lounge 4dr SUV (2.4L 4cyl 9A)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "31"
+        },
+        "manufacturerCode": "FBFP49",
+        "id": 200732653,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "9A",
+          "id": "200732728",
+          "numberOfSpeeds": "9",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 175,
+          "totalValves": 16,
+          "compressionRatio": 10.1,
+          "name": "2.4L I4 MultiAir Engine",
+          "size": 2.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200732726",
+          "displacement": 2360.0,
+          "manufacturerEngineCode": "ED6",
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 3900
+          },
+          "horsepower": 180,
+          "configuration": "inline",
+          "code": "4INAG2.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      },
+      "Easy": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 200721405
+        },
+        "price": {
+          "usedTradeIn": 14035.0,
+          "estimateTmv": false,
+          "baseInvoice": 23916.0,
+          "usedPrivateParty": 15712.0,
+          "usedTmvRetail": 16977.0,
+          "deliveryCharges": 995.0,
+          "baseMSRP": 24635.0
+        },
+        "name": "Easy 4dr SUV AWD (2.4L 4cyl 9A)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "30"
+        },
+        "manufacturerCode": "FBGH49",
+        "id": 200732655,
+        "drivenWheels": "all wheel drive",
+        "transmission": {
+          "name": "9A",
+          "id": "200732728",
+          "numberOfSpeeds": "9",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 175,
+          "totalValves": 16,
+          "compressionRatio": 10.1,
+          "name": "2.4L I4 MultiAir Engine",
+          "size": 2.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200732726",
+          "displacement": 2360.0,
+          "manufacturerEngineCode": "ED6",
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 3900
+          },
+          "horsepower": 180,
+          "configuration": "inline",
+          "code": "4INAG2.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      },
+      "Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 200721405
+        },
+        "price": {
+          "usedTradeIn": 13539.0,
+          "estimateTmv": false,
+          "baseInvoice": 22657.0,
+          "usedPrivateParty": 15213.0,
+          "usedTmvRetail": 16476.0,
+          "deliveryCharges": 995.0,
+          "baseMSRP": 23335.0
+        },
+        "name": "Trekking 4dr SUV (2.4L 4cyl 9A)",
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "31"
+        },
+        "manufacturerCode": "FBFM49",
+        "id": 200732652,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "9A",
+          "id": "200732728",
+          "numberOfSpeeds": "9",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 175,
+          "totalValves": 16,
+          "compressionRatio": 10.1,
+          "name": "2.4L I4 MultiAir Engine",
+          "size": 2.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "NA",
+          "id": "200732726",
+          "displacement": 2360.0,
+          "manufacturerEngineCode": "ED6",
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 3900
+          },
+          "horsepower": 180,
+          "configuration": "inline",
+          "code": "4INAG2.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "500X SUV"
+        },
+        "model": {
+          "name": "500X",
+          "niceName": "500x",
+          "id": "FIAT_500X"
+        }
+      }
+    }
+  },
+  "500l": {
+    "2017": {
+      "Pop": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 401660159
+        },
+        "price": {
+          "baseInvoice": 20576.0,
+          "baseMSRP": 20995.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Pop 4dr Wagon (1.4L 4cyl Turbo 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "BFFH44",
+        "id": 401660165,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401660168",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401660222",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 401660159
+        },
+        "price": {
+          "baseInvoice": 23100.0,
+          "baseMSRP": 23695.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Lounge 4dr Wagon (1.4L 4cyl Turbo 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "BFFP44",
+        "id": 401660167,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401660168",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401660222",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 401660159
+        },
+        "price": {
+          "baseInvoice": 22446.0,
+          "baseMSRP": 22995.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Trekking 4dr Wagon (1.4L 4cyl Turbo 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "BFFM44",
+        "id": 401660166,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "id": "401660168",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401660222",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      }
+    },
+    "2015": {
+      "Pop": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2015,
+          "id": 200724260
+        },
+        "price": {
+          "usedTradeIn": 9584.0,
+          "estimateTmv": false,
+          "baseInvoice": 19282.0,
+          "usedPrivateParty": 11161.0,
+          "usedTmvRetail": 12350.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 19345.0
+        },
+        "name": "Pop 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFL44",
+        "id": 200724261,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200724267",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200724265",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Urbana Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2015,
+          "id": 200724260
+        },
+        "price": {
+          "usedTradeIn": 11488.0,
+          "estimateTmv": false,
+          "baseInvoice": 22464.0,
+          "usedPrivateParty": 13142.0,
+          "usedTmvRetail": 14389.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 23095.0
+        },
+        "name": "Urbana Trekking 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFM44",
+        "id": 200724326,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200724267",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200724265",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2015,
+          "id": 200724260
+        },
+        "price": {
+          "usedTradeIn": 12414.0,
+          "estimateTmv": false,
+          "baseInvoice": 23995.0,
+          "usedPrivateParty": 14063.0,
+          "usedTmvRetail": 15307.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 24695.0
+        },
+        "name": "Lounge 4dr Wagon (1.4L 4cyl Turbo 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "BFFP44",
+        "id": 200724264,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6A",
+          "id": "200724337",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200724265",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Easy": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2015,
+          "id": 200724260
+        },
+        "price": {
+          "usedTradeIn": 10005.0,
+          "estimateTmv": false,
+          "baseInvoice": 20255.0,
+          "usedPrivateParty": 11627.0,
+          "usedTmvRetail": 12850.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 20695.0
+        },
+        "name": "Easy 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFH44",
+        "id": 200724262,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200724267",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200724265",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2015,
+          "id": 200724260
+        },
+        "price": {
+          "usedTradeIn": 10711.0,
+          "estimateTmv": false,
+          "baseInvoice": 21190.0,
+          "usedPrivateParty": 12352.0,
+          "usedTmvRetail": 13590.0,
+          "deliveryCharges": 980.0,
+          "baseMSRP": 21695.0
+        },
+        "name": "Trekking 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFM44",
+        "id": 200724263,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200724267",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200724265",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      }
+    },
+    "2016": {
+      "Pop": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 401573921
+        },
+        "price": {
+          "baseInvoice": 19387.0,
+          "baseMSRP": 19495.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Pop 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFL44",
+        "id": 401573963,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401573928",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401573927",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Urbana Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 401573921
+        },
+        "price": {
+          "baseInvoice": 22750.0,
+          "baseMSRP": 23395.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Urbana Trekking 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFM44",
+        "id": 401573966,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401573928",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401573927",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 401573921
+        },
+        "price": {
+          "baseInvoice": 24099.0,
+          "baseMSRP": 24795.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Lounge 4dr Wagon (1.4L 4cyl Turbo 6A)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "BFFP44",
+        "id": 401573967,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6A",
+          "id": "401573930",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401573927",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Easy": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 401573921
+        },
+        "price": {
+          "baseInvoice": 20359.0,
+          "baseMSRP": 20795.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Easy 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFH44",
+        "id": 401573964,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401573928",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401573927",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2016,
+          "id": 401573921
+        },
+        "price": {
+          "baseInvoice": 21373.0,
+          "baseMSRP": 21880.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "Trekking 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFM44",
+        "id": 401573965,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "401573928",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401573927",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      }
+    },
+    "2014": {
+      "Pop": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2014,
+          "id": 200461884
+        },
+        "price": {
+          "usedTradeIn": 7715.0,
+          "estimateTmv": false,
+          "baseInvoice": 19050.0,
+          "usedPrivateParty": 9284.0,
+          "usedTmvRetail": 10567.0,
+          "deliveryCharges": 850.0,
+          "baseMSRP": 19195.0
+        },
+        "name": "Pop 4dr Wagon (1.4L 4cyl Turbo 6M)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFL44",
+        "id": 200471793,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200461905",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200461903",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Lounge": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2014,
+          "id": 200461884
+        },
+        "price": {
+          "usedTradeIn": 9442.0,
+          "estimateTmv": false,
+          "baseInvoice": 23503.0,
+          "usedPrivateParty": 11056.0,
+          "usedTmvRetail": 12377.0,
+          "deliveryCharges": 850.0,
+          "baseMSRP": 24395.0
+        },
+        "name": "Lounge 4dr Wagon (1.4L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFP44",
+        "id": 200474604,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6A",
+          "id": "200461912",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200461903",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Easy": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2014,
+          "id": 200461884
+        },
+        "price": {
+          "usedTradeIn": 7988.0,
+          "estimateTmv": false,
+          "baseInvoice": 19783.0,
+          "usedPrivateParty": 9567.0,
+          "usedTmvRetail": 10858.0,
+          "deliveryCharges": 850.0,
+          "baseMSRP": 20395.0
+        },
+        "name": "Easy 4dr Wagon (1.4L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFH44",
+        "id": 200461885,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200461905",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200461903",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      },
+      "Trekking": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2014,
+          "id": 200461884
+        },
+        "price": {
+          "usedTradeIn": 8537.0,
+          "estimateTmv": false,
+          "baseInvoice": 20713.0,
+          "usedPrivateParty": 10142.0,
+          "usedTmvRetail": 11455.0,
+          "deliveryCharges": 850.0,
+          "baseMSRP": 21395.0
+        },
+        "name": "Trekking 4dr Wagon (1.4L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Small Station Wagons",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "33"
+        },
+        "manufacturerCode": "BFFM44",
+        "id": 200474603,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "6M",
+          "id": "200461905",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 184,
+          "totalValves": 16,
+          "compressionRatio": 9.8,
+          "name": "1.4L I4 Multiair Turbo Engine (EAM)",
+          "size": 1.4,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200461903",
+          "displacement": 1368.0,
+          "manufacturerEngineCode": "EAM",
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 2500
+          },
+          "horsepower": 160,
+          "configuration": "inline",
+          "code": "4ITCG1.4",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "500L Wagon"
+        },
+        "model": {
+          "name": "500L",
+          "niceName": "500l",
+          "id": "FIAT_500L"
+        }
+      }
+    }
+  },
+  "500e": {
+    "2017": {
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2017,
+          "id": 401655398
+        },
+        "price": {
+          "baseInvoice": 31326.0,
+          "baseMSRP": 31800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "2dr Hatchback (electric DD)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Mini Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "121",
+          "highway": "103"
+        },
+        "manufacturerCode": "FFEP24",
+        "id": 401655416,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "1D",
+          "id": "401655417",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401655405",
+          "type": "electric",
+          "name": "83KW Electric Motor (E99)",
+          "cylinder": 0,
+          "equipmentType": "ENGINE",
+          "code": "0NAE"
+        },
+        "states": [
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500e Hatchback"
+        },
+        "model": {
+          "name": "500e",
+          "niceName": "500e",
+          "id": "FIAT_500e"
+        }
+      }
+    },
+    "2015": {
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700793
+        },
+        "price": {
+          "usedTradeIn": 9331.0,
+          "estimateTmv": false,
+          "baseInvoice": 31276.0,
+          "usedPrivateParty": 10964.0,
+          "usedTmvRetail": 12196.0,
+          "deliveryCharges": 850.0,
+          "baseMSRP": 31800.0
+        },
+        "name": "2dr Hatchback (electric DD)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Mini Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "108"
+        },
+        "manufacturerCode": "FFEP24",
+        "id": 200700800,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "1D",
+          "id": "200700794",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200700801",
+          "type": "electric",
+          "name": "83KW Electric Motor (E99)",
+          "cylinder": 0,
+          "equipmentType": "ENGINE",
+          "code": "0NAE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500e Hatchback"
+        },
+        "model": {
+          "name": "500e",
+          "niceName": "500e",
+          "id": "FIAT_500e"
+        }
+      }
+    },
+    "2013": {
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2013,
+          "id": 200459014
+        },
+        "price": {
+          "usedTradeIn": 7983.0,
+          "estimateTmv": false,
+          "baseInvoice": 31086.0,
+          "usedPrivateParty": 9378.0,
+          "usedTmvRetail": 10616.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 31800.0
+        },
+        "name": "2dr Hatchback (electric DD)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Mini Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "108"
+        },
+        "manufacturerCode": "FFEP24",
+        "id": 200459018,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "1D",
+          "id": "200459019",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200459021",
+          "type": "electric",
+          "name": "83KW Electric Motor (E99)",
+          "cylinder": 0,
+          "equipmentType": "ENGINE",
+          "code": "0NAE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500e Hatchback"
+        },
+        "model": {
+          "name": "500e",
+          "niceName": "500e",
+          "id": "FIAT_500e"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401566592
+        },
+        "price": {
+          "baseInvoice": 31276.0,
+          "baseMSRP": 31800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 995.0
+        },
+        "name": "2dr Hatchback (electric DD)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Mini Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "121",
+          "highway": "103"
+        },
+        "manufacturerCode": "FFEP24",
+        "id": 401566602,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "1D",
+          "id": "401566600",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401566599",
+          "type": "electric",
+          "name": "83KW Electric Motor (E99)",
+          "cylinder": 0,
+          "equipmentType": "ENGINE",
+          "code": "0NAE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500e Hatchback"
+        },
+        "model": {
+          "name": "500e",
+          "niceName": "500e",
+          "id": "FIAT_500e"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2014,
+          "id": 200495814
+        },
+        "price": {
+          "usedTradeIn": 8563.0,
+          "estimateTmv": false,
+          "baseInvoice": 31141.0,
+          "usedPrivateParty": 9988.0,
+          "usedTmvRetail": 11154.0,
+          "deliveryCharges": 800.0,
+          "baseMSRP": 31800.0
+        },
+        "name": "2dr Hatchback (electric DD)",
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Mini Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "108"
+        },
+        "manufacturerCode": "FFEP24",
+        "id": 200495815,
+        "drivenWheels": "front wheel drive",
+        "transmission": {
+          "name": "1D",
+          "id": "200495825",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "make": {
+          "name": "FIAT",
+          "niceName": "fiat",
+          "id": 200033022
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200495832",
+          "type": "electric",
+          "name": "83KW Electric Motor (E99)",
+          "cylinder": 0,
+          "equipmentType": "ENGINE",
+          "code": "0NAE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "500e Hatchback"
+        },
+        "model": {
+          "name": "500e",
+          "niceName": "500e",
+          "id": "FIAT_500e"
+        }
+      }
+    }
+  }
+}

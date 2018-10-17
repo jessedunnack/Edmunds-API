@@ -1,0 +1,1828 @@
+{
+  "model-x": {
+    "2016": {
+      "P90D": {
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover,Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200720386
+        },
+        "numOfDoors": "4",
+        "name": "P90D 4dr SUV AWD (electric DD)",
+        "price": {
+          "baseMSRP": 115500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "id": 401638697,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200720466",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401638699",
+          "cylinder": 0,
+          "name": "P90d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-x",
+          "name": "Model X",
+          "id": "Tesla_Model_X"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Model X SUV"
+        }
+      },
+      "90D": {
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover,Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200720386
+        },
+        "numOfDoors": "4",
+        "name": "90D 4dr SUV AWD (electric DD)",
+        "price": {
+          "baseMSRP": 95500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "id": 401638696,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200720466",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401638698",
+          "cylinder": 0,
+          "name": "90d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-x",
+          "name": "Model X",
+          "id": "Tesla_Model_X"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Model X SUV"
+        }
+      },
+      "75D": {
+        "categories": {
+          "vehicleType": "SUV",
+          "crossover": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Sport Utility Vehicles",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Crossover,Exotic,Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200720386
+        },
+        "numOfDoors": "4",
+        "name": "75D 4dr SUV AWD (electric DD)",
+        "price": {
+          "baseMSRP": 83000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "id": 200674639,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200720466",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401638347",
+          "cylinder": 0,
+          "name": "70d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-x",
+          "name": "Model X",
+          "id": "Tesla_Model_X"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Model X SUV"
+        }
+      }
+    }
+  },
+  "model-3": {
+    "2018": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Standard Sport Utility Vehicles",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "FUTURE"
+        ],
+        "year": {
+          "year": 2018,
+          "id": 401630289
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (electric)",
+        "id": 401630321,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "transmissionType": "UNKNOWN"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401630290",
+          "name": "Electric",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-3",
+          "name": "Model 3",
+          "id": "Tesla_Model_3"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model 3 Sedan"
+        }
+      }
+    }
+  },
+  "roadster": {
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100522466
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 109000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1950.0
+        },
+        "id": 101001593,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200026177",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200026176",
+          "torque": 276,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 0
+          },
+          "horsepower": 248,
+          "name": "Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "roadster",
+          "name": "Roadster",
+          "id": "Tesla_Roadster"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Roadster Convertible"
+        }
+      },
+      "Sport": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100522466
+        },
+        "numOfDoors": "2",
+        "name": "Sport 2dr Convertible (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 128500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1950.0
+        },
+        "id": 101147356,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200026182",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200026181",
+          "rpm": {
+            "torque": 0
+          },
+          "horsepower": 288,
+          "name": "Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "roadster",
+          "name": "Roadster",
+          "id": "Tesla_Roadster"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "sport",
+          "tuner": "Sport",
+          "modelName": "Roadster Sport"
+        }
+      }
+    },
+    "2011": {
+      "Sport 2.5": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100532769
+        },
+        "numOfDoors": "2",
+        "name": "Sport 2.5 2dr Convertible (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 128500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1950.0
+        },
+        "id": 101378035,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200367031",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200367030",
+          "torque": 295,
+          "rpm": {
+            "horsepower": 4400,
+            "torque": 0
+          },
+          "horsepower": 288,
+          "name": "Hybrid Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "roadster",
+          "name": "Roadster",
+          "id": "Tesla_Roadster"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "sport-25",
+          "tuner": "Sport 2.5",
+          "modelName": "Roadster Sport 2.5"
+        }
+      },
+      "2.5": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100532769
+        },
+        "numOfDoors": "2",
+        "name": "2.5 2dr Convertible (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 109000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1950.0
+        },
+        "id": 101348472,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200344187",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200344186",
+          "torque": 273,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 0
+          },
+          "horsepower": 288,
+          "name": "Hybrid Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "roadster",
+          "name": "Roadster",
+          "id": "Tesla_Roadster"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Roadster Convertible"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100525149
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 98000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 950.0
+        },
+        "id": 101002971,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200106992",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200106991",
+          "torque": 211,
+          "rpm": {
+            "horsepower": 13000,
+            "torque": 0
+          },
+          "horsepower": 248,
+          "name": "Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "roadster",
+          "name": "Roadster",
+          "id": "Tesla_Roadster"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Roadster Convertible"
+        }
+      }
+    }
+  },
+  "model-s": {
+    "2015": {
+      "70D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200725282
+        },
+        "numOfDoors": "4",
+        "name": "70D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 57375.0,
+          "usedPrivateParty": 60414.0,
+          "usedTmvRetail": 62706.0,
+          "deliveryCharges": 1200.0,
+          "baseMSRP": 75000.0
+        },
+        "MPG": {
+          "city": "101",
+          "highway": "102"
+        },
+        "id": 200733228,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200725485",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200733380",
+          "cylinder": 0,
+          "name": "70d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "60": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200725282
+        },
+        "numOfDoors": "4",
+        "name": "60 4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 53512.0,
+          "usedPrivateParty": 56346.0,
+          "usedTmvRetail": 58484.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 69900.0
+        },
+        "MPG": {
+          "city": "94",
+          "highway": "97"
+        },
+        "id": 200725284,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200725485",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200725492",
+          "cylinder": 0,
+          "name": "60",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "85": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200725282
+        },
+        "numOfDoors": "4",
+        "name": "85 4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 61165.0,
+          "usedPrivateParty": 64399.0,
+          "usedTmvRetail": 66838.0,
+          "deliveryCharges": 1200.0,
+          "baseMSRP": 80000.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 200725285,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200725485",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200725490",
+          "cylinder": 0,
+          "name": "85",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "85D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200725282
+        },
+        "numOfDoors": "4",
+        "name": "85D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 65378.0,
+          "usedPrivateParty": 68816.0,
+          "usedTmvRetail": 71409.0,
+          "deliveryCharges": 1200.0,
+          "baseMSRP": 85000.0
+        },
+        "MPG": {
+          "city": "95",
+          "highway": "106"
+        },
+        "id": 200725283,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200725485",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200725491",
+          "cylinder": 0,
+          "name": "85d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "P85D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200725282
+        },
+        "numOfDoors": "4",
+        "name": "P85D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 80175.0,
+          "usedPrivateParty": 84121.0,
+          "usedTmvRetail": 87097.0,
+          "deliveryCharges": 1200.0,
+          "baseMSRP": 105000.0
+        },
+        "MPG": {
+          "city": "89",
+          "highway": "98"
+        },
+        "id": 200725484,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200725485",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200725493",
+          "cylinder": 0,
+          "name": "P85d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      }
+    },
+    "2013": {
+      "Performance": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 100536530
+        },
+        "numOfDoors": "4",
+        "name": "Performance 4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 54358.0,
+          "usedPrivateParty": 57791.0,
+          "usedTmvRetail": 60835.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 94900.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 200462755,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200462753",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200462759",
+          "cylinder": 0,
+          "name": "85kW Performance",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 100536530
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 43443.0,
+          "usedPrivateParty": 45996.0,
+          "usedTmvRetail": 48260.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 69900.0
+        },
+        "MPG": {
+          "city": "94",
+          "highway": "97"
+        },
+        "id": 101400294,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200386230",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200467060",
+          "cylinder": 0,
+          "name": "60kW",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      }
+    },
+    "2012": {
+      "Signature": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100525710
+        },
+        "numOfDoors": "4",
+        "name": "Signature 4dr Sedan (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 51999.0,
+          "usedPrivateParty": 55496.0,
+          "usedTmvRetail": 58724.0,
+          "deliveryCharges": 1950.0,
+          "baseMSRP": 95400.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 101419120,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200404910",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200404909",
+          "torque": 325,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 0
+          },
+          "horsepower": 362,
+          "name": "Hybrid Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "Performance": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100525710
+        },
+        "numOfDoors": "4",
+        "name": "Performance 4dr Sedan (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 51731.0,
+          "usedPrivateParty": 55210.0,
+          "usedTmvRetail": 58422.0,
+          "deliveryCharges": 1950.0,
+          "baseMSRP": 94900.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 101419119,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200404908",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200404911",
+          "torque": 443,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 0
+          },
+          "horsepower": 416,
+          "name": "Hybrid Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100525710
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 35046.0,
+          "usedPrivateParty": 37962.0,
+          "usedTmvRetail": 40653.0,
+          "deliveryCharges": 1950.0,
+          "baseMSRP": 59900.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 101419116,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200404906",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200404905",
+          "name": "Hybrid Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "Signature Performance": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100525710
+        },
+        "numOfDoors": "4",
+        "name": "Signature Performance 4dr Sedan (electric DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 57591.0,
+          "usedPrivateParty": 61590.0,
+          "usedTmvRetail": 65282.0,
+          "deliveryCharges": 1950.0,
+          "baseMSRP": 105400.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 101419121,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200404912",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200404911",
+          "torque": 443,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 0
+          },
+          "horsepower": 416,
+          "name": "Hybrid Engine",
+          "type": "electric",
+          "code": "NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      }
+    },
+    "2014": {
+      "P85": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690691
+        },
+        "numOfDoors": "4",
+        "name": "P85 4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 58911.0,
+          "usedPrivateParty": 62385.0,
+          "usedTmvRetail": 65228.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 93400.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 200691967,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200691814",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200691977",
+          "cylinder": 0,
+          "name": "85kW Performance",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "60": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690691
+        },
+        "numOfDoors": "4",
+        "name": "60 4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 47672.0,
+          "usedPrivateParty": 50283.0,
+          "usedTmvRetail": 52420.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 69900.0
+        },
+        "MPG": {
+          "city": "94",
+          "highway": "97"
+        },
+        "id": 200691966,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200691814",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200691975",
+          "cylinder": 0,
+          "name": "60kW",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "85": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690691
+        },
+        "numOfDoors": "4",
+        "name": "85 4dr Sedan (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 54442.0,
+          "usedPrivateParty": 57392.0,
+          "usedTmvRetail": 59805.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 79900.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 200692320,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200691814",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200691976",
+          "cylinder": 0,
+          "name": "85kW",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "P85D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690691
+        },
+        "numOfDoors": "4",
+        "name": "P85D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 70621.0,
+          "usedPrivateParty": 74332.0,
+          "usedTmvRetail": 77368.0,
+          "deliveryCharges": 1170.0,
+          "baseMSRP": 104500.0
+        },
+        "MPG": {
+          "city": "86",
+          "highway": "94"
+        },
+        "id": 200725248,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200691814",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200725257",
+          "cylinder": 0,
+          "name": "P85d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      }
+    },
+    "2016": {
+      "70D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401632873
+        },
+        "numOfDoors": "4",
+        "name": "70D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "baseMSRP": 75000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "101",
+          "highway": "102"
+        },
+        "id": 401632897,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "401632918",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401633792",
+          "cylinder": 0,
+          "name": "70d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "P90D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401632873
+        },
+        "numOfDoors": "4",
+        "name": "P90D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "baseMSRP": 108000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "89",
+          "highway": "98"
+        },
+        "id": 401632910,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "401632918",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401633794",
+          "cylinder": 0,
+          "name": "P90d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "90D": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401632873
+        },
+        "numOfDoors": "4",
+        "name": "90D 4dr Sedan AWD (electric DD)",
+        "price": {
+          "baseMSRP": 88000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "95",
+          "highway": "106"
+        },
+        "id": 401632908,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "401632918",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401633793",
+          "torque": 48,
+          "cylinder": 0,
+          "name": "90d",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      },
+      "70": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401632873
+        },
+        "numOfDoors": "4",
+        "name": "70 4dr Sedan (electric DD)",
+        "price": {
+          "baseMSRP": 70000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "88",
+          "highway": "90"
+        },
+        "id": 401632874,
+        "make": {
+          "niceName": "tesla",
+          "name": "Tesla",
+          "id": 200018920
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "401632918",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401633791",
+          "cylinder": 0,
+          "name": "70",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "model-s",
+          "name": "Model S",
+          "id": "Tesla_Model_S"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Model S Sedan"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2996 @@
+{
+  "landaulet": {
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2009,
+          "id": 100527709
+        },
+        "name": "4dr Convertible (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 1380000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "id": 101159202,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200043115",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200043114",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Landaulet Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "landaulet",
+          "name": "Landaulet",
+          "id": "Maybach_Landaulet"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2012,
+          "id": 200418115
+        },
+        "name": "4dr Convertible (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 1382750.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200418120,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200418125",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "6.0L V12 36 Valve Twin Turbocharger Gas",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200418200",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 620,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Landaulet Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "landaulet",
+          "name": "Landaulet",
+          "id": "Maybach_Landaulet"
+        }
+      }
+    },
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531929
+        },
+        "name": "4dr Convertible (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 1380000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "id": 101320297,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200079643",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200079642",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Landaulet Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "landaulet",
+          "name": "Landaulet",
+          "id": "Maybach_Landaulet"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2011,
+          "id": 100535169
+        },
+        "name": "4dr Convertible (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 1380000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101385754,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200373852",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200373851",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 620,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Landaulet Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "landaulet",
+          "name": "Landaulet",
+          "id": "Maybach_Landaulet"
+        }
+      }
+    }
+  },
+  "57": {
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531489
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 366000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101269157,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200072915",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200072914",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2200
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531489
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 405500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101269158,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200072921",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200072920",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "Zeppelin": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531489
+        },
+        "name": "Zeppelin 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 455500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101269184,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200072909",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200072908",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 631,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2004,
+          "id": 100502941
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 315500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2500.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "16"
+        },
+        "id": 100291029,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200242970",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200242969",
+          "displacement": 5513.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2011,
+          "id": 100534869
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 372500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101383400,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200371725",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200371724",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2011,
+          "id": 100534869
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 412000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101383401,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200371730",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200371729",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 620,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2008,
+          "id": 100524750
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 335500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100978423,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200104972",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200104971",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2008,
+          "id": 100524750
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 375000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100978424,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200104966",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200104965",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2006,
+          "id": 100507299
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 332500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "16"
+        },
+        "id": 100684854,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200194103",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200194102",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2006,
+          "id": 100507299
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 367000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "15"
+        },
+        "id": 100686849,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200194097",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200194096",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2009,
+          "id": 100526649
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 358000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101123297,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200059482",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200059481",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2200
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2009,
+          "id": 100526649
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 397500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101123298,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200059476",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200059475",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2012,
+          "id": 200418113
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 379050.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200418116,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200418125",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "5.5L V12 36 Valve Twin Turbocharger Gas",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200418121",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2012,
+          "id": 200418113
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 418950.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200418117,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200418125",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "6.0L V12 36 Valve Twin Turbocharger Gas",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200418122",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 620,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2007,
+          "id": 100516888
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 335500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100761498,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200139525",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200139524",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2007,
+          "id": 100516888
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 377000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100761499,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200139531",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200139530",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2005,
+          "id": 100505365
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 325000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2500.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "16"
+        },
+        "id": 100497759,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200229775",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200229774",
+          "displacement": 5513.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "57 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "57",
+          "name": "57",
+          "id": "Maybach_57"
+        }
+      }
+    }
+  },
+  "62": {
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531849
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 417000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101269185,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200079277",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200079276",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2200
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "Zeppelin": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531849
+        },
+        "name": "Zeppelin 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 506500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101269212,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200079289",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200079288",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 631,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2010,
+          "id": 100531849
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 456500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101269186,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200079283",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200079282",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2004,
+          "id": 100502942
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 357000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2500.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "16"
+        },
+        "id": 100293756,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200243018",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200243017",
+          "displacement": 5513.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2011,
+          "id": 100534889
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 423500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101383684,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200371847",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200371846",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2200
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2011,
+          "id": 100534889
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 463000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101383685,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200371852",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200371851",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 620,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2008,
+          "id": 100524751
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 386500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100981169,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200105442",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200105441",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2008,
+          "id": 100524751
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 426000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100981170,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200105448",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200105447",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2006,
+          "id": 100507300
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 382500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "16"
+        },
+        "id": 100684893,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200194162",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200194161",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2009,
+          "id": 100526789
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 409000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101132440,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200044795",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200044794",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2200
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2009,
+          "id": 100526789
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 448500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101132441,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200044789",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200044788",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2012,
+          "id": 200418114
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 430450.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200418118,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200418125",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "5.5L V12 36 Valve Twin Turbocharger Gas",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200418123",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M275",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2012,
+          "id": 200418114
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 470350.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200418119,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200418125",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "6.0L V12 36 Valve Twin Turbocharger Gas",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200418124",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 620,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2007,
+          "id": 100516889
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 386500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100761548,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200139613",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200139612",
+          "displacement": 5513.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      },
+      "S": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2007,
+          "id": 100516889
+        },
+        "name": "S 4dr Sedan (6.0L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 426000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2750.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 100858907,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200139618",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 738,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 6.0,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200139617",
+          "displacement": 5980.0,
+          "manufacturerEngineCode": "M285",
+          "rpm": {
+            "horsepower": 4800,
+            "torque": 2000
+          },
+          "horsepower": 604,
+          "configuration": "V",
+          "code": "12VTTG6.0",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "numOfDoors": "4",
+        "year": {
+          "year": 2005,
+          "id": 100505366
+        },
+        "name": "4dr Sedan (5.5L 12cyl Turbo 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 375000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2500.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "16"
+        },
+        "id": 100497761,
+        "make": {
+          "niceName": "maybach",
+          "name": "Maybach",
+          "id": 200043087
+        },
+        "transmission": {
+          "id": "200229829",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "5A",
+          "numberOfSpeeds": "5",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "torque": 664,
+          "totalValves": 36,
+          "compressionRatio": 9.0,
+          "name": "Engine",
+          "size": 5.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "twin turbocharger",
+          "id": "200229828",
+          "displacement": 5513.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 2300
+          },
+          "horsepower": 543,
+          "configuration": "V",
+          "code": "12VTTG5.5",
+          "type": "gas"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "62 Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "62",
+          "name": "62",
+          "id": "Maybach_62"
+        }
+      }
+    }
+  }
+}

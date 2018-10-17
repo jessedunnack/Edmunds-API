@@ -1,0 +1,183 @@
+{
+  "karma": {
+    "2012": {
+      "Eco-Chic": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance,Hybrid",
+          "primaryBodyType": "Car"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100536490
+        },
+        "numOfDoors": "4",
+        "name": "Eco-Chic 4dr Sedan (gas/electric hybrid DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1000.0,
+          "estimateTmv": false,
+          "baseMSRP": 115000.0
+        },
+        "id": 101399941,
+        "make": {
+          "name": "Fisker",
+          "niceName": "fisker",
+          "id": 200005745
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200385406",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "DIRECT_DRIVE",
+          "numberOfSpeeds": "1"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200385405",
+          "torque": 981,
+          "horsepower": 403,
+          "name": "Hybrid Engine",
+          "type": "hybrid",
+          "equipmentType": "ENGINE",
+          "code": "NAY"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Karma Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Karma",
+          "niceName": "karma",
+          "id": "Fisker_Karma"
+        }
+      },
+      "Eco-Standard": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance,Hybrid",
+          "primaryBodyType": "Car"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100536490
+        },
+        "numOfDoors": "4",
+        "name": "Eco-Standard 4dr Sedan (gas/electric hybrid DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1000.0,
+          "estimateTmv": false,
+          "baseMSRP": 102000.0
+        },
+        "id": 101399939,
+        "make": {
+          "name": "Fisker",
+          "niceName": "fisker",
+          "id": 200005745
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200385402",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "DIRECT_DRIVE",
+          "numberOfSpeeds": "1"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200385401",
+          "torque": 981,
+          "horsepower": 403,
+          "name": "Hybrid Engine",
+          "type": "hybrid",
+          "equipmentType": "ENGINE",
+          "code": "NAY"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Karma Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Karma",
+          "niceName": "karma",
+          "id": "Fisker_Karma"
+        }
+      },
+      "Eco-Sport": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Performance,Hybrid",
+          "primaryBodyType": "Car"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100536490
+        },
+        "numOfDoors": "4",
+        "name": "Eco-Sport 4dr Sedan (gas/electric hybrid DD)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1000.0,
+          "estimateTmv": false,
+          "baseMSRP": 110000.0
+        },
+        "id": 101399940,
+        "make": {
+          "name": "Fisker",
+          "niceName": "fisker",
+          "id": 200005745
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200385404",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "DIRECT_DRIVE",
+          "numberOfSpeeds": "1"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200385403",
+          "torque": 981,
+          "horsepower": 403,
+          "name": "Hybrid Engine",
+          "type": "hybrid",
+          "equipmentType": "ENGINE",
+          "code": "NAY"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Karma Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Karma",
+          "niceName": "karma",
+          "id": "Fisker_Karma"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5642 @@
+{
+  "ia": {
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200730054
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (1.5L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 15960.0,
+          "deliveryCharges": 795.0,
+          "estimateTmv": false,
+          "baseMSRP": 16800.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "42"
+        },
+        "manufacturerCode": "6262",
+        "id": 200742456,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200742458",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1496.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine 1",
+          "size": 1.5,
+          "code": "4INAG1.5",
+          "compressorType": "NA",
+          "id": "200730055",
+          "torque": 103,
+          "compressionRatio": 12.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 106,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "iA Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iA",
+          "niceName": "ia",
+          "id": "Scion_iA"
+        }
+      }
+    }
+  },
+  "im": {
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200722068
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl CVT)",
+        "price": {
+          "baseInvoice": 18240.0,
+          "deliveryCharges": 795.0,
+          "estimateTmv": false,
+          "baseMSRP": 19200.0
+        },
+        "MPG": {
+          "city": "28",
+          "highway": "37"
+        },
+        "manufacturerCode": "6272",
+        "id": 200742459,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200742460",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Continuously variable",
+          "name": "continuously variableA",
+          "numberOfSpeeds": "continuously variable",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine 1",
+          "size": 1.8,
+          "compressionRatio": 10.6,
+          "compressorType": "NA",
+          "id": "200722070",
+          "torque": 126,
+          "manufacturerEngineCode": "2ZR-FAE",
+          "rpm": {
+            "horsepower": 6100,
+            "torque": 4000
+          },
+          "horsepower": 137,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "iM Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iM",
+          "niceName": "im",
+          "id": "Scion_iM"
+        }
+      }
+    }
+  },
+  "fr-s": {
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200696271
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (2.0L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 24700.0,
+          "estimateTmv": false,
+          "usedTradeIn": 16550.0,
+          "usedPrivateParty": 18143.0,
+          "usedTmvRetail": 19344.0,
+          "baseMSRP": 26000.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "34"
+        },
+        "manufacturerCode": "6252",
+        "id": 200696273,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200696279",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "code": "4HNAG2.0",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "compressionRatio": 12.5,
+          "compressorType": "NA",
+          "id": "200696277",
+          "torque": 151,
+          "manufacturerEngineCode": "4U-GSE",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      },
+      "Release Series 1.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200696271
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 1.0 2dr Coupe (2.0L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 28491.0,
+          "estimateTmv": false,
+          "usedTradeIn": 18237.0,
+          "usedPrivateParty": 19940.0,
+          "usedTmvRetail": 21224.0,
+          "baseMSRP": 29990.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "6259",
+        "id": 200706812,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200696278",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "code": "4HNAG2.0",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "compressionRatio": 12.5,
+          "compressorType": "NA",
+          "id": "200696277",
+          "torque": 151,
+          "manufacturerEngineCode": "4U-GSE",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      }
+    },
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 100539211
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (2.0L 4cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 23275.0,
+          "estimateTmv": false,
+          "usedTradeIn": 12791.0,
+          "usedPrivateParty": 14294.0,
+          "usedTmvRetail": 15626.0,
+          "baseMSRP": 24500.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "6253",
+        "id": 101323929,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200080525",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4HNAG2.0",
+          "compressorType": "NA",
+          "id": "200080524",
+          "torque": 151,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      },
+      "Scion 10 Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 100539211
+        },
+        "numOfDoors": "2",
+        "name": "Scion 10 Series 2dr Coupe (2.0L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 27241.0,
+          "estimateTmv": false,
+          "usedTradeIn": 14155.0,
+          "usedPrivateParty": 15739.0,
+          "usedTmvRetail": 17144.0,
+          "baseMSRP": 28675.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "34"
+        },
+        "manufacturerCode": "6258",
+        "id": 200471241,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200416996",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "code": "4HNAG2.0",
+          "compressorType": "NA",
+          "id": "200416995",
+          "torque": 151,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      }
+    },
+    "2016": {
+      "Release Series 2.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200734751
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 2.0 2dr Coupe (2.0L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 29079.0,
+          "estimateTmv": false,
+          "usedTradeIn": 25420.0,
+          "usedPrivateParty": 27002.0,
+          "usedTmvRetail": 28195.0,
+          "baseMSRP": 30610.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "34"
+        },
+        "manufacturerCode": "6258",
+        "id": 401613789,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200734755",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "code": "4HNAG2.0",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "compressionRatio": 12.5,
+          "compressorType": "NA",
+          "id": "200734754",
+          "torque": 151,
+          "manufacturerEngineCode": "4U-GSE",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200734751
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (2.0L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 24040.0,
+          "estimateTmv": false,
+          "usedTradeIn": 20822.0,
+          "usedPrivateParty": 22310.0,
+          "usedTmvRetail": 23432.0,
+          "baseMSRP": 25305.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "6253",
+        "id": 200734753,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200734756",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "code": "4HNAG2.0",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "compressionRatio": 12.5,
+          "compressorType": "NA",
+          "id": "200734754",
+          "torque": 151,
+          "manufacturerEngineCode": "4U-GSE",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      }
+    },
+    "2014": {
+      "Monogram Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200486319
+        },
+        "numOfDoors": "2",
+        "name": "Monogram Series 2dr Coupe (2.0L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 26030.0,
+          "estimateTmv": false,
+          "usedTradeIn": 15369.0,
+          "usedPrivateParty": 16991.0,
+          "usedTmvRetail": 18318.0,
+          "baseMSRP": 27400.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "manufacturerCode": "6255",
+        "id": 200674812,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200486323",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "code": "4HNAG2.0",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "compressionRatio": 12.5,
+          "compressorType": "NA",
+          "id": "200486322",
+          "torque": 151,
+          "manufacturerEngineCode": "4U-GSE",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200486319
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (2.0L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 24510.0,
+          "estimateTmv": false,
+          "usedTradeIn": 14753.0,
+          "usedPrivateParty": 16351.0,
+          "usedTmvRetail": 17658.0,
+          "baseMSRP": 25800.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "34"
+        },
+        "manufacturerCode": "6252",
+        "id": 200486320,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200486324",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "configuration": "flat",
+          "displacement": 1998.0,
+          "code": "4HNAG2.0",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.0,
+          "compressionRatio": 12.5,
+          "compressorType": "NA",
+          "id": "200486322",
+          "torque": 151,
+          "manufacturerEngineCode": "4U-GSE",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 6600
+          },
+          "horsepower": 200,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "FR-S Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "FR-S",
+          "niceName": "fr-s",
+          "id": "Scion_FR_S"
+        }
+      }
+    }
+  },
+  "xb": {
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100503984
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (1.5L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 13803.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2497.0,
+          "usedPrivateParty": 3328.0,
+          "usedTmvRetail": 4714.0,
+          "baseMSRP": 14530.0,
+          "deliveryCharges": 515.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "32"
+        },
+        "manufacturerCode": "6200",
+        "id": 100394908,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200211349",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1496.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.5,
+          "code": "4INAG1.5",
+          "compressorType": "NA",
+          "id": "200211348",
+          "torque": 105,
+          "compressionRatio": 10.5,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 108,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2010": {
+      "Release Series 7.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100527790
+        },
+        "numOfDoors": "4",
+        "name": "Release Series 7.0 4dr Wagon (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 18300.0,
+          "estimateTmv": false,
+          "usedTradeIn": 6247.0,
+          "usedPrivateParty": 7728.0,
+          "usedTmvRetail": 9269.0,
+          "baseMSRP": 19270.0,
+          "deliveryCharges": 670.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6208",
+        "id": 101266677,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200037637",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "4A",
+          "numberOfSpeeds": "4",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200037636",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100527790
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15057.0,
+          "estimateTmv": false,
+          "usedTradeIn": 5288.0,
+          "usedPrivateParty": 6635.0,
+          "usedTmvRetail": 8037.0,
+          "baseMSRP": 15850.0,
+          "deliveryCharges": 670.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6203",
+        "id": 101160988,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200037631",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200037630",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100503162
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (1.5L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 12995.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2241.0,
+          "usedPrivateParty": 2968.0,
+          "usedTmvRetail": 4179.0,
+          "baseMSRP": 13680.0,
+          "deliveryCharges": 485.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "32"
+        },
+        "manufacturerCode": "6201",
+        "id": 100257487,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200239660",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1496.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.5,
+          "code": "4INAG1.5",
+          "compressorType": "NA",
+          "id": "200239659",
+          "torque": 105,
+          "compressionRatio": 10.5,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 108,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100531509
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15200.0,
+          "estimateTmv": false,
+          "usedTradeIn": 6101.0,
+          "usedPrivateParty": 7469.0,
+          "usedTmvRetail": 8810.0,
+          "baseMSRP": 16000.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6203",
+        "id": 101295556,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200072800",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200072799",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      },
+      "Release Series 8.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100531509
+        },
+        "numOfDoors": "4",
+        "name": "Release Series 8.0 4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 17484.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7080.0,
+          "usedPrivateParty": 8550.0,
+          "usedTmvRetail": 9990.0,
+          "baseMSRP": 18405.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6209",
+        "id": 101372499,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200363726",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200363725",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100522349
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14867.0,
+          "estimateTmv": false,
+          "usedTradeIn": 3900.0,
+          "usedPrivateParty": 5034.0,
+          "usedTmvRetail": 6419.0,
+          "baseMSRP": 15650.0,
+          "deliveryCharges": 620.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6203",
+        "id": 100868014,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200101219",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200101218",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100506313
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (1.5L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14088.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2888.0,
+          "usedPrivateParty": 3734.0,
+          "usedTmvRetail": 5145.0,
+          "baseMSRP": 14830.0,
+          "deliveryCharges": 580.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "31"
+        },
+        "manufacturerCode": "6200",
+        "id": 100570418,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200171313",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1496.0,
+          "code": "4INAG1.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.5,
+          "compressionRatio": 10.5,
+          "compressorType": "NA",
+          "id": "200171312",
+          "torque": 101,
+          "manufacturerEngineCode": "1NZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 103,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525049
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15865.0,
+          "estimateTmv": false,
+          "usedTradeIn": 4760.0,
+          "usedPrivateParty": 6084.0,
+          "usedTmvRetail": 7577.0,
+          "baseMSRP": 16700.0,
+          "deliveryCharges": 670.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "id": 100996738,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200006578",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "4A",
+          "numberOfSpeeds": "4",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200006577",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2012": {
+      "Release Series 9.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100535870
+        },
+        "numOfDoors": "4",
+        "name": "Release Series 9.0 4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 17205.0,
+          "estimateTmv": false,
+          "usedTradeIn": 8893.0,
+          "usedPrivateParty": 10331.0,
+          "usedTmvRetail": 11659.0,
+          "baseMSRP": 18110.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6209",
+        "id": 101412589,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200398324",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200398323",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100535870
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15485.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7761.0,
+          "usedPrivateParty": 9148.0,
+          "usedTmvRetail": 10428.0,
+          "baseMSRP": 16300.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6203",
+        "id": 101394234,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200379556",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200379555",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2015": {
+      "686 Parklan Edition": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200722132
+        },
+        "numOfDoors": "4",
+        "name": "686 Parklan Edition 4dr Wagon (2.4L 4cyl 4A)",
+        "price": {
+          "baseInvoice": 18701.0,
+          "estimateTmv": false,
+          "usedTradeIn": 13128.0,
+          "usedPrivateParty": 14709.0,
+          "usedTmvRetail": 15902.0,
+          "baseMSRP": 19685.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6208",
+        "id": 401582492,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200722137",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "4A",
+          "numberOfSpeeds": "4",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.4L Inline4 16 Valve   Gas Regular Unleaded 2AZ-FE",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200722135",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200722132
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "baseInvoice": 16264.0,
+          "estimateTmv": false,
+          "usedTradeIn": 11424.0,
+          "usedPrivateParty": 12872.0,
+          "usedTmvRetail": 13965.0,
+          "baseMSRP": 17120.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6203",
+        "id": 200722133,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200722136",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.4L Inline4 16 Valve   Gas Regular Unleaded 2AZ-FE",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200722135",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200461782
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 4A)",
+        "price": {
+          "baseInvoice": 17024.0,
+          "estimateTmv": false,
+          "usedTradeIn": 9562.0,
+          "usedPrivateParty": 11138.0,
+          "usedTmvRetail": 12534.0,
+          "baseMSRP": 17920.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6202",
+        "id": 200461783,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200461786",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "4A",
+          "numberOfSpeeds": "4",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.4L Inline4 16 Valve   Gas Regular Unleaded 2AZ-FE",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200461785",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      },
+      "Scion 10 Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200461782
+        },
+        "numOfDoors": "4",
+        "name": "Scion 10 Series 4dr Wagon (2.4L 4cyl 4A)",
+        "price": {
+          "baseInvoice": 19153.0,
+          "estimateTmv": false,
+          "usedTradeIn": 11052.0,
+          "usedPrivateParty": 12703.0,
+          "usedTmvRetail": 14167.0,
+          "baseMSRP": 20160.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6208",
+        "id": 200471245,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200461786",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "4A",
+          "numberOfSpeeds": "4",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.4L Inline4 16 Valve   Gas Regular Unleaded 2AZ-FE",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200461785",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497115
+        },
+        "numOfDoors": "4",
+        "name": "4dr Wagon (2.4L 4cyl 5M)",
+        "price": {
+          "baseInvoice": 16122.0,
+          "estimateTmv": false,
+          "usedTradeIn": 9825.0,
+          "usedPrivateParty": 11295.0,
+          "usedTmvRetail": 12498.0,
+          "baseMSRP": 16970.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6203",
+        "id": 200497117,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200497119",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.4L Inline4 16 Valve   Gas Regular Unleaded 2AZ-FE",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200497118",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      },
+      "Release Series 10.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Small Station Wagons",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Wagon",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497115
+        },
+        "numOfDoors": "4",
+        "name": "Release Series 10.0 4dr Wagon (2.4L 4cyl 4A)",
+        "price": {
+          "baseInvoice": 19399.0,
+          "estimateTmv": false,
+          "usedTradeIn": 12944.0,
+          "usedPrivateParty": 14321.0,
+          "usedTmvRetail": 15447.0,
+          "baseMSRP": 20420.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "manufacturerCode": "6208",
+        "id": 200695327,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200497120",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "4A",
+          "numberOfSpeeds": "4",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.4L Inline4 16 Valve   Gas Regular Unleaded 2AZ-FE",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200497118",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 158,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "wagon",
+          "body": "Wagon",
+          "modelName": "xB Wagon"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xB",
+          "niceName": "xb",
+          "id": "Scion_xB"
+        }
+      }
+    }
+  },
+  "iq": {
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Mini Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200709073
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (1.3L 4cyl CVT)",
+        "price": {
+          "baseInvoice": 14882.0,
+          "estimateTmv": false,
+          "usedTradeIn": 9542.0,
+          "usedPrivateParty": 10842.0,
+          "usedTmvRetail": 11822.0,
+          "baseMSRP": 15665.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "36",
+          "highway": "37"
+        },
+        "manufacturerCode": "6242",
+        "id": 200709074,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200709076",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Continuously variable",
+          "name": "continuously variableA",
+          "numberOfSpeeds": "continuously variable",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1329.0,
+          "code": "4INAG1.3",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.3L Inline4 16 Valve   Gas Regular Unleaded",
+          "size": 1.3,
+          "compressionRatio": 11.5,
+          "compressorType": "NA",
+          "id": "200709075",
+          "torque": 89,
+          "manufacturerEngineCode": "1NR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 94,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "iQ Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iQ",
+          "niceName": "iq",
+          "id": "Scion_iQ"
+        }
+      }
+    },
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Mini Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200427367
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (1.3L 4cyl CVT)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14720.0,
+          "estimateTmv": false,
+          "usedTradeIn": 6397.0,
+          "usedPrivateParty": 7551.0,
+          "usedTmvRetail": 8573.0,
+          "baseMSRP": 15495.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "36",
+          "highway": "37"
+        },
+        "manufacturerCode": "6242",
+        "id": 200427368,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200427371",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Continuously variable",
+          "name": "continuously variableA",
+          "numberOfSpeeds": "continuously variable",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1329.0,
+          "code": "4INAG1.3",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.3L Inline4 16 Valve   Gas Regular Unleaded",
+          "size": 1.3,
+          "compressionRatio": 11.5,
+          "compressorType": "NA",
+          "id": "200427370",
+          "torque": 89,
+          "manufacturerEngineCode": "1NR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 94,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "iQ Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iQ",
+          "niceName": "iq",
+          "id": "Scion_iQ"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Mini Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100535309
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (1.3L 4cyl CVT)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14501.0,
+          "estimateTmv": false,
+          "usedTradeIn": 5680.0,
+          "usedPrivateParty": 6855.0,
+          "usedTmvRetail": 7940.0,
+          "baseMSRP": 15265.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "36",
+          "highway": "37"
+        },
+        "manufacturerCode": "6242",
+        "id": 101225901,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200032190",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Continuously variable",
+          "name": "continuously variableA",
+          "numberOfSpeeds": "continuously variable",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1329.0,
+          "code": "4INAG1.3",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.3,
+          "compressionRatio": 11.5,
+          "compressorType": "NA",
+          "id": "200032189",
+          "torque": 89,
+          "manufacturerEngineCode": "1NR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 94,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "iQ Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iQ",
+          "niceName": "iq",
+          "id": "Scion_iQ"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Mini Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200471221
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (1.3L 4cyl CVT)",
+        "price": {
+          "baseInvoice": 14882.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7145.0,
+          "usedPrivateParty": 8386.0,
+          "usedTmvRetail": 9402.0,
+          "baseMSRP": 15665.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "36",
+          "highway": "37"
+        },
+        "manufacturerCode": "6242",
+        "id": 200471222,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200471225",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Continuously variable",
+          "name": "continuously variableA",
+          "numberOfSpeeds": "continuously variable",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1329.0,
+          "code": "4INAG1.3",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.3L Inline4 16 Valve   Gas Regular Unleaded",
+          "size": 1.3,
+          "compressionRatio": 11.5,
+          "compressorType": "NA",
+          "id": "200471224",
+          "torque": 89,
+          "manufacturerEngineCode": "1NR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 94,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "iQ Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iQ",
+          "niceName": "iq",
+          "id": "Scion_iQ"
+        }
+      },
+      "Scion 10 Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Mini Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200471221
+        },
+        "numOfDoors": "2",
+        "name": "Scion 10 Series 2dr Hatchback (1.3L 4cyl CVT)",
+        "price": {
+          "baseInvoice": 16958.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7780.0,
+          "usedPrivateParty": 9059.0,
+          "usedTmvRetail": 10106.0,
+          "baseMSRP": 17850.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "36",
+          "highway": "37"
+        },
+        "manufacturerCode": "6248",
+        "id": 200471223,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200471225",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Continuously variable",
+          "name": "continuously variableA",
+          "numberOfSpeeds": "continuously variable",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1329.0,
+          "code": "4INAG1.3",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.3L Inline4 16 Valve   Gas Regular Unleaded",
+          "size": 1.3,
+          "compressionRatio": 11.5,
+          "compressorType": "NA",
+          "id": "200471224",
+          "torque": 89,
+          "manufacturerEngineCode": "1NR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 94,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "iQ Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "iQ",
+          "niceName": "iq",
+          "id": "Scion_iQ"
+        }
+      }
+    }
+  },
+  "tc": {
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200423139
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.5L 4cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 18739.0,
+          "estimateTmv": false,
+          "usedTradeIn": 9759.0,
+          "usedPrivateParty": 11356.0,
+          "usedTmvRetail": 12773.0,
+          "baseMSRP": 19725.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6222",
+        "id": 200423141,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200423143",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200423142",
+          "torque": 173,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 180,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Release Series 8.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200423139
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 8.0 2dr Hatchback (2.5L 4cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 21723.0,
+          "estimateTmv": false,
+          "usedTradeIn": 10305.0,
+          "usedPrivateParty": 11931.0,
+          "usedTmvRetail": 13372.0,
+          "baseMSRP": 22865.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6228",
+        "id": 200426752,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200423143",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200423142",
+          "torque": 173,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 180,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100529829
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.5L 4cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 17361.0,
+          "estimateTmv": false,
+          "usedTradeIn": 6317.0,
+          "usedPrivateParty": 7813.0,
+          "usedTmvRetail": 9279.0,
+          "baseMSRP": 18275.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6223",
+        "id": 101352785,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200348210",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200348209",
+          "torque": 173,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 180,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100503867
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15200.0,
+          "estimateTmv": false,
+          "usedTradeIn": 1991.0,
+          "usedPrivateParty": 2887.0,
+          "usedTmvRetail": 4380.0,
+          "baseMSRP": 16000.0,
+          "deliveryCharges": 515.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "27"
+        },
+        "manufacturerCode": "6221",
+        "id": 100394782,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200203243",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200203242",
+          "torque": 163,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 160,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100506065
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15485.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2929.0,
+          "usedPrivateParty": 3876.0,
+          "usedTmvRetail": 5454.0,
+          "baseMSRP": 16300.0,
+          "deliveryCharges": 580.0
+        },
+        "MPG": {
+          "city": "19",
+          "highway": "27"
+        },
+        "manufacturerCode": "6221",
+        "id": 100543677,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200176378",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200176377",
+          "torque": 163,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 160,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2012": {
+      "Release Series 7.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100531829
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 7.0 2dr Hatchback (2.5L 4cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 19861.0,
+          "estimateTmv": false,
+          "usedTradeIn": 8519.0,
+          "usedPrivateParty": 10171.0,
+          "usedTmvRetail": 11695.0,
+          "baseMSRP": 20905.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6229",
+        "id": 101394330,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200378333",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200378332",
+          "torque": 173,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 180,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100531829
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.5L 4cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 18596.0,
+          "estimateTmv": false,
+          "usedTradeIn": 8458.0,
+          "usedPrivateParty": 10088.0,
+          "usedTmvRetail": 11593.0,
+          "baseMSRP": 19575.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6222",
+        "id": 101394329,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200378327",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200378326",
+          "torque": 173,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 180,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200745612
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.5L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 18416.0,
+          "estimateTmv": false,
+          "usedTradeIn": 15293.0,
+          "usedPrivateParty": 16788.0,
+          "usedTmvRetail": 17916.0,
+          "baseMSRP": 19385.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6223",
+        "id": 200745613,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200745617",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200745615",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Release Series 10.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200745612
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 10.0 2dr Hatchback (2.5L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 22031.0,
+          "estimateTmv": false,
+          "usedTradeIn": 18363.0,
+          "usedPrivateParty": 19965.0,
+          "usedTmvRetail": 21174.0,
+          "baseMSRP": 23190.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6229",
+        "id": 401642440,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200745617",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200745615",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2010": {
+      "Release Series 6.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100527930
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 6.0 2dr Hatchback (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 18449.0,
+          "estimateTmv": false,
+          "usedTradeIn": 6523.0,
+          "usedPrivateParty": 8056.0,
+          "usedTmvRetail": 9652.0,
+          "baseMSRP": 19420.0,
+          "deliveryCharges": 720.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "manufacturerCode": "6228",
+        "id": 101277084,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200073690",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200073689",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100527930
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 17005.0,
+          "estimateTmv": false,
+          "usedTradeIn": 5653.0,
+          "usedPrivateParty": 7019.0,
+          "usedTmvRetail": 8440.0,
+          "baseMSRP": 17900.0,
+          "deliveryCharges": 720.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "manufacturerCode": "6220",
+        "id": 101163227,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200050833",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.8,
+          "compressorType": "NA",
+          "id": "200050832",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100523289
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 16910.0,
+          "estimateTmv": false,
+          "usedTradeIn": 3968.0,
+          "usedPrivateParty": 5171.0,
+          "usedTmvRetail": 6642.0,
+          "baseMSRP": 17800.0,
+          "deliveryCharges": 620.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "manufacturerCode": "6220",
+        "id": 100886206,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200089411",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200089410",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Spec": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100523289
+        },
+        "numOfDoors": "2",
+        "name": "Spec 2dr Hatchback (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15295.0,
+          "estimateTmv": false,
+          "usedTradeIn": 3497.0,
+          "usedPrivateParty": 4683.0,
+          "usedTmvRetail": 6132.0,
+          "baseMSRP": 16100.0,
+          "deliveryCharges": 620.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "manufacturerCode": "6222",
+        "id": 100886208,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200089423",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200089422",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200696272
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.5L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 18249.0,
+          "estimateTmv": false,
+          "usedTradeIn": 12008.0,
+          "usedPrivateParty": 13552.0,
+          "usedTmvRetail": 14716.0,
+          "baseMSRP": 19210.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6223",
+        "id": 200696276,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200696291",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200696289",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Release Series 9.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200696272
+        },
+        "numOfDoors": "2",
+        "name": "Release Series 9.0 2dr Hatchback (2.5L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 23122.0,
+          "estimateTmv": false,
+          "usedTradeIn": 14263.0,
+          "usedPrivateParty": 15949.0,
+          "usedTmvRetail": 17221.0,
+          "baseMSRP": 24340.0,
+          "deliveryCharges": 795.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6228",
+        "id": 200722950,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200696290",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200696289",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525069
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 16150.0,
+          "estimateTmv": false,
+          "usedTradeIn": 4349.0,
+          "usedPrivateParty": 5676.0,
+          "usedTmvRetail": 7173.0,
+          "baseMSRP": 17000.0,
+          "deliveryCharges": 670.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "27"
+        },
+        "manufacturerCode": "6221",
+        "id": 100997045,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200006546",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200006545",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100512980
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.4L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15580.0,
+          "estimateTmv": false,
+          "usedTradeIn": 3332.0,
+          "usedPrivateParty": 4472.0,
+          "usedTmvRetail": 6047.0,
+          "baseMSRP": 16400.0,
+          "deliveryCharges": 620.0
+        },
+        "MPG": {
+          "city": "20",
+          "highway": "27"
+        },
+        "manufacturerCode": "6221",
+        "id": 100728688,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200145593",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200145592",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Spec": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100512980
+        },
+        "numOfDoors": "2",
+        "name": "Spec 2dr Hatchback (2.4L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15010.0,
+          "estimateTmv": false,
+          "usedTradeIn": 3176.0,
+          "usedPrivateParty": 4312.0,
+          "usedTmvRetail": 5880.0,
+          "baseMSRP": 15800.0,
+          "deliveryCharges": 620.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "manufacturerCode": "6222",
+        "id": 100729213,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200145599",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2362.0,
+          "code": "4INAG2.4",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 2.4,
+          "compressionRatio": 9.6,
+          "compressorType": "NA",
+          "id": "200145598",
+          "torque": 162,
+          "manufacturerEngineCode": "2AZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4000
+          },
+          "horsepower": 161,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    },
+    "2014": {
+      "Monogram Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200466852
+        },
+        "numOfDoors": "2",
+        "name": "Monogram Series 2dr Hatchback (2.5L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 21279.0,
+          "estimateTmv": false,
+          "usedTradeIn": 11936.0,
+          "usedPrivateParty": 13550.0,
+          "usedTmvRetail": 14870.0,
+          "baseMSRP": 22400.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6224",
+        "id": 200674808,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200472500",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200466854",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Scion 10 Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200466852
+        },
+        "numOfDoors": "2",
+        "name": "Scion 10 Series 2dr Hatchback (2.5L 4cyl 6M)",
+        "price": {
+          "baseInvoice": 20368.0,
+          "estimateTmv": false,
+          "usedTradeIn": 11562.0,
+          "usedPrivateParty": 13167.0,
+          "usedTmvRetail": 14480.0,
+          "baseMSRP": 21440.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6229",
+        "id": 200472499,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200466855",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200466854",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200466852
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback (2.5L 4cyl 6A)",
+        "price": {
+          "baseInvoice": 19199.0,
+          "estimateTmv": false,
+          "usedTradeIn": 11215.0,
+          "usedPrivateParty": 12786.0,
+          "usedTmvRetail": 14072.0,
+          "baseMSRP": 20210.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "manufacturerCode": "6222",
+        "id": 200472497,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "id": "200472500",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 2494.0,
+          "code": "4INAG2.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "2.5L Inline4 16 Valve   Gas Regular Unleaded 2AR-FE",
+          "size": 2.5,
+          "compressionRatio": 10.4,
+          "compressorType": "NA",
+          "id": "200466854",
+          "torque": 172,
+          "manufacturerEngineCode": "2AR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4100
+          },
+          "horsepower": 179,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "tC Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "tC",
+          "niceName": "tc",
+          "id": "Scion_tC"
+        }
+      }
+    }
+  },
+  "xd": {
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100528529
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14155.0,
+          "estimateTmv": false,
+          "usedTradeIn": 5468.0,
+          "usedPrivateParty": 6675.0,
+          "usedTmvRetail": 7931.0,
+          "baseMSRP": 14900.0,
+          "deliveryCharges": 720.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6233",
+        "id": 101185138,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200040604",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200040603",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    },
+    "2011": {
+      "Release Series 3.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100533529
+        },
+        "numOfDoors": "4",
+        "name": "Release Series 3.0 4dr Hatchback (1.8L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 16819.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7208.0,
+          "usedPrivateParty": 8551.0,
+          "usedTmvRetail": 9868.0,
+          "baseMSRP": 17705.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6238",
+        "id": 101365395,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200358742",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200358741",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100533529
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 15114.0,
+          "estimateTmv": false,
+          "usedTradeIn": 6150.0,
+          "usedPrivateParty": 7411.0,
+          "usedTmvRetail": 8647.0,
+          "baseMSRP": 15910.0,
+          "deliveryCharges": 730.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6232",
+        "id": 101365393,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200358732",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200358731",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100522350
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14582.0,
+          "estimateTmv": false,
+          "usedTradeIn": 3990.0,
+          "usedPrivateParty": 5083.0,
+          "usedTmvRetail": 6419.0,
+          "baseMSRP": 15350.0,
+          "deliveryCharges": 670.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "32"
+        },
+        "manufacturerCode": "6232",
+        "id": 100903479,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200101286",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200101285",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525791
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 13917.0,
+          "estimateTmv": false,
+          "usedTradeIn": 4376.0,
+          "usedPrivateParty": 5567.0,
+          "usedTmvRetail": 6910.0,
+          "baseMSRP": 14650.0,
+          "deliveryCharges": 670.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6233",
+        "id": 101039113,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200010953",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200010952",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    },
+    "2012": {
+      "Release Series 4.0": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100538429
+        },
+        "numOfDoors": "4",
+        "name": "Release Series 4.0 4dr Hatchback (1.8L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 16196.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7795.0,
+          "usedPrivateParty": 8932.0,
+          "usedTmvRetail": 9981.0,
+          "baseMSRP": 17050.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6238",
+        "id": 101414937,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200400943",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200400942",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100538429
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 14577.0,
+          "estimateTmv": false,
+          "usedTradeIn": 7474.0,
+          "usedPrivateParty": 8503.0,
+          "usedTmvRetail": 9453.0,
+          "baseMSRP": 15345.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6233",
+        "id": 101414934,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200400928",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200400927",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    },
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200442985
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 5M)",
+        "price": {
+          "baseInvoice": 14957.0,
+          "estimateTmv": false,
+          "usedTradeIn": 8210.0,
+          "usedPrivateParty": 9439.0,
+          "usedTmvRetail": 10529.0,
+          "baseMSRP": 15745.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6233",
+        "id": 200442987,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200442990",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.8L Inline4 16 Valve   Gas Regular Unleaded 2ZR-FE",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200442988",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      },
+      "Scion 10 Series": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200442985
+        },
+        "numOfDoors": "4",
+        "name": "Scion 10 Series 4dr Hatchback (1.8L 4cyl 5M)",
+        "price": {
+          "baseInvoice": 17248.0,
+          "estimateTmv": false,
+          "usedTradeIn": 9484.0,
+          "usedPrivateParty": 10788.0,
+          "usedTmvRetail": 11945.0,
+          "baseMSRP": 18155.0,
+          "deliveryCharges": 755.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6239",
+        "id": 200471251,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200442990",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.8L Inline4 16 Valve   Gas Regular Unleaded 2ZR-FE",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200442988",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200486318
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.8L 4cyl 5M)",
+        "price": {
+          "baseInvoice": 15124.0,
+          "estimateTmv": false,
+          "usedTradeIn": 8975.0,
+          "usedPrivateParty": 10309.0,
+          "usedTmvRetail": 11400.0,
+          "baseMSRP": 15920.0,
+          "deliveryCharges": 770.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "33"
+        },
+        "manufacturerCode": "6233",
+        "id": 200486363,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200486366",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1798.0,
+          "code": "4INAG1.8",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "1.8L Inline4 16 Valve   Gas Regular Unleaded 2ZR-FE",
+          "size": 1.8,
+          "compressionRatio": 10.0,
+          "compressorType": "NA",
+          "id": "200486365",
+          "torque": 125,
+          "manufacturerEngineCode": "2ZR-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4400
+          },
+          "horsepower": 128,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xD Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xD",
+          "niceName": "xd",
+          "id": "Scion_xD"
+        }
+      }
+    }
+  },
+  "xa": {
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100506312
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.5L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 12900.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2963.0,
+          "usedPrivateParty": 3749.0,
+          "usedTmvRetail": 5060.0,
+          "baseMSRP": 13580.0,
+          "deliveryCharges": 580.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "35"
+        },
+        "manufacturerCode": "6210",
+        "id": 100570404,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200171272",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1497.0,
+          "code": "4INAG1.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.5,
+          "compressionRatio": 10.5,
+          "compressorType": "NA",
+          "id": "200171271",
+          "torque": 101,
+          "manufacturerEngineCode": "1NZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 103,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xA Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xA",
+          "niceName": "xa",
+          "id": "Scion_xA"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100503102
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.5L 4cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 11855.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2256.0,
+          "usedPrivateParty": 2900.0,
+          "usedTmvRetail": 3972.0,
+          "baseMSRP": 12480.0,
+          "deliveryCharges": 485.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "34"
+        },
+        "manufacturerCode": "6211",
+        "id": 100257479,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200237858",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1496.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.5,
+          "code": "4INAG1.5",
+          "compressorType": "NA",
+          "id": "200237857",
+          "torque": 105,
+          "compressionRatio": 10.5,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 108,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xA Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xA",
+          "niceName": "xa",
+          "id": "Scion_xA"
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Subcompact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100503983
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback (1.5L 4cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseInvoice": 12663.0,
+          "estimateTmv": false,
+          "usedTradeIn": 2603.0,
+          "usedPrivateParty": 3361.0,
+          "usedTmvRetail": 4625.0,
+          "baseMSRP": 13330.0,
+          "deliveryCharges": 515.0
+        },
+        "MPG": {
+          "city": "27",
+          "highway": "35"
+        },
+        "manufacturerCode": "6210",
+        "id": 100380483,
+        "make": {
+          "name": "Scion",
+          "niceName": "scion",
+          "id": 200006515
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200211145",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "configuration": "inline",
+          "displacement": 1497.0,
+          "code": "4INAG1.5",
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.5,
+          "compressionRatio": 10.5,
+          "compressorType": "NA",
+          "id": "200211144",
+          "torque": 105,
+          "manufacturerEngineCode": "1NZ-FE",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 4200
+          },
+          "horsepower": 108,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "xA Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "xA",
+          "niceName": "xa",
+          "id": "Scion_xA"
+        }
+      }
+    }
+  }
+}

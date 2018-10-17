@@ -1,0 +1,747 @@
+{
+  "hummer": {
+    "1999": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1999,
+          "id": 1140
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4dr SUV 4WD",
+        "price": {
+          "usedTradeIn": 21446.0,
+          "usedTmvRetail": 27975.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 23894.0
+        },
+        "id": 13773,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200543143",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200543144",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1999,
+          "id": 1140
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV AWD",
+        "price": {
+          "usedTradeIn": 24328.0,
+          "usedTmvRetail": 31489.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 27013.0
+        },
+        "id": 13775,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200543169",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200543170",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Hard Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "2dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1999,
+          "id": 1140
+        },
+        "numOfDoors": "2",
+        "name": "Hard Top 2dr SUV AWD",
+        "price": {
+          "usedTradeIn": 18783.0,
+          "usedTmvRetail": 25004.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 21116.0
+        },
+        "id": 13776,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200543130",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200543131",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      }
+    },
+    "2000": {
+      "Slantback": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2000,
+          "id": 305
+        },
+        "numOfDoors": "4",
+        "name": "Slantback 4dr SUV AWD",
+        "price": {
+          "usedTradeIn": 26889.0,
+          "usedTmvRetail": 34610.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 29784.0
+        },
+        "id": 10138,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200499885",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200499886",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "2dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2000,
+          "id": 305
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV AWD",
+        "price": {
+          "usedTradeIn": 20164.0,
+          "usedTmvRetail": 26603.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 22579.0
+        },
+        "id": 100003299,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200499857",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200499858",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "Convertible SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2000,
+          "id": 305
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4dr SUV 4WD",
+        "price": {
+          "usedTradeIn": 22986.0,
+          "usedTmvRetail": 29852.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 25561.0
+        },
+        "id": 10134,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200499829",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200499830",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Hard Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2000,
+          "id": 305
+        },
+        "numOfDoors": "4",
+        "name": "Hard Top 4dr SUV AWD",
+        "price": {
+          "usedTradeIn": 24700.0,
+          "usedTmvRetail": 31947.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 27418.0
+        },
+        "id": 10135,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200499843",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200499844",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2000,
+          "id": 305
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV AWD",
+        "price": {
+          "usedTradeIn": 25699.0,
+          "usedTmvRetail": 33162.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 28498.0
+        },
+        "id": 10136,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200499871",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200499872",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      }
+    },
+    "1998": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1998,
+          "id": 3407
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4dr SUV 4WD",
+        "price": {
+          "usedTradeIn": 18203.0,
+          "usedTmvRetail": 26184.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 21196.0
+        },
+        "id": 8481,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200656655",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200656656",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1998,
+          "id": 3407
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD",
+        "price": {
+          "usedTradeIn": 20681.0,
+          "usedTmvRetail": 29755.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 24084.0
+        },
+        "id": 8484,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200656664",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200656665",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      },
+      "Hard Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "vehicleSize": "Large",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "primaryBodyType": "SUV",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1998,
+          "id": 3407
+        },
+        "numOfDoors": "4",
+        "name": "Hard Top 4dr SUV AWD",
+        "price": {
+          "usedTradeIn": 19862.0,
+          "usedTmvRetail": 28417.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 23070.0
+        },
+        "id": 8479,
+        "make": {
+          "niceName": "am-general",
+          "name": "AM General",
+          "id": 200347864
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200656673",
+          "numberOfSpeeds": "4",
+          "transmissionType": "AUTOMATIC",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "type": "diesel",
+          "name": "Engine",
+          "size": 6.5,
+          "equipmentType": "ENGINE",
+          "compressorType": "turbodiesel",
+          "id": "200656674",
+          "torque": 430,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "code": "8VTCD6.5"
+        },
+        "model": {
+          "niceName": "hummer",
+          "name": "Hummer",
+          "id": "AM_General_Hummer"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Hummer SUV"
+        }
+      }
+    }
+  }
+}

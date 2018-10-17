@@ -1,0 +1,218 @@
+{
+  "g80": {
+    "2017": {
+      "3.8": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Large Cars",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "Luxury,Performance"
+        },
+        "states": [
+          "NEW"
+        ],
+        "year": {
+          "year": 2017,
+          "id": 401597817
+        },
+        "numOfDoors": "4",
+        "name": "3.8 4dr Sedan AWD (3.8L 6cyl 8A)",
+        "price": {
+          "baseInvoice": 41592.0,
+          "baseMSRP": 43900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 950.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "25"
+        },
+        "manufacturerCode": "B2402A65",
+        "id": 401597821,
+        "make": {
+          "niceName": "genesis",
+          "name": "Genesis",
+          "id": 401626455
+        },
+        "transmission": {
+          "id": "401660204",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "numberOfSpeeds": "8",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 6,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 293,
+          "totalValves": 24,
+          "compressionRatio": 11.5,
+          "name": "3.8L V6 24 Valve Gas Regular",
+          "type": "gas",
+          "code": "6VNAG3.8",
+          "compressorType": "NA",
+          "id": "401597819",
+          "displacement": 3778.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 311,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.8
+        },
+        "model": {
+          "niceName": "g80",
+          "name": "G80",
+          "id": "Genesis_G80"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "G80 Sedan"
+        }
+      },
+      "5.0 Ultimate": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Large Cars",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "Luxury,High-Performance"
+        },
+        "states": [
+          "NEW"
+        ],
+        "year": {
+          "year": 2017,
+          "id": 401597817
+        },
+        "numOfDoors": "4",
+        "name": "5.0 Ultimate 4dr Sedan (5.0L 8cyl 8A)",
+        "price": {
+          "baseInvoice": 51037.0,
+          "baseMSRP": 54550.0,
+          "estimateTmv": false,
+          "deliveryCharges": 950.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "23"
+        },
+        "manufacturerCode": "B2452R85",
+        "id": 401660201,
+        "make": {
+          "niceName": "genesis",
+          "name": "Genesis",
+          "id": 401626455
+        },
+        "transmission": {
+          "id": "401660204",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "numberOfSpeeds": "8",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 383,
+          "totalValves": 32,
+          "compressionRatio": 11.8,
+          "name": "5.0L V8 32 Valve   Gas Premium Unleaded (recommended)",
+          "type": "gas",
+          "code": "8VNAG5.0",
+          "compressorType": "NA",
+          "id": "401660203",
+          "displacement": 5038.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 5000
+          },
+          "horsepower": 420,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 5.0
+        },
+        "model": {
+          "niceName": "g80",
+          "name": "G80",
+          "id": "Genesis_G80"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "G80 Sedan"
+        }
+      }
+    }
+  },
+  "g90": {
+    "2017": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Large Cars",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Sedan",
+          "market": "Luxury"
+        },
+        "states": [
+          "FUTURE"
+        ],
+        "model": {
+          "niceName": "g90",
+          "name": "G90",
+          "id": "Genesis_G90"
+        },
+        "year": {
+          "year": 2017,
+          "id": 401597818
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "id": 401597822,
+        "drivenWheels": "rear wheel drive",
+        "transmission": {
+          "transmissionType": "UNKNOWN"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "compressorType": "NA",
+          "id": "401597820",
+          "name": "Engine 1",
+          "type": "gas",
+          "code": "NAG",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "G90 Sedan"
+        },
+        "make": {
+          "niceName": "genesis",
+          "name": "Genesis",
+          "id": 401626455
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "giulia": {
+    "2017": {
+      "Base": {
+        "numOfDoors": "4",
+        "year": {
+          "year": 2017,
+          "id": 200741082
+        },
+        "name": "4dr Sedan",
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "Sedan",
+          "market": "Factory Tuner,Luxury,High-Performance"
+        },
+        "id": 200741084,
+        "make": {
+          "niceName": "alfa-romeo",
+          "name": "Alfa Romeo",
+          "id": 200464140
+        },
+        "transmission": {
+          "transmissionType": "UNKNOWN"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "compressorType": "NA",
+          "id": "200741083",
+          "name": "Engine 1",
+          "type": "gas",
+          "code": "NAG",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "FUTURE"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Giulia Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "giulia",
+          "name": "Giulia",
+          "id": "Alfa_Romeo_Giulia"
+        }
+      }
+    }
+  },
+  "4c": {
+    "2015": {
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700684
+        },
+        "name": "2dr Coupe (1.7L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Luxury,High-Performance"
+        },
+        "price": {
+          "baseInvoice": 52117.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 44467.0,
+          "usedTradeIn": 42455.0,
+          "usedTmvRetail": 45985.0,
+          "deliveryCharges": 1595.0,
+          "baseMSRP": 53900.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "34"
+        },
+        "manufacturerCode": "4CFX29",
+        "id": 200464146,
+        "make": {
+          "niceName": "alfa-romeo",
+          "name": "Alfa Romeo",
+          "id": 200464140
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200464148",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 1742.0,
+          "totalValves": 16,
+          "compressionRatio": 9.3,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200464147",
+          "torque": 258,
+          "manufacturerEngineCode": "EBC",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 237,
+          "configuration": "inline",
+          "code": "4ITCG1.7",
+          "size": 1.7
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "4C Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "4c",
+          "name": "4C",
+          "id": "Alfa_Romeo_4C"
+        }
+      },
+      "Launch Edition": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700684
+        },
+        "name": "Launch Edition 2dr Coupe (1.7L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Luxury,High-Performance"
+        },
+        "price": {
+          "baseInvoice": 65602.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 55952.0,
+          "usedTradeIn": 53389.0,
+          "usedTmvRetail": 57886.0,
+          "deliveryCharges": 1595.0,
+          "baseMSRP": 68400.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "34"
+        },
+        "manufacturerCode": "4CFS29",
+        "id": 200708065,
+        "make": {
+          "niceName": "alfa-romeo",
+          "name": "Alfa Romeo",
+          "id": 200464140
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200464148",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 1742.0,
+          "totalValves": 16,
+          "compressionRatio": 9.3,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200464147",
+          "torque": 258,
+          "manufacturerEngineCode": "EBC",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 237,
+          "configuration": "inline",
+          "code": "4ITCG1.7",
+          "size": 1.7
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "4C Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "4c",
+          "name": "4C",
+          "id": "Alfa_Romeo_4C"
+        }
+      },
+      "Spider": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2015,
+          "id": 200700684
+        },
+        "name": "Spider 2dr Convertible (1.7L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Luxury,High-Performance"
+        },
+        "price": {
+          "baseInvoice": 61417.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 52479.0,
+          "usedTradeIn": 50106.0,
+          "usedTmvRetail": 54270.0,
+          "deliveryCharges": 1595.0,
+          "baseMSRP": 63900.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "34"
+        },
+        "manufacturerCode": "4CFX27",
+        "id": 200737860,
+        "make": {
+          "niceName": "alfa-romeo",
+          "name": "Alfa Romeo",
+          "id": 200464140
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200464148",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 1742.0,
+          "totalValves": 16,
+          "compressionRatio": 9.3,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "200464147",
+          "torque": 258,
+          "manufacturerEngineCode": "EBC",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 237,
+          "configuration": "inline",
+          "code": "4ITCG1.7",
+          "size": 1.7
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "4C Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "4c",
+          "name": "4C",
+          "id": "Alfa_Romeo_4C"
+        }
+      }
+    },
+    "2016": {
+      "Spider": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401630278
+        },
+        "name": "Spider 2dr Convertible (1.7L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Luxury,High-Performance"
+        },
+        "price": {
+          "baseInvoice": 63357.0,
+          "deliveryCharges": 1595.0,
+          "estimateTmv": false,
+          "baseMSRP": 65900.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "34"
+        },
+        "manufacturerCode": "4CFX27",
+        "id": 401630280,
+        "make": {
+          "niceName": "alfa-romeo",
+          "name": "Alfa Romeo",
+          "id": 200464140
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "401630285",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 1742.0,
+          "totalValves": 16,
+          "compressionRatio": 9.3,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401630286",
+          "torque": 258,
+          "manufacturerEngineCode": "EBC",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 237,
+          "configuration": "inline",
+          "code": "4ITCG1.7",
+          "size": 1.7
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "4C Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "4c",
+          "name": "4C",
+          "id": "Alfa_Romeo_4C"
+        }
+      },
+      "Base": {
+        "numOfDoors": "2",
+        "year": {
+          "year": 2016,
+          "id": 401630278
+        },
+        "name": "2dr Coupe (1.7L 4cyl Turbo 6AM)",
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Compact Cars",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Luxury,High-Performance"
+        },
+        "price": {
+          "baseInvoice": 53857.0,
+          "deliveryCharges": 1595.0,
+          "estimateTmv": false,
+          "baseMSRP": 55900.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "34"
+        },
+        "manufacturerCode": "4CFX29",
+        "id": 401630279,
+        "make": {
+          "niceName": "alfa-romeo",
+          "name": "Alfa Romeo",
+          "id": 200464140
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "401630285",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 4,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 1742.0,
+          "totalValves": 16,
+          "compressionRatio": 9.3,
+          "name": "Engine",
+          "type": "gas",
+          "equipmentType": "ENGINE",
+          "compressorType": "turbocharger",
+          "id": "401630286",
+          "torque": 258,
+          "manufacturerEngineCode": "EBC",
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 237,
+          "configuration": "inline",
+          "code": "4ITCG1.7",
+          "size": 1.7
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "4C Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "niceName": "4c",
+          "name": "4C",
+          "id": "Alfa_Romeo_4C"
+        }
+      }
+    }
+  },
+  "4c-spider": {
+    "2016": {}
+  }
+}

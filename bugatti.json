@@ -1,0 +1,472 @@
+{
+  "veyron-164": {
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "year": {
+          "year": 2006,
+          "id": 100505545
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (8.0L 16cyl Turbo 7A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 40000.0,
+          "estimateTmv": false,
+          "baseMSRP": 1400000.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "14"
+        },
+        "id": 100773420,
+        "make": {
+          "name": "Bugatti",
+          "niceName": "bugatti",
+          "id": 200030397
+        },
+        "transmission": {
+          "id": "200164223",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "7A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 16,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 7993.0,
+          "totalValves": 64,
+          "type": "gas",
+          "name": "Engine",
+          "size": 8.0,
+          "code": "16WQTG8.0",
+          "compressorType": "quad turbocharger",
+          "id": "200164222",
+          "torque": 922,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 1001,
+          "configuration": "W",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Veyron 16.4 Coupe"
+        },
+        "drivenWheels": "all wheel drive",
+        "model": {
+          "name": "Veyron 16.4",
+          "niceName": "veyron-164",
+          "id": "Bugatti_Veyron_16.4"
+        }
+      }
+    },
+    "2009": {
+      "Grand Sport": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100528909
+        },
+        "numOfDoors": "2",
+        "name": "Grand Sport 2dr Convertible AWD (8.0 16cyl Turbo 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 51000.0,
+          "estimateTmv": false,
+          "baseMSRP": 1990064.0
+        },
+        "id": 101194818,
+        "make": {
+          "name": "Bugatti",
+          "niceName": "bugatti",
+          "id": 200030397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200030504",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 16,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 7993.0,
+          "totalValves": 64,
+          "type": "gas",
+          "name": "Engine",
+          "size": 8.0,
+          "code": "16WQTG8.0",
+          "compressorType": "quad turbocharger",
+          "id": "200030503",
+          "torque": 922,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 1001,
+          "configuration": "W",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Veyron 16.4 Convertible"
+        },
+        "drivenWheels": "all wheel drive",
+        "model": {
+          "name": "Veyron 16.4",
+          "niceName": "veyron-164",
+          "id": "Bugatti_Veyron_16.4"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100528909
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (8.0L 16cyl Turbo 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 51000.0,
+          "estimateTmv": false,
+          "baseMSRP": 1705769.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "14"
+        },
+        "id": 101194582,
+        "make": {
+          "name": "Bugatti",
+          "niceName": "bugatti",
+          "id": 200030397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200030509",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 16,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 7993.0,
+          "totalValves": 64,
+          "type": "gas",
+          "name": "Engine",
+          "size": 8.0,
+          "code": "16WQTG8.0",
+          "compressorType": "quad turbocharger",
+          "id": "200030508",
+          "torque": 922,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 1001,
+          "configuration": "W",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Veyron 16.4 Coupe"
+        },
+        "drivenWheels": "all wheel drive",
+        "model": {
+          "name": "Veyron 16.4",
+          "niceName": "veyron-164",
+          "id": "Bugatti_Veyron_16.4"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "year": {
+          "year": 2007,
+          "id": 100524632
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (8.0L 16cyl Turbo 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 40000.0,
+          "estimateTmv": false,
+          "baseMSRP": 1500000.0
+        },
+        "id": 100959652,
+        "make": {
+          "name": "Bugatti",
+          "niceName": "bugatti",
+          "id": 200030397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200147054",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 16,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 7993.0,
+          "totalValves": 64,
+          "type": "gas",
+          "name": "Engine",
+          "size": 8.0,
+          "code": "16WQTG8.0",
+          "compressorType": "quad turbocharger",
+          "id": "200147053",
+          "torque": 922,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 1001,
+          "configuration": "W",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Veyron 16.4 Coupe"
+        },
+        "drivenWheels": "all wheel drive",
+        "model": {
+          "name": "Veyron 16.4",
+          "niceName": "veyron-164",
+          "id": "Bugatti_Veyron_16.4"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100524633
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (8.0L 16cyl Turbo 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 40000.0,
+          "estimateTmv": false,
+          "baseMSRP": 1500000.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "14"
+        },
+        "id": 100961429,
+        "make": {
+          "name": "Bugatti",
+          "niceName": "bugatti",
+          "id": 200030397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200104263",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 16,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 7993.0,
+          "totalValves": 64,
+          "type": "gas",
+          "name": "Engine",
+          "size": 8.0,
+          "code": "16WQTG8.0",
+          "compressorType": "quad turbocharger",
+          "id": "200104262",
+          "torque": 922,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 1001,
+          "configuration": "W",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Veyron 16.4 Coupe"
+        },
+        "drivenWheels": "all wheel drive",
+        "model": {
+          "name": "Veyron 16.4",
+          "niceName": "veyron-164",
+          "id": "Bugatti_Veyron_16.4"
+        }
+      },
+      "Pur Sang": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100524633
+        },
+        "numOfDoors": "2",
+        "name": "Pur Sang 2dr Coupe AWD (8.0L 16cyl Turbo 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 40000.0,
+          "estimateTmv": false,
+          "baseMSRP": 2065902.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "14"
+        },
+        "id": 100961529,
+        "make": {
+          "name": "Bugatti",
+          "niceName": "bugatti",
+          "id": 200030397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200104268",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 16,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 7993.0,
+          "totalValves": 64,
+          "type": "gas",
+          "name": "Engine",
+          "size": 8.0,
+          "code": "16WQTG8.0",
+          "compressorType": "quad turbocharger",
+          "id": "200104267",
+          "torque": 922,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6000,
+            "torque": 2200
+          },
+          "horsepower": 1001,
+          "configuration": "W",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Veyron 16.4 Coupe"
+        },
+        "drivenWheels": "all wheel drive",
+        "model": {
+          "name": "Veyron 16.4",
+          "niceName": "veyron-164",
+          "id": "Bugatti_Veyron_16.4"
+        }
+      }
+    }
+  }
+}

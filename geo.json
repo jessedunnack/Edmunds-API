@@ -1,0 +1,5529 @@
+{
+  "metro": {
+    "1994": {
+      "XFi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2117
+        },
+        "numOfDoors": "2",
+        "name": "XFi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "43",
+          "highway": "51"
+        },
+        "id": 5655,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581800",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581801",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 4700,
+            "torque": 3300
+          },
+          "horsepower": 49,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2117
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "44"
+        },
+        "id": 5652,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581778",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581780",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 52,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1997": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2120
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "44"
+        },
+        "id": 47,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581904",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581905",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2120
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "39"
+        },
+        "id": 50,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581892",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.3,
+          "code": "4INAG1.3",
+          "id": "200581894",
+          "torque": 74,
+          "rpm": {
+            "horsepower": 5500,
+            "torque": 3000
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1991": {
+      "XFi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2115
+        },
+        "numOfDoors": "2",
+        "name": "XFi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "43",
+          "highway": "51"
+        },
+        "id": 5609,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581701",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581702",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2115
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "45"
+        },
+        "id": 5603,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581690",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581692",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2115
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "45"
+        },
+        "id": 5605,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581651",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581653",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1996": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2119
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "44"
+        },
+        "id": 5626,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581867",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581869",
+          "torque": 58,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2119
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "44"
+        },
+        "id": 5629,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581832",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581833",
+          "torque": 58,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1992": {
+      "XFi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2116
+        },
+        "numOfDoors": "2",
+        "name": "XFi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "43",
+          "highway": "51"
+        },
+        "id": 10711,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581742",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581743",
+          "torque": 58,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 4700,
+            "torque": 3300
+          },
+          "horsepower": 49,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2116
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "45"
+        },
+        "id": 10709,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581730",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581732",
+          "torque": 58,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 52,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2116
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "45"
+        },
+        "id": 10705,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581765",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581767",
+          "torque": 58,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 52,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1995": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2118
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "44"
+        },
+        "id": 5643,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581826",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581827",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2118
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "37",
+          "highway": "44"
+        },
+        "id": 5640,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581819",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200581821",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1993": {
+      "XFi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 776
+        },
+        "numOfDoors": "2",
+        "name": "XFi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "43",
+          "highway": "51"
+        },
+        "id": 10694,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519522",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200519523",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 4700,
+            "torque": 3300
+          },
+          "horsepower": 49,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 776
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "45"
+        },
+        "id": 10687,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519500",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200519502",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 776
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "45"
+        },
+        "id": 10691,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519543",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200519545",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 3300
+          },
+          "horsepower": 55,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    },
+    "1990": {
+      "XFi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 775
+        },
+        "numOfDoors": "2",
+        "name": "XFi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "43",
+          "highway": "51"
+        },
+        "id": 5681,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519483",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200519484",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 4700,
+            "torque": 3300
+          },
+          "horsepower": 49,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 775
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "45"
+        },
+        "id": 5620,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519455",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200519457",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 4700,
+            "torque": 3300
+          },
+          "horsepower": 49,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "SUBCOMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 775
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "38",
+          "highway": "45"
+        },
+        "id": 5623,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519462",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 3,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "id": "200519464",
+          "torque": 58,
+          "rpm": {
+            "horsepower": 4700,
+            "torque": 3300
+          },
+          "horsepower": 49,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Metro Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Metro",
+          "niceName": "metro",
+          "id": "Geo_Metro"
+        }
+      }
+    }
+  },
+  "tracker": {
+    "1994": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2135
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10684,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582340",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582342",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2135
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10682,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582304",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582306",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2135
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10681,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582322",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582324",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2135
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5656,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582330",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582332",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1997": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2138
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 10954,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582484",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582486",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2138
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 12795,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582510",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582512",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2138
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1064.0,
+          "usedTmvRetail": 2004.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 10903,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582549",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582551",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1991": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2133
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5614,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582217",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582219",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2133
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5613,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582208",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582210",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2133
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5611,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582235",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582237",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2133
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5610,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582226",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582228",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1996": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2137
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr SUV",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 5634,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582472",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582474",
+          "torque": 98,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2137
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 5636,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582400",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582402",
+          "torque": 98,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2137
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 5638,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582424",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582426",
+          "torque": 98,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 2137
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "24"
+        },
+        "id": 5633,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582436",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582438",
+          "torque": 98,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1992": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 781
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5593,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519681",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519683",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 781
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5595,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519659",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519661",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 781
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 5596,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519648",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519650",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 781
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10712,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519637",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519639",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1995": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2136
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "id": 5650,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582381",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582383",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2136
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "id": 5648,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582363",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582365",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2136
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "id": 5647,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582347",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582349",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2136
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "id": 5646,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582354",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582356",
+          "torque": 98,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4000
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1993": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2134
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10699,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582268",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582270",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2134
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10698,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582280",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582282",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2134
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10696,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582256",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582258",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2134
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "24"
+        },
+        "id": 10695,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582292",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582294",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3000
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    },
+    "1990": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2132
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "26"
+        },
+        "id": 5683,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582192",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582194",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3300
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2132
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "26"
+        },
+        "id": 5684,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582168",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582170",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3300
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2132
+        },
+        "numOfDoors": "2",
+        "name": "2dr SUV 4WD",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "26"
+        },
+        "id": 5685,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582176",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582178",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3300
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      },
+      "LSi w/Soft Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "SPORT_UTILITY_VEHICLES",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible SUV",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2132
+        },
+        "numOfDoors": "2",
+        "name": "LSi 2dr SUV 4WD w/Soft Top",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "26"
+        },
+        "id": 5682,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582184",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582186",
+          "torque": 94,
+          "rpm": {
+            "horsepower": 5400,
+            "torque": 3300
+          },
+          "horsepower": 80,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "Tracker SUV"
+        },
+        "drivenWheels": "four wheel drive",
+        "model": {
+          "name": "Tracker",
+          "niceName": "tracker",
+          "id": "Geo_Tracker"
+        }
+      }
+    }
+  },
+  "prizm": {
+    "1994": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2125
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "id": 5651,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582025",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582028",
+          "torque": 100,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 2800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1994,
+          "id": 2125
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "id": 5654,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582013",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582015",
+          "torque": 100,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 2800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1997": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2127
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1066.0,
+          "usedTmvRetail": 2008.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "31"
+        },
+        "id": 58,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582071",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582074",
+          "torque": 105,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4400
+          },
+          "horsepower": 100,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1997,
+          "id": 2127
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "31"
+        },
+        "id": 56,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582084",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582086",
+          "torque": 105,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4400
+          },
+          "horsepower": 100,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1991": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2123
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "31"
+        },
+        "id": 5608,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581966",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200581968",
+          "torque": 101,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 102,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 2123
+        },
+        "numOfDoors": "4",
+        "name": "GSi 4dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "id": 5599,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581961",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200581963",
+          "torque": 105,
+          "rpm": {
+            "horsepower": 6800,
+            "torque": 6000
+          },
+          "horsepower": 130,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Prizm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1996": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 778
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "32"
+        },
+        "id": 5630,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519580",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519582",
+          "torque": 100,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1996,
+          "id": 778
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "32"
+        },
+        "id": 5627,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519592",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519595",
+          "torque": 100,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1992": {
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2124
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "30"
+        },
+        "id": 10706,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582001",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582003",
+          "torque": 101,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 102,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2124
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "30"
+        },
+        "id": 10710,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581989",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200581991",
+          "torque": 101,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 102,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2124
+        },
+        "numOfDoors": "4",
+        "name": "GSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "28"
+        },
+        "id": 10702,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581977",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200581979",
+          "torque": 105,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6800,
+            "torque": 6000
+          },
+          "horsepower": 130,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1995": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2126
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "31"
+        },
+        "id": 5645,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582038",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582040",
+          "torque": 100,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 2800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1995,
+          "id": 2126
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "31"
+        },
+        "id": 5642,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582054",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582057",
+          "torque": 100,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 2800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1993": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 777
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "id": 10693,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519554",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519556",
+          "torque": 100,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "LSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 777
+        },
+        "numOfDoors": "4",
+        "name": "LSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "id": 10689,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519566",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519569",
+          "torque": 100,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 105,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    },
+    "1990": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "4dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2122
+        },
+        "numOfDoors": "4",
+        "name": "4dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "24",
+          "highway": "31"
+        },
+        "id": 5624,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581927",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200581929",
+          "torque": 101,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 102,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Prizm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Sedan",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2122
+        },
+        "numOfDoors": "4",
+        "name": "GSi 4dr Sedan",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "29"
+        },
+        "id": 5618,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200581921",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200581923",
+          "torque": 101,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 130,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Prizm Sedan"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Prizm",
+          "niceName": "prizm",
+          "id": "Geo_Prizm"
+        }
+      }
+    }
+  },
+  "storm": {
+    "1993": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2131
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "25",
+          "highway": "32"
+        },
+        "id": 10690,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582158",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582160",
+          "torque": 97,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1993,
+          "id": 2131
+        },
+        "numOfDoors": "2",
+        "name": "GSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "id": 10685,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582148",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "code": "4INAG1.8",
+          "id": "200582150",
+          "torque": 120,
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 4600
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      }
+    },
+    "1991": {
+      "2+2": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 779
+        },
+        "numOfDoors": "2",
+        "name": "2+2 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "33"
+        },
+        "id": 5597,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519626",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519628",
+          "torque": 97,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 779
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "33"
+        },
+        "id": 5604,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519606",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519608",
+          "torque": 97,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1991,
+          "id": 779
+        },
+        "numOfDoors": "2",
+        "name": "GSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "22",
+          "highway": "30"
+        },
+        "id": 5598,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200519616",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200519618",
+          "torque": 102,
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 5800
+          },
+          "horsepower": 130,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      }
+    },
+    "1992": {
+      "2+2": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2130
+        },
+        "numOfDoors": "2",
+        "name": "2+2 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "33"
+        },
+        "id": 10700,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582126",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582128",
+          "torque": 97,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2130
+        },
+        "numOfDoors": "2",
+        "name": "2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "33"
+        },
+        "id": 10707,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582137",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582139",
+          "torque": 97,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1992,
+          "id": 2130
+        },
+        "numOfDoors": "2",
+        "name": "GSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "21",
+          "highway": "29"
+        },
+        "id": 10701,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582115",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.8,
+          "code": "4INAG1.8",
+          "id": "200582117",
+          "torque": 120,
+          "compressionRatio": 9.0,
+          "rpm": {
+            "horsepower": 6400,
+            "torque": 4600
+          },
+          "horsepower": 140,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      }
+    },
+    "1990": {
+      "2+2": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2129
+        },
+        "numOfDoors": "2",
+        "name": "2+2 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "26",
+          "highway": "33"
+        },
+        "id": 5615,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582106",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 4,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.6,
+          "code": "4INAG1.6",
+          "id": "200582108",
+          "torque": 97,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4800
+          },
+          "horsepower": 95,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      },
+      "GSi": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "COMPACT_CARS",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback,Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 1990,
+          "id": 2129
+        },
+        "numOfDoors": "2",
+        "name": "GSi 2dr Hatchback",
+        "price": {
+          "usedPrivateParty": 1063.0,
+          "usedTmvRetail": 2000.0,
+          "estimateTmv": false,
+          "usedTradeIn": 500.0
+        },
+        "MPG": {
+          "city": "23",
+          "highway": "31"
+        },
+        "id": 5616,
+        "make": {
+          "name": "Geo",
+          "niceName": "geo",
+          "id": 200347866
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200582096",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "type": "gas",
+          "configuration": "inline",
+          "id": "200582098",
+          "cylinder": 4,
+          "rpm": {
+            "horsepower": 5800
+          },
+          "horsepower": 125,
+          "name": "Engine",
+          "size": 1.6,
+          "equipmentType": "ENGINE",
+          "code": "4INAG1.6"
+        },
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "Storm Hatchback"
+        },
+        "drivenWheels": "front wheel drive",
+        "model": {
+          "name": "Storm",
+          "niceName": "storm",
+          "id": "Geo_Storm"
+        }
+      }
+    }
+  }
+}

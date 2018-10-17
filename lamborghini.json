@@ -1,0 +1,4977 @@
+{
+  "gallardo": {
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100505485
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (5.0L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 175000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "14"
+        },
+        "id": 100508686,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200230533",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200230532",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 7800,
+            "torque": 4500
+          },
+          "horsepower": 500,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2013": {
+      "LP 550-2": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441600
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 2dr Coupe (5.2L 10cyl 6M)",
+        "price": {
+          "baseMSRP": 191900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 200441601,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200441608",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "550-2",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200441606",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 570-4 Superleggera Edizione Tecnica": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441600
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Superleggera Edizione Tecnica 2dr Coupe AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 237600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200441605,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200441607",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "570-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200441610",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Coupe",
+          "niceName": "lp-570-4-superleggera-edizione-tecnica",
+          "tuner": "LP 570-4 Superleggera Edizione Tecnica",
+          "modelName": "Gallardo LP 570-4 Superleggera Edizione Tecnica"
+        }
+      },
+      "LP 560-4 Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441600
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-4 Spyder 2dr Convertible AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 225400.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200441603,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200441607",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "560-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200441609",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      },
+      "LP 570-4 Spyder Performante Edizone Tecnica": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441600
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Spyder Performante Edizione Tecnica 2dr Convertible AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 248000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200441604,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200441607",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "570-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200441610",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "lp-570-4-spyder-performante-edizone-tecnica",
+          "tuner": "LP 570-4 Spyder Performante Edizone Tecnica",
+          "modelName": "Gallardo LP 570-4 Spyder Performante Edizone Tecnica"
+        }
+      },
+      "LP 560-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441600
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-4 2dr Coupe AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 202000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200441602,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200441607",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "560-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200441609",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 550-2 Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441600
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 Spyder 2dr Convertible (5.2L 10cyl 6M)",
+        "price": {
+          "baseMSRP": 209500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 200441611,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200441608",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "550-2",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200441606",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100502975
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (5.0L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 165900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "14"
+        },
+        "id": 100392962,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200240283",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200240282",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 7800,
+            "torque": 4500
+          },
+          "horsepower": 494,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2011": {
+      "LP 570-4 Superleggera": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100531350
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Superleggera 2dr Coupe AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 237600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 101289281,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200073160",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200073159",
+          "torque": 398,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 562,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2008": {
+      "Superleggera": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100524572
+        },
+        "numOfDoors": "2",
+        "name": "Superleggera 2dr Coupe AWD (5.0L 10cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 225040.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 100959758,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200103562",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200103561",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4250
+          },
+          "horsepower": 523,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Coupe",
+          "niceName": "superleggera",
+          "tuner": "Superleggera",
+          "modelName": "Gallardo Superleggera"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100524572
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (5.0L 10cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 196900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 101003740,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200103572",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200103571",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4250
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100524572
+        },
+        "numOfDoors": "2",
+        "name": "Spyder 2dr Convertible AWD (5.0L 10cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 228260.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 101003739,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200103583",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200103582",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4250
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100507039
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (5.0L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 175000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "15"
+        },
+        "id": 100665294,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200193404",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200193403",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4500
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100507039
+        },
+        "numOfDoors": "2",
+        "name": "Spyder 2dr Convertible AWD (5.0L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 195000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1300.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "15"
+        },
+        "id": 100782590,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200193410",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200193409",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4500
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      },
+      "SE": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100507039
+        },
+        "numOfDoors": "2",
+        "name": "SE 2dr Coupe AWD (5.0L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 193370.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "15"
+        },
+        "id": 100665161,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200193398",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200193397",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4500
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2009": {
+      "LP560-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100524949
+        },
+        "numOfDoors": "2",
+        "name": "LP560-4 2dr Coupe AWD (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 198000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101002945,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200006004",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200006003",
+          "torque": 398,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 553,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2012": {
+      "LP 550-2": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100539389
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 2dr Coupe (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 187900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101426290,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200417217",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200417216",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 570-4 Spyder Performante": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100539389
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Spyder Performante 2dr Convertible AWD (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 248000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101426291,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200417222",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200417221",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "lp-570-4-spyder-performante",
+          "tuner": "LP 570-4 Spyder Performante",
+          "modelName": "Gallardo LP 570-4 Spyder Performante"
+        }
+      },
+      "LP 570-4 Superleggera": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100539389
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Superleggera 2dr Coupe AWD (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 237600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101426239,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200417232",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200417231",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Coupe",
+          "niceName": "lp-570-4-superleggera",
+          "tuner": "LP 570-4 Superleggera",
+          "modelName": "Gallardo LP 570-4 Superleggera"
+        }
+      },
+      "LP 560-4 Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100539389
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-4 Spyder 2dr Convertible AWD (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 225400.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101426292,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200417227",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5200.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200417226",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      },
+      "LP 550-2 Bicolore": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100539389
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 Bicolore 2dr Coupe (5.2L 10cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 191900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 101426286,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200417237",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200417236",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 560-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100539389
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-4 2dr Coupe AWD (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 202000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101426251,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200417242",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200417241",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100505993
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (5.0L 10cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 188550.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 101006358,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200160346",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200160345",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4250
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100505993
+        },
+        "numOfDoors": "2",
+        "name": "Spyder 2dr Convertible AWD (5.0L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 195000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1300.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "15"
+        },
+        "id": 100959238,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200160340",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 4961.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.0,
+          "code": "10VNAG5.0",
+          "compressorType": "NA",
+          "id": "200160339",
+          "torque": 376,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 4250
+          },
+          "horsepower": 512,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      }
+    },
+    "2010": {
+      "LP 550-2 Valentino Balboni": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100526872
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 Valentino Balboni 2dr Coupe (5.2L 10cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 219800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 101240934,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200012900",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200012899",
+          "torque": 398,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      }
+    },
+    "2014": {
+      "LP 550-2": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 2dr Coupe (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 191900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "20"
+        },
+        "id": 200678122,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200678123",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "550-2",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678125",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 570-4 Superleggera Edizione Tecnica": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Superleggera Edizione Tecnica 2dr Coupe AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 241200.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200678120,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200678123",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "570-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678129",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Coupe",
+          "niceName": "lp-570-4-superleggera-edizione-tecnica",
+          "tuner": "LP 570-4 Superleggera Edizione Tecnica",
+          "modelName": "Gallardo LP 570-4 Superleggera Edizione Tecnica"
+        }
+      },
+      "LP 560-4 Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-4 Spyder 2dr Convertible AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 225400.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200678118,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200678123",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "560-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678127",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      },
+      "LP 560-2 50 Anniversario": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-2 50 Anniversario 2dr Coupe (5.2L 10cyl 6M)",
+        "price": {
+          "baseMSRP": 198900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "20"
+        },
+        "id": 200695022,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200678124",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "560-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678127",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 570-4 Super Trofeo Stradale": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Super Trofeo Stradale 2dr Coupe AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 256300.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200678130,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200678123",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "570-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678129",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Coupe",
+          "niceName": "lp-570-4-super-trofeo-stradale",
+          "tuner": "LP 570-4 Super Trofeo Stradale",
+          "modelName": "Gallardo LP 570-4 Super Trofeo Stradale"
+        }
+      },
+      "LP 560-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 560-4 2dr Coupe AWD (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 202000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "20"
+        },
+        "id": 200678117,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200678123",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "560-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678127",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 560,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Gallardo Coupe"
+        }
+      },
+      "LP 570-4 Spyder Performante Edizione Tecnica": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 570-4 Spyder Performante Edizione Tecnica 2dr Convertible AWD (5.2L 10cyl 6M)",
+        "price": {
+          "baseMSRP": 251600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 200678132,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200678124",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "570-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678129",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 570,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "body": "Convertible",
+          "niceName": "lp-570-4-spyder-performante-edizione-tecnica",
+          "tuner": "LP 570-4 Spyder Performante Edizione Tecnica",
+          "modelName": "Gallardo LP 570-4 Spyder Performante Edizione Tecnica"
+        }
+      },
+      "LP 550-2 Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200678115
+        },
+        "numOfDoors": "2",
+        "name": "LP 550-2 Spyder 2dr Convertible (5.2L 10cyl 6AM)",
+        "price": {
+          "baseMSRP": 209500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "20"
+        },
+        "id": 200678121,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200678123",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "550-2",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200678125",
+          "torque": 397,
+          "compressionRatio": 12.5,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "gallardo",
+          "name": "Gallardo",
+          "id": "Lamborghini_Gallardo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Gallardo Convertible"
+        }
+      }
+    }
+  },
+  "murcielago": {
+    "2002": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2002,
+          "id": 100502595
+        },
+        "numOfDoors": "2",
+        "name": "AWD 2dr Coupe (6.2L 12cyl 6M)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 273000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 0.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "12"
+        },
+        "manufacturerCode": "MU",
+        "id": 100074532,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200313780",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6192.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.2,
+          "code": "12VNAG6.2",
+          "compressorType": "NA",
+          "id": "200313779",
+          "torque": 479,
+          "compressionRatio": 10.7,
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 5400
+          },
+          "horsepower": 575,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    },
+    "2010": {
+      "LP 670-4 SuperVeloce": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Factory Tuner,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100527510
+        },
+        "numOfDoors": "2",
+        "name": "LP 670-4 SuperVeloce 2dr Coupe AWD (6.5L 12cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 450000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "9",
+          "highway": "14"
+        },
+        "id": 101266472,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200056605",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6496.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200056604",
+          "torque": 487,
+          "compressionRatio": 11.2,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 670,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    },
+    "2003": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2003,
+          "id": 100503089
+        },
+        "numOfDoors": "2",
+        "name": "AWD 2dr Coupe (6.2L 12cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 279800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1300.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "12"
+        },
+        "id": 100222017,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200286968",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6192.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.2,
+          "code": "12VNAG6.2",
+          "compressorType": "NA",
+          "id": "200286967",
+          "torque": 479,
+          "compressionRatio": 10.7,
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 5400
+          },
+          "horsepower": 575,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2004,
+          "id": 100504263
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.2L 12cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 282000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "12"
+        },
+        "id": 100392457,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200255933",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6192.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.2,
+          "code": "12VNAG6.2",
+          "compressorType": "NA",
+          "id": "200255932",
+          "torque": 479,
+          "compressionRatio": 10.7,
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 5400
+          },
+          "horsepower": 571,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    },
+    "2008": {
+      "LP640": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100523031
+        },
+        "numOfDoors": "2",
+        "name": "LP640 2dr Convertible AWD (6.5L 12cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 378200.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "9",
+          "highway": "14"
+        },
+        "id": 101003791,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200086749",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6496.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200086748",
+          "torque": 487,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6000
+          },
+          "horsepower": 632,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Murcielago Convertible"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100506105
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (6.2L 12cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 288000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "13"
+        },
+        "id": 100658231,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200176528",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6192.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.2,
+          "code": "12VNAG6.2",
+          "compressorType": "NA",
+          "id": "200176527",
+          "torque": 479,
+          "compressionRatio": 10.7,
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 5400
+          },
+          "horsepower": 580,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    },
+    "2009": {
+      "LP640": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525249
+        },
+        "numOfDoors": "2",
+        "name": "LP640 2dr Coupe AWD (6.5L 12cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 364000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "9",
+          "highway": "14"
+        },
+        "id": 101012579,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200008539",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6496.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200008538",
+          "torque": 487,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6000
+          },
+          "horsepower": 631,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2005,
+          "id": 100504205
+        },
+        "numOfDoors": "2",
+        "name": "2dr Roadster (6.2L 12cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 319250.0,
+          "estimateTmv": false,
+          "deliveryCharges": 1200.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "12"
+        },
+        "id": 100508443,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200202424",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6192.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.2,
+          "code": "12VNAG6.2",
+          "compressorType": "NA",
+          "id": "200202423",
+          "torque": 650,
+          "compressionRatio": 10.7,
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 5400
+          },
+          "horsepower": 575,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Murcielago Convertible"
+        }
+      }
+    },
+    "2007": {
+      "LP640": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100507580
+        },
+        "numOfDoors": "2",
+        "name": "LP640 2dr Coupe AWD (6.5L 12cyl 6M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 311100.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "8",
+          "highway": "13"
+        },
+        "id": 100956836,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6M",
+          "id": "200151720",
+          "numberOfSpeeds": "6",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6496.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200151719",
+          "torque": 660,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6000
+          },
+          "horsepower": 632,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "murcielago",
+          "name": "Murcielago",
+          "id": "Lamborghini_Murcielago"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Murcielago Coupe"
+        }
+      }
+    }
+  },
+  "huracan": {
+    "2015": {
+      "LP 610-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200717148
+        },
+        "numOfDoors": "2",
+        "name": "LP 610-4 2dr Coupe AWD (5.2L 10cyl 7AM)",
+        "price": {
+          "baseMSRP": 237250.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "20"
+        },
+        "id": 200717150,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200717152",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "610-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "200717151",
+          "torque": 412,
+          "compressionRatio": 12.7,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 6500
+          },
+          "horsepower": 610,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "huracan",
+          "name": "Huracan",
+          "id": "Lamborghini_Huracan"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Huracan Coupe"
+        }
+      }
+    },
+    "2016": {
+      "LP 580-2": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401637964
+        },
+        "numOfDoors": "2",
+        "name": "LP 580-2 2dr Coupe (5.2L 10cyl 7AM)",
+        "price": {
+          "baseMSRP": 199800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "21"
+        },
+        "id": 401638003,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638001",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "580-2",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "401638005",
+          "torque": 397,
+          "compressionRatio": 12.7,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6500
+          },
+          "horsepower": 580,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "huracan",
+          "name": "Huracan",
+          "id": "Lamborghini_Huracan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Huracan Coupe"
+        }
+      },
+      "LP 610-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401637964
+        },
+        "numOfDoors": "2",
+        "name": "LP 610-4 2dr Coupe AWD (5.2L 10cyl 7AM)",
+        "price": {
+          "baseMSRP": 238500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "21"
+        },
+        "id": 401638002,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638001",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "610-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "401637998",
+          "torque": 412,
+          "compressionRatio": 12.7,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 6500
+          },
+          "horsepower": 610,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "huracan",
+          "name": "Huracan",
+          "id": "Lamborghini_Huracan"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Huracan Coupe"
+        }
+      },
+      "LP 610-4 Spyder": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401637964
+        },
+        "numOfDoors": "2",
+        "name": "LP 610-4 Spyder 2dr Convertible AWD (5.2L 10cyl 7AM)",
+        "price": {
+          "baseMSRP": 262350.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "20"
+        },
+        "id": 401638004,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638001",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 10,
+          "configuration": "V",
+          "displacement": 5204.0,
+          "totalValves": 40,
+          "type": "gas",
+          "name": "610-4",
+          "size": 5.2,
+          "code": "10VNAG5.2",
+          "compressorType": "NA",
+          "id": "401637998",
+          "torque": 412,
+          "compressionRatio": 12.7,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 6500
+          },
+          "horsepower": 610,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "huracan",
+          "name": "Huracan",
+          "id": "Lamborghini_Huracan"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Huracan Convertible"
+        }
+      }
+    }
+  },
+  "reventon": {
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100525489
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe AWD (6.5L 12cyl 6AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 1500000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2000.0
+        },
+        "MPG": {
+          "city": "9",
+          "highway": "14"
+        },
+        "id": 101019489,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200106999",
+          "numberOfSpeeds": "6",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6496.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200106998",
+          "torque": 487,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 8000,
+            "torque": 6000
+          },
+          "horsepower": 650,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "reventon",
+          "name": "Reventon",
+          "id": "Lamborghini_Reventon"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Reventon Coupe"
+        }
+      }
+    }
+  },
+  "aventador": {
+    "2015": {
+      "LP 700-4 Roadster": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200717397
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 441600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200717399,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200717404",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200717403",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      },
+      "LP 700-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200717397
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 397500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 200717398,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200717404",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200717403",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      },
+      "LP 720-4 Roadster 50 Anniversario": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200717397
+        },
+        "numOfDoors": "2",
+        "name": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 548800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200717401,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200717404",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200717402",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 720,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      },
+      "LP 720-4 50 Anniversario": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200717397
+        },
+        "numOfDoors": "2",
+        "name": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 497650.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 200717400,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200717404",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200717402",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 720,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      }
+    },
+    "2013": {
+      "LP 700-4 Roadster": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441999
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 441600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200443427,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200442002",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200442001",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      },
+      "LP 700-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200441999
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 387000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 200442000,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200442002",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200442001",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      }
+    },
+    "2012": {
+      "LP 700-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100532251
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 387000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 101329827,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200080647",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200080646",
+          "torque": 509,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      }
+    },
+    "2014": {
+      "LP 720-4 50 Anniversario": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690556
+        },
+        "numOfDoors": "2",
+        "name": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 497650.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 200690669,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200690672",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200690673",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 720,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      },
+      "LP 700-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690556
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 397500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 200690557,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200690672",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200690671",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      },
+      "LP 720-4 Roadster 50 Anniversario": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690556
+        },
+        "numOfDoors": "2",
+        "name": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 548800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200690670,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200690672",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200690673",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 720,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      },
+      "LP 700-4 Roadster": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200690556
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 441600.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2995.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "16"
+        },
+        "id": 200690558,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200690672",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.5L V12 48 Valve   Gas Premium Unleaded (required)  ",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "200690671",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      }
+    },
+    "2016": {
+      "LP 700-4 Roadster": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401638360
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 443800.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "17"
+        },
+        "id": 401638361,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638367",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Lp 700-4",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "401638363",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      },
+      "LP 700-4": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401638360
+        },
+        "numOfDoors": "2",
+        "name": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 399500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 401638362,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638367",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Lp 700-4",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "401638363",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8250,
+            "torque": 5500
+          },
+          "horsepower": 700,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      },
+      "LP 750-4 Superveloce": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401638360
+        },
+        "numOfDoors": "2",
+        "name": "LP 750-4 Superveloce 2dr Coupe AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 490700.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 401638365,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638367",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Lp 750-4",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "401638364",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8400,
+            "torque": 5500
+          },
+          "horsepower": 750,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Aventador Coupe"
+        }
+      },
+      "LP 750-4 Superveloce Roadster": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Midsize",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 401638360
+        },
+        "numOfDoors": "2",
+        "name": "LP 750-4 Superveloce Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
+        "price": {
+          "baseMSRP": 535500.0,
+          "estimateTmv": false,
+          "deliveryCharges": 3495.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 401638366,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "401638367",
+          "numberOfSpeeds": "7",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6498.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Lp 750-4",
+          "size": 6.5,
+          "code": "12VNAG6.5",
+          "compressorType": "NA",
+          "id": "401638364",
+          "torque": 507,
+          "compressionRatio": 11.8,
+          "rpm": {
+            "horsepower": 8400,
+            "torque": 5500
+          },
+          "horsepower": 750,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "aventador",
+          "name": "Aventador",
+          "id": "Lamborghini_Aventador"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Aventador Convertible"
+        }
+      }
+    }
+  },
+  "diablo": {
+    "2001": {
+      "6.0 VT": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2001,
+          "id": 100000305
+        },
+        "numOfDoors": "2",
+        "name": "6.0 VT 2dr Coupe AWD (6.0L 12cyl 5M)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 294900.0,
+          "estimateTmv": false,
+          "deliveryCharges": 0.0
+        },
+        "MPG": {
+          "city": "9",
+          "highway": "12"
+        },
+        "id": 100002083,
+        "make": {
+          "niceName": "lamborghini",
+          "name": "Lamborghini",
+          "id": 200005922
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200336713",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "configuration": "V",
+          "displacement": 6.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.0,
+          "code": "12VNAG6.0",
+          "compressorType": "NA",
+          "id": "200336712",
+          "torque": 457,
+          "compressionRatio": 10.7,
+          "rpm": {
+            "horsepower": 7100,
+            "torque": 5500
+          },
+          "horsepower": 550,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "diablo",
+          "name": "Diablo",
+          "id": "Lamborghini_Diablo"
+        },
+        "drivenWheels": "all wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Diablo Coupe"
+        }
+      }
+    }
+  }
+}

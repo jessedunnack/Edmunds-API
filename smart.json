@@ -1,0 +1,3079 @@
+{
+  "fortwo": {
+    "2010": {
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530969
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 3102.0,
+          "usedPrivateParty": 4288.0,
+          "usedTmvRetail": 5523.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 16990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101273314,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200075851",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200075850",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "BRABUS cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530969
+        },
+        "numOfDoors": "2",
+        "name": "BRABUS cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 4045.0,
+          "usedPrivateParty": 5427.0,
+          "usedTmvRetail": 6865.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 20990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101273316,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200075861",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200075860",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530969
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2468.0,
+          "usedPrivateParty": 3505.0,
+          "usedTmvRetail": 4584.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 13990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101273313,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200075846",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200075845",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530969
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2207.0,
+          "usedPrivateParty": 3229.0,
+          "usedTmvRetail": 4292.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 11990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101273312,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200075841",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200075840",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "BRABUS coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530969
+        },
+        "numOfDoors": "2",
+        "name": "BRABUS coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 3458.0,
+          "usedPrivateParty": 4788.0,
+          "usedTmvRetail": 6173.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 17990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101273315,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200075856",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200075855",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      }
+    },
+    "2011": {
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100533749
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 3379.0,
+          "usedPrivateParty": 4641.0,
+          "usedTmvRetail": 5878.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 17690.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "manufacturerCode": "SMARTA",
+        "id": 101368925,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200361915",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200361914",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100533749
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2587.0,
+          "usedPrivateParty": 3811.0,
+          "usedTmvRetail": 5011.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 14690.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 101368924,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200361910",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200361909",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2011,
+          "id": 100533749
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2362.0,
+          "usedPrivateParty": 3575.0,
+          "usedTmvRetail": 4763.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 12490.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 101368853,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200361905",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200361904",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      }
+    },
+    "2008": {
+      "passion": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100519045
+        },
+        "numOfDoors": "2",
+        "name": "passion 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 1978.0,
+          "usedPrivateParty": 2968.0,
+          "usedTmvRetail": 4177.0,
+          "deliveryCharges": 600.0,
+          "baseMSRP": 13590.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 100888153,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200107357",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200107356",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100519045
+        },
+        "numOfDoors": "2",
+        "name": "pure 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 1624.0,
+          "usedPrivateParty": 2598.0,
+          "usedTmvRetail": 3789.0,
+          "deliveryCharges": 600.0,
+          "baseMSRP": 11590.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 100888152,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200107352",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200107351",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "passion cabrio": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100519045
+        },
+        "numOfDoors": "2",
+        "name": "passion cabrio 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2548.0,
+          "usedPrivateParty": 3550.0,
+          "usedTmvRetail": 4775.0,
+          "deliveryCharges": 600.0,
+          "baseMSRP": 16590.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 100888154,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200107362",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200107361",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      }
+    },
+    "2016": {
+      "passion": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200705423
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl Turbo 5M)",
+        "price": {
+          "baseInvoice": 15010.0,
+          "baseMSRP": 16140.0,
+          "estimateTmv": false,
+          "deliveryCharges": 750.0
+        },
+        "MPG": {
+          "city": "32",
+          "highway": "39"
+        },
+        "id": 401581301,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "401581300",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 898.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "2.0",
+          "size": 1.0,
+          "code": "3ITCG1.0",
+          "compressorType": "turbocharger",
+          "id": "200705426",
+          "torque": 100,
+          "rpm": {
+            "horsepower": 6200,
+            "torque": 2500
+          },
+          "horsepower": 89,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200705423
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl Turbo 5M)",
+        "price": {
+          "baseInvoice": 13625.0,
+          "baseMSRP": 14650.0,
+          "estimateTmv": false,
+          "deliveryCharges": 750.0
+        },
+        "MPG": {
+          "city": "32",
+          "highway": "39"
+        },
+        "id": 200705425,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "401581300",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 898.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "2.0",
+          "size": 1.0,
+          "code": "3ITCG1.0",
+          "compressorType": "turbocharger",
+          "id": "200705426",
+          "torque": 100,
+          "rpm": {
+            "horsepower": 6200,
+            "torque": 2500
+          },
+          "horsepower": 89,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "electric drive coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200705423
+        },
+        "numOfDoors": "2",
+        "name": "electric drive coupe 2dr Hatchback (electric DD)",
+        "price": {
+          "baseInvoice": 23250.0,
+          "baseMSRP": 25000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 750.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "id": 401612066,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "401612068",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "401612067",
+          "cylinder": 0,
+          "name": "Hybrid",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Hatchback",
+          "fuel": "Electric"
+        }
+      },
+      "prime": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200705423
+        },
+        "numOfDoors": "2",
+        "name": "prime coupe 2dr Hatchback (1.0L 3cyl Turbo 5M)",
+        "price": {
+          "baseInvoice": 16266.0,
+          "baseMSRP": 17490.0,
+          "estimateTmv": false,
+          "deliveryCharges": 750.0
+        },
+        "MPG": {
+          "city": "32",
+          "highway": "39"
+        },
+        "id": 401581302,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "401581300",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 898.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "2.0",
+          "size": 1.0,
+          "code": "3ITCG1.0",
+          "compressorType": "turbocharger",
+          "id": "200705426",
+          "torque": 100,
+          "rpm": {
+            "horsepower": 6200,
+            "torque": 2500
+          },
+          "horsepower": 89,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "proxy": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2016,
+          "id": 200705423
+        },
+        "numOfDoors": "2",
+        "name": "proxy coupe 2dr Hatchback (1.0L 3cyl Turbo 5M)",
+        "price": {
+          "baseInvoice": 17186.0,
+          "baseMSRP": 18480.0,
+          "estimateTmv": false,
+          "deliveryCharges": 750.0
+        },
+        "MPG": {
+          "city": "32",
+          "highway": "39"
+        },
+        "id": 401581303,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "401581300",
+          "numberOfSpeeds": "5",
+          "transmissionType": "MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 898.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "2.0",
+          "size": 1.0,
+          "code": "3ITCG1.0",
+          "compressorType": "turbocharger",
+          "id": "200705426",
+          "torque": 100,
+          "rpm": {
+            "horsepower": 6200,
+            "torque": 2500
+          },
+          "horsepower": 89,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      }
+    },
+    "2015": {
+      "electric drive coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200704750
+        },
+        "numOfDoors": "2",
+        "name": "electric drive coupe 2dr Hatchback (electric DD)",
+        "price": {
+          "usedTradeIn": 8834.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 10476.0,
+          "baseInvoice": 23250.0,
+          "usedTmvRetail": 11715.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 25000.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "manufacturerCode": "SMARTCE",
+        "id": 200704763,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200704758",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200724812",
+          "cylinder": 0,
+          "name": "Hybrid",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Hatchback",
+          "fuel": "Electric"
+        }
+      },
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200704750
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "usedTradeIn": 7716.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 8966.0,
+          "baseInvoice": 16675.0,
+          "usedTmvRetail": 9909.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 17930.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTA",
+        "id": 200704764,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200704757",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200704756",
+          "torque": 68,
+          "compressionRatio": 11.4,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200704750
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "usedTradeIn": 6902.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 8102.0,
+          "baseInvoice": 13885.0,
+          "usedTmvRetail": 9007.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 14930.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 200704765,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200704757",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200704756",
+          "torque": 68,
+          "compressionRatio": 11.4,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200704750
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "usedTradeIn": 5739.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 6903.0,
+          "baseInvoice": 12341.0,
+          "usedTmvRetail": 7781.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 13270.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 200704766,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200704757",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200704756",
+          "torque": 68,
+          "compressionRatio": 11.4,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "electric drive cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200704750
+        },
+        "numOfDoors": "2",
+        "name": "electric drive cabriolet 2dr Convertible (electric DD)",
+        "price": {
+          "usedTradeIn": 9596.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 11337.0,
+          "baseInvoice": 26040.0,
+          "usedTmvRetail": 12650.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 28000.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "manufacturerCode": "SMARTAE",
+        "id": 200704762,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200704758",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200724812",
+          "cylinder": 0,
+          "name": "Hybrid",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Convertible",
+          "fuel": "Electric"
+        }
+      }
+    },
+    "2009": {
+      "BRABUS cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100526395
+        },
+        "numOfDoors": "2",
+        "name": "BRABUS cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 3758.0,
+          "usedPrivateParty": 5000.0,
+          "usedTmvRetail": 6400.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 20990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101148589,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200038942",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200038941",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100526395
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2761.0,
+          "usedPrivateParty": 3873.0,
+          "usedTmvRetail": 5127.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 16990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101109984,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200038932",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200038931",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100526395
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2071.0,
+          "usedPrivateParty": 3140.0,
+          "usedTmvRetail": 4346.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 13990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101109983,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200038927",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200038926",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "BRABUS coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100526395
+        },
+        "numOfDoors": "2",
+        "name": "BRABUS coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 3180.0,
+          "usedPrivateParty": 4355.0,
+          "usedTmvRetail": 5680.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 17990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101148570,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200038937",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200038936",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100526395
+        },
+        "numOfDoors": "2",
+        "name": "pure 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 1830.0,
+          "usedPrivateParty": 2891.0,
+          "usedTmvRetail": 4088.0,
+          "deliveryCharges": 645.0,
+          "baseMSRP": 11990.0
+        },
+        "MPG": {
+          "city": "33",
+          "highway": "41"
+        },
+        "id": 101109982,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200038922",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200038921",
+          "torque": 68,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      }
+    },
+    "2012": {
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100532009
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 3687.0,
+          "usedPrivateParty": 4945.0,
+          "usedTmvRetail": 6107.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 17690.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTA",
+        "id": 101419589,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200410856",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200410855",
+          "torque": 68,
+          "compressionRatio": 11.4,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100532009
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2877.0,
+          "usedPrivateParty": 4110.0,
+          "usedTmvRetail": 5249.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 14690.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 101356411,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200351781",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200351780",
+          "torque": 68,
+          "compressionRatio": 11.4,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100532009
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 2638.0,
+          "usedPrivateParty": 3871.0,
+          "usedTmvRetail": 5010.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 12490.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 101356410,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200351776",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "configuration": "inline",
+          "displacement": 996.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "Engine",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200351775",
+          "torque": 68,
+          "compressionRatio": 11.4,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      }
+    },
+    "2013": {
+      "electric drive coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200418482
+        },
+        "numOfDoors": "2",
+        "name": "electric drive coupe 2dr Hatchback (electric DD)",
+        "price": {
+          "usedTradeIn": 5162.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 6649.0,
+          "baseInvoice": 23250.0,
+          "usedTmvRetail": 7967.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 25000.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "manufacturerCode": "SMARTCE",
+        "id": 200459007,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200418007",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200459008",
+          "cylinder": 0,
+          "name": "Electric",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Hatchback",
+          "fuel": "Electric"
+        }
+      },
+      "electric drive cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200418482
+        },
+        "numOfDoors": "2",
+        "name": "electric drive cabriolet 2dr Convertible (electric DD)",
+        "price": {
+          "usedTradeIn": 5930.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 7472.0,
+          "baseInvoice": 26040.0,
+          "usedTmvRetail": 8840.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 28000.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "manufacturerCode": "SMARTAE",
+        "id": 200478248,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200418007",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200459008",
+          "cylinder": 0,
+          "name": "Electric",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Convertible",
+          "fuel": "Electric"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200418482
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 3440.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 4788.0,
+          "baseInvoice": 13848.0,
+          "usedTmvRetail": 5984.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 14890.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 200418484,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200418006",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200418487",
+          "torque": 68,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "pure coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200418482
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 2960.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 4286.0,
+          "baseInvoice": 11616.0,
+          "usedTmvRetail": 5461.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 12490.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 200418485,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200418006",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200418487",
+          "torque": 68,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200418482
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 4178.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 5533.0,
+          "baseInvoice": 16638.0,
+          "usedTmvRetail": 6735.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 17890.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTA",
+        "id": 200418483,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200418006",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200418487",
+          "torque": 68,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      }
+    },
+    "2014": {
+      "passion cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497815
+        },
+        "numOfDoors": "2",
+        "name": "passion cabriolet 2dr Convertible (1.0L 3cyl 5AM)",
+        "price": {
+          "usedTradeIn": 5372.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 6880.0,
+          "baseInvoice": 16675.0,
+          "usedTmvRetail": 8114.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 17930.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTA",
+        "id": 200497817,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200497824",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200497821",
+          "torque": 68,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "fortwo Convertible"
+        }
+      },
+      "electric drive cabriolet": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "N/A"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497815
+        },
+        "numOfDoors": "2",
+        "name": "electric drive cabriolet 2dr Convertible (electric DD)",
+        "price": {
+          "usedTradeIn": 7055.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 8697.0,
+          "baseInvoice": 26040.0,
+          "usedTmvRetail": 10041.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 28000.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "manufacturerCode": "SMARTAE",
+        "id": 200497820,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200497823",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200497822",
+          "cylinder": 0,
+          "name": "Electric",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Convertible",
+          "fuel": "Electric"
+        }
+      },
+      "passion coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497815
+        },
+        "numOfDoors": "2",
+        "name": "passion coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "usedTradeIn": 4588.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 6007.0,
+          "baseInvoice": 13885.0,
+          "usedTmvRetail": 7168.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 14930.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 200497819,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200497824",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200497821",
+          "torque": 68,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      },
+      "electric drive coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497815
+        },
+        "numOfDoors": "2",
+        "name": "electric drive coupe 2dr Hatchback (electric DD)",
+        "price": {
+          "usedTradeIn": 6333.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 7932.0,
+          "baseInvoice": 23250.0,
+          "usedTmvRetail": 9240.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 25000.0
+        },
+        "MPG": {
+          "city": "122",
+          "highway": "93"
+        },
+        "manufacturerCode": "SMARTCE",
+        "id": 200497816,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "1D",
+          "id": "200497823",
+          "numberOfSpeeds": "1",
+          "transmissionType": "DIRECT_DRIVE",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "electric",
+          "compressorType": "NA",
+          "id": "200497822",
+          "cylinder": 0,
+          "name": "Electric",
+          "type": "electric",
+          "code": "0NAE",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "electric",
+          "modelName": "fortwo Electric",
+          "body": "Hatchback",
+          "fuel": "Electric"
+        }
+      },
+      "pure coupe": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Compact",
+          "EPAClass": "Two Seaters",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "2dr Hatchback",
+          "market": "Hatchback"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2014,
+          "id": 200497815
+        },
+        "numOfDoors": "2",
+        "name": "pure coupe 2dr Hatchback (1.0L 3cyl 5AM)",
+        "price": {
+          "usedTradeIn": 3946.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 5346.0,
+          "baseInvoice": 12341.0,
+          "usedTmvRetail": 6491.0,
+          "deliveryCharges": 750.0,
+          "baseMSRP": 13270.0
+        },
+        "MPG": {
+          "city": "34",
+          "highway": "38"
+        },
+        "manufacturerCode": "SMARTC",
+        "id": 200497818,
+        "make": {
+          "niceName": "smart",
+          "name": "smart",
+          "id": 200038885
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200497824",
+          "numberOfSpeeds": "5",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (recommended)",
+          "cylinder": 3,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "displacement": 999.0,
+          "totalValves": 12,
+          "type": "gas",
+          "name": "1.0L Inline3 12 Valve   Gas",
+          "size": 1.0,
+          "code": "3INAG1.0",
+          "compressorType": "NA",
+          "id": "200497821",
+          "torque": 68,
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4500
+          },
+          "horsepower": 70,
+          "configuration": "inline",
+          "equipmentType": "ENGINE"
+        },
+        "model": {
+          "niceName": "fortwo",
+          "name": "fortwo",
+          "id": "smart_fortwo"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "hatchback",
+          "body": "Hatchback",
+          "modelName": "fortwo Hatchback"
+        }
+      }
+    }
+  }
+}

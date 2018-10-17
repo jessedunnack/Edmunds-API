@@ -1,0 +1,3564 @@
+{
+  "h2-sut": {
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2-sut",
+          "name": "H2 SUT",
+          "id": "HUMMER_H2_SUT"
+        },
+        "year": {
+          "year": 2006,
+          "id": 100506153
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 17115.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 18639.0,
+          "baseInvoice": 48792.0,
+          "usedTmvRetail": 21178.0,
+          "baseMSRP": 53035.0,
+          "deliveryCharges": 875.0
+        },
+        "manufacturerCode": "N25736/1SA",
+        "id": 100541862,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200177250",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 365,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200177249",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H2 SUT Crew Cab"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2-sut",
+          "name": "H2 SUT",
+          "id": "HUMMER_H2_SUT"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100525790
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 28528.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 30781.0,
+          "baseInvoice": 57274.0,
+          "usedTmvRetail": 33321.0,
+          "baseMSRP": 61585.0,
+          "deliveryCharges": 950.0
+        },
+        "manufacturerCode": "N25736/1SA",
+        "id": 101038542,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "id": "200010762",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "flex-fuel (unleaded/E85)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve",
+            "timing": "variable valve timing"
+          },
+          "torque": 415,
+          "totalValves": 16,
+          "compressionRatio": 10.5,
+          "name": "Engine",
+          "type": "flex-fuel (FFV)",
+          "code": "8VNAF6.2",
+          "compressorType": "NA",
+          "id": "200010761",
+          "displacement": 6162.0,
+          "manufacturerEngineCode": "L9H",
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 4300
+          },
+          "horsepower": 393,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.2
+        },
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H2 SUT Crew Cab"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2-sut",
+          "name": "H2 SUT",
+          "id": "HUMMER_H2_SUT"
+        },
+        "year": {
+          "year": 2005,
+          "id": 100502968
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 13446.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 14895.0,
+          "baseInvoice": 48024.0,
+          "usedTmvRetail": 17309.0,
+          "baseMSRP": 52485.0,
+          "deliveryCharges": 850.0
+        },
+        "manufacturerCode": "RN25736/1SA",
+        "id": 100382832,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200200815",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 365,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200200814",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 3600
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H2 SUT Crew Cab"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2-sut",
+          "name": "H2 SUT",
+          "id": "HUMMER_H2_SUT"
+        },
+        "year": {
+          "year": 2007,
+          "id": 100516942
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 19263.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 20877.0,
+          "baseInvoice": 49823.0,
+          "usedTmvRetail": 23107.0,
+          "baseMSRP": 54155.0,
+          "deliveryCharges": 900.0
+        },
+        "manufacturerCode": "N25736/1SA",
+        "id": 100761027,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200139787",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 365,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200139786",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H2 SUT Crew Cab"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2-sut",
+          "name": "H2 SUT",
+          "id": "HUMMER_H2_SUT"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100523647
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 23441.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 25307.0,
+          "baseInvoice": 53160.0,
+          "usedTmvRetail": 27587.0,
+          "baseMSRP": 57470.0,
+          "deliveryCharges": 900.0
+        },
+        "manufacturerCode": "N25736/1SA",
+        "id": 100899694,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "id": "200090869",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve",
+            "timing": "variable valve timing"
+          },
+          "torque": 415,
+          "totalValves": 16,
+          "compressionRatio": 10.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.2",
+          "compressorType": "NA",
+          "id": "200090868",
+          "displacement": 6199.0,
+          "manufacturerEngineCode": "L92",
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 4300
+          },
+          "horsepower": 393,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.2
+        },
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H2 SUT Crew Cab"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    }
+  },
+  "h2": {
+    "2003": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2003,
+          "id": 100502708
+        },
+        "numOfDoors": "4",
+        "name": "4WD 4dr SUV (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 8311.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 9717.0,
+          "baseInvoice": 44336.0,
+          "usedTmvRetail": 12059.0,
+          "baseMSRP": 48455.0,
+          "deliveryCharges": 815.0
+        },
+        "manufacturerCode": "N25706/1SA",
+        "id": 100078077,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200271794",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 360,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200271793",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 316,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2004,
+          "id": 100503201
+        },
+        "numOfDoors": "4",
+        "name": "4WD 4dr SUV (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 9938.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 11410.0,
+          "baseInvoice": 45196.0,
+          "usedTmvRetail": 13862.0,
+          "baseMSRP": 49395.0,
+          "deliveryCharges": 850.0
+        },
+        "manufacturerCode": "N25706/1SA",
+        "id": 100273977,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200247947",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 360,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200247946",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 316,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100523646
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (6.2L 8cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 20572.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 22702.0,
+          "baseInvoice": 53118.0,
+          "usedTmvRetail": 25304.0,
+          "baseMSRP": 57425.0,
+          "deliveryCharges": 900.0
+        },
+        "manufacturerCode": "N25706/1SA",
+        "id": 100899630,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "id": "200090807",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve",
+            "timing": "variable valve timing"
+          },
+          "torque": 415,
+          "totalValves": 16,
+          "compressionRatio": 10.5,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.2",
+          "compressorType": "NA",
+          "id": "200090806",
+          "displacement": 6199.0,
+          "manufacturerEngineCode": "L92",
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 4300
+          },
+          "horsepower": 393,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.2
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2006,
+          "id": 100506152
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 14201.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 16007.0,
+          "baseInvoice": 48741.0,
+          "usedTmvRetail": 19018.0,
+          "baseMSRP": 52980.0,
+          "deliveryCharges": 875.0
+        },
+        "manufacturerCode": "N25706/1SA",
+        "id": 100541823,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200177169",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 365,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200177168",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 3600
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100525789
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (6.2L 8cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 25851.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 28109.0,
+          "baseInvoice": 58674.0,
+          "usedTmvRetail": 30656.0,
+          "baseMSRP": 63090.0,
+          "deliveryCharges": 950.0
+        },
+        "manufacturerCode": "N25706/1SA",
+        "id": 101037705,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "id": "200010700",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "numberOfSpeeds": "6",
+          "equipmentType": "TRANSMISSION"
+        },
+        "engine": {
+          "fuelType": "flex-fuel (unleaded/E85)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve",
+            "timing": "variable valve timing"
+          },
+          "torque": 415,
+          "totalValves": 16,
+          "compressionRatio": 10.5,
+          "name": "Engine",
+          "type": "flex-fuel (FFV)",
+          "code": "8VNAF6.2",
+          "compressorType": "NA",
+          "id": "200010699",
+          "displacement": 6162.0,
+          "manufacturerEngineCode": "L9H",
+          "rpm": {
+            "horsepower": 5700,
+            "torque": 4300
+          },
+          "horsepower": 393,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.2
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2005,
+          "id": 100503955
+        },
+        "numOfDoors": "4",
+        "name": "4WD 4dr SUV (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 11992.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 13801.0,
+          "baseInvoice": 47973.0,
+          "usedTmvRetail": 16815.0,
+          "baseMSRP": 52430.0,
+          "deliveryCharges": 850.0
+        },
+        "manufacturerCode": "RN25706/1SA",
+        "id": 100384998,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200211418",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 365,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200211417",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 3600
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h2",
+          "name": "H2",
+          "id": "HUMMER_H2"
+        },
+        "year": {
+          "year": 2007,
+          "id": 100516941
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (6.0L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 16134.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 17973.0,
+          "baseInvoice": 49781.0,
+          "usedTmvRetail": 20512.0,
+          "baseMSRP": 54110.0,
+          "deliveryCharges": 900.0
+        },
+        "manufacturerCode": "N25706/1SA",
+        "id": 100760971,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200139704",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 365,
+          "totalValves": 16,
+          "compressionRatio": 9.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG6.0",
+          "compressorType": "NA",
+          "id": "200139703",
+          "displacement": 5967.0,
+          "manufacturerEngineCode": "LQ4",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.0
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H2 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    }
+  },
+  "h1-alpha": {
+    "2006": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Convertible SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1-alpha",
+          "name": "H1 Alpha",
+          "id": "HUMMER_H1_Alpha"
+        },
+        "year": {
+          "year": 2006,
+          "id": 100505285
+        },
+        "numOfDoors": "4",
+        "name": "Open-Top 4dr SUV 4WD (6.6L 8cyl Turbodiesel 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 53570.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 56530.0,
+          "baseInvoice": 123416.0,
+          "usedTmvRetail": 61464.0,
+          "baseMSRP": 128374.0,
+          "deliveryCharges": 1025.0
+        },
+        "id": 100515302,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "5A",
+          "id": "200168213",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 520,
+          "totalValves": 32,
+          "compressionRatio": 17.5,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.6",
+          "compressorType": "turbocharger",
+          "id": "200168212",
+          "displacement": 6599.0,
+          "manufacturerEngineCode": "LLY",
+          "rpm": {
+            "horsepower": 3000,
+            "torque": 1500
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.6
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 Alpha SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1-alpha",
+          "name": "H1 Alpha",
+          "id": "HUMMER_H1_Alpha"
+        },
+        "year": {
+          "year": 2006,
+          "id": 100505285
+        },
+        "numOfDoors": "4",
+        "name": "Wagon 4dr SUV 4WD (6.6L 8cyl Turbodiesel 5A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 58284.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 61504.0,
+          "baseInvoice": 131335.0,
+          "usedTmvRetail": 66870.0,
+          "baseMSRP": 139771.0,
+          "deliveryCharges": 1025.0
+        },
+        "id": 100515303,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "5A",
+          "id": "200168219",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 520,
+          "totalValves": 32,
+          "compressionRatio": 17.5,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.6",
+          "compressorType": "turbocharger",
+          "id": "200168218",
+          "displacement": 6599.0,
+          "manufacturerEngineCode": "LLY",
+          "rpm": {
+            "horsepower": 3000,
+            "torque": 1500
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.6
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 Alpha SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    }
+  },
+  "h1": {
+    "2002": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Convertible SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100000547
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 29793.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 31076.0,
+          "baseInvoice": 94017.0,
+          "usedTmvRetail": 33214.0,
+          "baseMSRP": 101706.0,
+          "deliveryCharges": 875.0
+        },
+        "manufacturerCode": "HMCO",
+        "id": 100070539,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200312570",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200312569",
+          "displacement": 6468.0,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100000547
+        },
+        "numOfDoors": "4",
+        "name": "Wagon 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 33575.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 34948.0,
+          "baseInvoice": 102050.0,
+          "usedTmvRetail": 37237.0,
+          "baseMSRP": 112949.0,
+          "deliveryCharges": 875.0
+        },
+        "manufacturerCode": "HMCS",
+        "id": 100070540,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200312576",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200312575",
+          "displacement": 6468.0,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      },
+      "10th Anniv. Edition": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100000547
+        },
+        "numOfDoors": "4",
+        "name": "10th Anniv. Edition Wagon 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "estimateTmv": false,
+          "usedTradeIn": 36373.0,
+          "usedPrivateParty": 37810.0,
+          "usedTmvRetail": 40204.0,
+          "deliveryCharges": 875.0,
+          "baseMSRP": 115685.0
+        },
+        "manufacturerCode": "HMCS",
+        "id": 100075617,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200312582",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200312581",
+          "displacement": 6468.0,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2003": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Convertible SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2003,
+          "id": 100502808
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 30948.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 32419.0,
+          "baseInvoice": 97210.0,
+          "usedTmvRetail": 34871.0,
+          "baseMSRP": 105160.0,
+          "deliveryCharges": 1025.0
+        },
+        "manufacturerCode": "HMCO",
+        "id": 100106593,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200281188",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200281187",
+          "displacement": 6468.0,
+          "manufacturerEngineCode": "L67",
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2003,
+          "id": 100502808
+        },
+        "numOfDoors": "4",
+        "name": "Wagon 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 34613.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 36260.0,
+          "baseInvoice": 105243.0,
+          "usedTmvRetail": 39005.0,
+          "baseMSRP": 116483.0,
+          "deliveryCharges": 1025.0
+        },
+        "manufacturerCode": "HMCS",
+        "id": 100106594,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200281194",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200281193",
+          "displacement": 6468.0,
+          "manufacturerEngineCode": "L67",
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2004": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Convertible SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2004,
+          "id": 100503200
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 31634.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 33759.0,
+          "baseInvoice": 97210.0,
+          "usedTmvRetail": 37300.0,
+          "baseMSRP": 105160.0,
+          "deliveryCharges": 1025.0
+        },
+        "manufacturerCode": "HMCO",
+        "id": 100370625,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200259627",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 440,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200259626",
+          "displacement": 6468.0,
+          "manufacturerEngineCode": "L67",
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 205,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "year": {
+          "year": 2004,
+          "id": 100503200
+        },
+        "numOfDoors": "4",
+        "name": "Wagon 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 35874.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 37998.0,
+          "baseInvoice": 105243.0,
+          "usedTmvRetail": 41537.0,
+          "baseMSRP": 116483.0,
+          "deliveryCharges": 1025.0
+        },
+        "manufacturerCode": "HMCS",
+        "id": 100370626,
+        "drivenWheels": "four wheel drive",
+        "transmission": {
+          "name": "4A",
+          "id": "200259633",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 440,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200259632",
+          "displacement": 6468.0,
+          "manufacturerEngineCode": "L67",
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 205,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        },
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        }
+      }
+    },
+    "2001": {
+      "Open Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "Convertible SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2001,
+          "id": 100000268
+        },
+        "numOfDoors": "4",
+        "name": "Open Top 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 21433.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 23413.0,
+          "baseInvoice": 77698.0,
+          "usedTmvRetail": 26712.0,
+          "baseMSRP": 83733.0,
+          "deliveryCharges": 875.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "17"
+        },
+        "id": 100000508,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200318037",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200318036",
+          "displacement": 6468.0,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        }
+      },
+      "Hard Top": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "2dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2001,
+          "id": 100000268
+        },
+        "numOfDoors": "2",
+        "name": "Hard Top 4WD 2dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 20345.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 22255.0,
+          "baseInvoice": 68457.0,
+          "usedTmvRetail": 25437.0,
+          "baseMSRP": 75987.0,
+          "deliveryCharges": 875.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "17"
+        },
+        "id": 100000506,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200318025",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200318024",
+          "displacement": 6468.0,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        }
+      },
+      "Wagon": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Large",
+          "vehicleStyle": "4dr SUV",
+          "market": "Exotic,Diesel"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2001,
+          "id": 100000268
+        },
+        "numOfDoors": "4",
+        "name": "Wagon 4WD 4dr SUV (6.5L 8cyl Turbodiesel 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 24586.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 26775.0,
+          "baseInvoice": 85408.0,
+          "usedTmvRetail": 30424.0,
+          "baseMSRP": 94529.0,
+          "deliveryCharges": 875.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "17"
+        },
+        "id": 100000509,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200318043",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "diesel",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 430,
+          "totalValves": 16,
+          "compressionRatio": 20.2,
+          "name": "Engine",
+          "type": "diesel",
+          "code": "8VTCD6.5",
+          "compressorType": "turbocharger",
+          "id": "200318042",
+          "displacement": 6468.0,
+          "rpm": {
+            "horsepower": 3400,
+            "torque": 1800
+          },
+          "horsepower": 195,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 6.5
+        },
+        "model": {
+          "niceName": "h1",
+          "name": "H1",
+          "id": "HUMMER_H1"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H1 SUV"
+        }
+      }
+    }
+  },
+  "h3t": {
+    "2009": {
+      "Alpha": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Small Pickup Trucks",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100524797
+        },
+        "numOfDoors": "4",
+        "name": "Alpha 4dr Crew Cab 4WD SB (5.3L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 12957.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 14801.0,
+          "baseInvoice": 33494.0,
+          "usedTmvRetail": 16881.0,
+          "baseMSRP": 36015.0,
+          "deliveryCharges": 745.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "16"
+        },
+        "manufacturerCode": "RN15543/1SD",
+        "id": 101034149,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200004094",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 320,
+          "totalValves": 16,
+          "compressionRatio": 9.9,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG5.3",
+          "compressorType": "NA",
+          "id": "200004093",
+          "displacement": 5328.0,
+          "manufacturerEngineCode": "LH8",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 5.3
+        },
+        "model": {
+          "niceName": "h3t",
+          "name": "H3T",
+          "id": "HUMMER_H3T"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H3T Crew Cab"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Small Pickup Trucks",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100524797
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 12040.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 13618.0,
+          "baseInvoice": 28598.0,
+          "usedTmvRetail": 15398.0,
+          "baseMSRP": 30750.0,
+          "deliveryCharges": 745.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15543/1SA",
+        "id": 101034148,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200004088",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.1,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200004087",
+          "displacement": 3653.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3t",
+          "name": "H3T",
+          "id": "HUMMER_H3T"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H3T Crew Cab"
+        }
+      }
+    },
+    "2010": {
+      "Alpha": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Small Pickup Trucks",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530729
+        },
+        "numOfDoors": "4",
+        "name": "Alpha 4dr Crew Cab 4WD SB w/Leather (5.3L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 15392.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 17493.0,
+          "baseInvoice": 36461.0,
+          "usedTmvRetail": 19680.0,
+          "baseMSRP": 39205.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "16"
+        },
+        "manufacturerCode": "RN15543/1SE",
+        "id": 101264250,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200049486",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "flex-fuel (unleaded/E85)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 320,
+          "totalValves": 16,
+          "compressionRatio": 9.9,
+          "name": "Engine",
+          "type": "flex-fuel (FFV)",
+          "code": "8VNAF5.3",
+          "compressorType": "NA",
+          "id": "200049485",
+          "displacement": 5328.0,
+          "manufacturerEngineCode": "LH9",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 5.3
+        },
+        "model": {
+          "niceName": "h3t",
+          "name": "H3T",
+          "id": "HUMMER_H3T"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H3T Crew Cab"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Small Pickup Trucks",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530729
+        },
+        "numOfDoors": "4",
+        "name": "4dr Crew Cab 4WD SB (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 13983.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 15743.0,
+          "baseInvoice": 28751.0,
+          "usedTmvRetail": 17575.0,
+          "baseMSRP": 30915.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15543/1SA",
+        "id": 101263798,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200049492",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.1,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200049491",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3t",
+          "name": "H3T",
+          "id": "HUMMER_H3T"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H3T Crew Cab"
+        }
+      },
+      "Adventure": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Small Pickup Trucks",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530729
+        },
+        "numOfDoors": "4",
+        "name": "Adventure 4dr Crew Cab 4WD SB (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 14465.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 16368.0,
+          "baseInvoice": 31141.0,
+          "usedTmvRetail": 18348.0,
+          "baseMSRP": 33485.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15543/1SB",
+        "id": 101264247,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200049498",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.1,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200049497",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3t",
+          "name": "H3T",
+          "id": "HUMMER_H3T"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H3T Crew Cab"
+        }
+      },
+      "Luxury": {
+        "categories": {
+          "vehicleType": "Truck",
+          "crossover": "SUV",
+          "primaryBodyType": "Truck",
+          "EPAClass": "Small Pickup Trucks",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Crew Cab Pickup",
+          "market": "Crossover,Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530729
+        },
+        "numOfDoors": "4",
+        "name": "Luxury 4dr Crew Cab 4WD SB (3.7L 5cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 14069.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 16132.0,
+          "baseInvoice": 33810.0,
+          "usedTmvRetail": 18279.0,
+          "baseMSRP": 36355.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15543/1SC",
+        "id": 101264248,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200049504",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.1,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200049503",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3t",
+          "name": "H3T",
+          "id": "HUMMER_H3T"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "crew-cab",
+          "body": "Crew Cab",
+          "modelName": "H3T Crew Cab"
+        }
+      }
+    }
+  },
+  "h3": {
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2006,
+          "id": 100503516
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (3.5L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 6908.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 7675.0,
+          "baseInvoice": 26620.0,
+          "usedTmvRetail": 8954.0,
+          "baseMSRP": 28935.0,
+          "deliveryCharges": 565.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SA",
+        "id": 100512301,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200182134",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 225,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.5",
+          "compressorType": "NA",
+          "id": "200182133",
+          "displacement": 3460.0,
+          "manufacturerEngineCode": "L52",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 2800
+          },
+          "horsepower": 220,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.5
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      }
+    },
+    "2009": {
+      "Alpha": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525550
+        },
+        "numOfDoors": "4",
+        "name": "Alpha 4dr SUV 4WD (5.3L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 14476.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 16331.0,
+          "baseInvoice": 38786.0,
+          "usedTmvRetail": 18422.0,
+          "baseMSRP": 41705.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "16"
+        },
+        "manufacturerCode": "RN15306/1SE",
+        "id": 101021034,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200015409",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 320,
+          "totalValves": 16,
+          "compressionRatio": 9.9,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG5.3",
+          "compressorType": "NA",
+          "id": "200015408",
+          "displacement": 5328.0,
+          "manufacturerEngineCode": "LH8",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 5.3
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525550
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 11043.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 12488.0,
+          "baseInvoice": 31053.0,
+          "usedTmvRetail": 14118.0,
+          "baseMSRP": 33390.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SA",
+        "id": 101021032,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200015397",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 242,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200015396",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4600
+          },
+          "horsepower": 242,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "H3X": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2009,
+          "id": 100525550
+        },
+        "numOfDoors": "4",
+        "name": "H3X 4dr SUV 4WD (3.7L 5cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 12219.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 13961.0,
+          "baseInvoice": 40111.0,
+          "usedTmvRetail": 15926.0,
+          "baseMSRP": 43130.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SD",
+        "id": 101021033,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200015403",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 242,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200015402",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4600
+          },
+          "horsepower": 242,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100516943
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 7569.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 8844.0,
+          "baseInvoice": 27053.0,
+          "usedTmvRetail": 10605.0,
+          "baseMSRP": 29405.0,
+          "deliveryCharges": 590.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SA",
+        "id": 100761083,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200139867",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "torque": 242,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200139866",
+          "displacement": 3671.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4600
+          },
+          "horsepower": 242,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "H3X": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2007,
+          "id": 100516943
+        },
+        "numOfDoors": "4",
+        "name": "H3X 4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 8201.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 9444.0,
+          "baseInvoice": 34541.0,
+          "usedTmvRetail": 11161.0,
+          "baseMSRP": 37545.0,
+          "deliveryCharges": 590.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SD",
+        "id": 100761192,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200139873",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "torque": 242,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200139872",
+          "displacement": 3671.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4600
+          },
+          "horsepower": 242,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      }
+    },
+    "2010": {
+      "Alpha": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530709
+        },
+        "numOfDoors": "4",
+        "name": "Alpha 4dr SUV 4WD (5.3L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 16286.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 18457.0,
+          "baseInvoice": 38786.0,
+          "usedTmvRetail": 20717.0,
+          "baseMSRP": 41705.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "16"
+        },
+        "manufacturerCode": "RN15306/1SE",
+        "id": 101263048,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200054786",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "flex-fuel (unleaded/E85)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 320,
+          "totalValves": 16,
+          "compressionRatio": 9.9,
+          "name": "Engine",
+          "type": "flex-fuel (FFV)",
+          "code": "8VNAF5.3",
+          "compressorType": "NA",
+          "id": "200054785",
+          "displacement": 5328.0,
+          "manufacturerEngineCode": "LH9",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4000
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 5.3
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "Adventure": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Flex Fuel,Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530709
+        },
+        "numOfDoors": "4",
+        "name": "Adventure 4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 13482.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 15523.0,
+          "baseInvoice": 33443.0,
+          "usedTmvRetail": 17648.0,
+          "baseMSRP": 35960.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SB",
+        "id": 101263041,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200054774",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200054773",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530709
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 12544.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 14442.0,
+          "baseInvoice": 31053.0,
+          "usedTmvRetail": 16417.0,
+          "baseMSRP": 33390.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SA",
+        "id": 101262989,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200054768",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200054767",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "Luxury": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2010,
+          "id": 100530709
+        },
+        "numOfDoors": "4",
+        "name": "Luxury 4dr SUV 4WD (3.7L 5cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 14606.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 16662.0,
+          "baseInvoice": 35679.0,
+          "usedTmvRetail": 18802.0,
+          "baseMSRP": 38365.0,
+          "deliveryCharges": 780.0
+        },
+        "MPG": {
+          "city": "14",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SC",
+        "id": 101263042,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200054780",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 241,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200054779",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5800,
+            "torque": 4600
+          },
+          "horsepower": 239,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      }
+    },
+    "2008": {
+      "Alpha": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100523393
+        },
+        "numOfDoors": "4",
+        "name": "Alpha 4dr SUV 4WD (5.3L 8cyl 4A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 13000.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 14869.0,
+          "baseInvoice": 36593.0,
+          "usedTmvRetail": 17154.0,
+          "baseMSRP": 39560.0,
+          "deliveryCharges": 745.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "16"
+        },
+        "manufacturerCode": "RN15306/1SE",
+        "id": 100888509,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200096793",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "torque": 320,
+          "totalValves": 16,
+          "compressionRatio": 9.9,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VNAG5.3",
+          "compressorType": "NA",
+          "id": "200096792",
+          "displacement": 5328.0,
+          "manufacturerEngineCode": "LH8",
+          "rpm": {
+            "horsepower": 5200,
+            "torque": 4400
+          },
+          "horsepower": 300,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 5.3
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "Base": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100523393
+        },
+        "numOfDoors": "4",
+        "name": "4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 8769.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 10125.0,
+          "baseInvoice": 28670.0,
+          "usedTmvRetail": 11782.0,
+          "baseMSRP": 30995.0,
+          "deliveryCharges": 745.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SA",
+        "id": 100888455,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200096781",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "torque": 242,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200096780",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4600
+          },
+          "horsepower": 242,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      },
+      "H3X": {
+        "categories": {
+          "vehicleType": "SUV",
+          "primaryBodyType": "SUV",
+          "EPAClass": "Sport Utility Vehicles",
+          "vehicleSize": "Midsize",
+          "vehicleStyle": "4dr SUV",
+          "market": "Luxury"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2008,
+          "id": 100523393
+        },
+        "numOfDoors": "4",
+        "name": "H3X 4dr SUV 4WD (3.7L 5cyl 5M)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "usedTradeIn": 10278.0,
+          "estimateTmv": false,
+          "usedPrivateParty": 11874.0,
+          "baseInvoice": 36343.0,
+          "usedTmvRetail": 13824.0,
+          "baseMSRP": 39290.0,
+          "deliveryCharges": 745.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "18"
+        },
+        "manufacturerCode": "RN15306/1SD",
+        "id": 100888456,
+        "make": {
+          "niceName": "hummer",
+          "name": "HUMMER",
+          "id": 200004021
+        },
+        "transmission": {
+          "name": "5M",
+          "id": "200096787",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "MANUAL",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "regular unleaded",
+          "cylinder": 5,
+          "valve": {
+            "gear": "double overhead camshaft"
+          },
+          "torque": 242,
+          "totalValves": 20,
+          "compressionRatio": 10.0,
+          "name": "Engine",
+          "type": "gas",
+          "code": "5INAG3.7",
+          "compressorType": "NA",
+          "id": "200096786",
+          "displacement": 3651.0,
+          "manufacturerEngineCode": "LLR",
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 4600
+          },
+          "horsepower": 242,
+          "configuration": "inline",
+          "equipmentType": "ENGINE",
+          "size": 3.7
+        },
+        "model": {
+          "niceName": "h3",
+          "name": "H3",
+          "id": "HUMMER_H3"
+        },
+        "drivenWheels": "four wheel drive",
+        "submodel": {
+          "niceName": "suv",
+          "body": "SUV",
+          "modelName": "H3 SUV"
+        }
+      }
+    }
+  }
+}

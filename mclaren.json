@@ -1,0 +1,468 @@
+{
+  "570s": {
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "FUTURE"
+        ],
+        "model": {
+          "niceName": "570s",
+          "name": "570S",
+          "id": "McLaren_570S"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401638463
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe",
+        "id": 401638465,
+        "drivenWheels": "rear wheel drive",
+        "transmission": {
+          "transmissionType": "UNKNOWN"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "compressorType": "NA",
+          "id": "401638464",
+          "name": "Engine",
+          "type": "gas",
+          "code": "NAG",
+          "equipmentType": "ENGINE"
+        },
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "570S Coupe"
+        },
+        "make": {
+          "niceName": "mclaren",
+          "name": "McLaren",
+          "id": 200051397
+        }
+      }
+    }
+  },
+  "650s-spider": {
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200720482
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (3.8L 8cyl Turbo 7AM)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 198046.0,
+          "usedPrivateParty": 207465.0,
+          "usedTmvRetail": 214570.0,
+          "deliveryCharges": 2400.0,
+          "baseMSRP": 280225.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "22"
+        },
+        "id": 200720483,
+        "make": {
+          "niceName": "mclaren",
+          "name": "McLaren",
+          "id": 200051397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200720636",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 500,
+          "totalValves": 32,
+          "compressionRatio": 8.7,
+          "name": "3.8L V8 32 Valve Twin Turbocharger Gas Premium Unleaded (required) M838T",
+          "type": "gas",
+          "code": "8VTTG3.8",
+          "compressorType": "twin turbocharger",
+          "id": "200720635",
+          "displacement": 3799.0,
+          "manufacturerEngineCode": "M838T",
+          "rpm": {
+            "horsepower": 7250,
+            "torque": 3000
+          },
+          "horsepower": 641,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.8
+        },
+        "model": {
+          "niceName": "650s-spider",
+          "name": "650S Spider",
+          "id": "McLaren_650S_Spider"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "650S Spider Convertible"
+        }
+      }
+    }
+  },
+  "mp4-12c": {
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2013,
+          "id": 200474666
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
+        "price": {
+          "baseMSRP": 239400.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2400.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "22"
+        },
+        "id": 200474667,
+        "make": {
+          "niceName": "mclaren",
+          "name": "McLaren",
+          "id": 200051397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200474870",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 443,
+          "totalValves": 32,
+          "compressionRatio": 8.7,
+          "name": "3.8L V8 32 Valve Twin Turbocharger Gas Premium Unleaded (required) M838T",
+          "type": "gas",
+          "code": "8VTTG3.8",
+          "compressorType": "twin turbocharger",
+          "id": "200474869",
+          "displacement": 3799.0,
+          "manufacturerEngineCode": "M838T",
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 3000
+          },
+          "horsepower": 616,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.8
+        },
+        "model": {
+          "niceName": "mp4-12c",
+          "name": "MP4-12C",
+          "id": "McLaren_MP4_12C"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "MP4-12C Coupe"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "year": {
+          "year": 2012,
+          "id": 100530169
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "baseMSRP": 229000.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2400.0
+        },
+        "MPG": {
+          "city": "15",
+          "highway": "22"
+        },
+        "id": 101240937,
+        "make": {
+          "niceName": "mclaren",
+          "name": "McLaren",
+          "id": 200051397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200051400",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 443,
+          "totalValves": 32,
+          "compressionRatio": 8.7,
+          "name": "Engine",
+          "type": "gas",
+          "code": "8VTTG3.8",
+          "compressorType": "twin turbocharger",
+          "id": "200051399",
+          "displacement": 3799.0,
+          "manufacturerEngineCode": "M838T",
+          "rpm": {
+            "horsepower": 7000,
+            "torque": 3000
+          },
+          "horsepower": 592,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.8
+        },
+        "model": {
+          "niceName": "mp4-12c",
+          "name": "MP4-12C",
+          "id": "McLaren_MP4_12C"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "MP4-12C Coupe"
+        }
+      }
+    }
+  },
+  "650s-coupe": {
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "year": {
+          "year": 2015,
+          "id": 200720532
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
+        "price": {
+          "estimateTmv": false,
+          "usedTradeIn": 187732.0,
+          "usedPrivateParty": 196659.0,
+          "usedTmvRetail": 203394.0,
+          "deliveryCharges": 2400.0,
+          "baseMSRP": 265500.0
+        },
+        "MPG": {
+          "city": "16",
+          "highway": "22"
+        },
+        "manufacturerCode": "Y900",
+        "id": 200720536,
+        "make": {
+          "niceName": "mclaren",
+          "name": "McLaren",
+          "id": 200051397
+        },
+        "transmission": {
+          "name": "7A",
+          "id": "200720541",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 500,
+          "totalValves": 32,
+          "compressionRatio": 8.7,
+          "name": "3.8L V8 32 Valve Twin Turbocharger Gas Premium Unleaded (required) M838T",
+          "type": "gas",
+          "code": "8VTTG3.8",
+          "compressorType": "twin turbocharger",
+          "id": "200720540",
+          "displacement": 3799.0,
+          "manufacturerEngineCode": "M838T",
+          "rpm": {
+            "horsepower": 7250,
+            "torque": 6000
+          },
+          "horsepower": 641,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.8
+        },
+        "model": {
+          "niceName": "650s-coupe",
+          "name": "650S Coupe",
+          "id": "McLaren_650S_Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "submodel": {
+          "niceName": "650s-coupe",
+          "body": "650S Coupe",
+          "modelName": "650S Coupe"
+        }
+      }
+    }
+  },
+  "mp4-12c-spider": {
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "primaryBodyType": "Car",
+          "EPAClass": "Two Seaters",
+          "vehicleSize": "Compact",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,High-Performance"
+        },
+        "states": [
+          "USED"
+        ],
+        "model": {
+          "niceName": "mp4-12c-spider",
+          "name": "MP4-12C Spider",
+          "id": "McLaren_MP4_12C_Spider"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200444183
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (3.8L 8cyl Turbo 7AM)",
+        "price": {
+          "baseMSRP": 265750.0,
+          "estimateTmv": false,
+          "deliveryCharges": 2400.0
+        },
+        "id": 200444189,
+        "drivenWheels": "rear wheel drive",
+        "transmission": {
+          "name": "7A",
+          "id": "200444185",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATED_MANUAL",
+          "numberOfSpeeds": "7"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "torque": 443,
+          "totalValves": 32,
+          "compressionRatio": 8.7,
+          "name": "3.8L V8 32 Valve Twin Turbocharger Gas Premium Unleaded (required) M838T",
+          "type": "gas",
+          "code": "8VTTG3.8",
+          "compressorType": "twin turbocharger",
+          "id": "200444184",
+          "displacement": 3799.0,
+          "manufacturerEngineCode": "M838T",
+          "rpm": {
+            "horsepower": 7500,
+            "torque": 3000
+          },
+          "horsepower": 616,
+          "configuration": "V",
+          "equipmentType": "ENGINE",
+          "size": 3.8
+        },
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "MP4-12C Spider Convertible"
+        },
+        "make": {
+          "niceName": "mclaren",
+          "name": "McLaren",
+          "id": 200051397
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4975 @@
+{
+  "silver-seraph": {
+    "2001": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000282
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (5.4L 12cyl 5A)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 800.0,
+          "estimateTmv": false,
+          "baseMSRP": 219900.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "15"
+        },
+        "id": 100001692,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200318856",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "displacement": 2198.0,
+          "totalValves": 24,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.4,
+          "code": "12VNAG5.4",
+          "compressorType": "NA",
+          "id": "200318855",
+          "torque": 361,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3900
+          },
+          "horsepower": 322,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Silver Seraph Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Silver Seraph",
+          "niceName": "silver-seraph",
+          "id": "Rolls_Royce_Silver_Seraph"
+        }
+      }
+    },
+    "2002": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100502597
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (5.4L 12cyl 5A)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 800.0,
+          "estimateTmv": false,
+          "baseMSRP": 229990.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "15"
+        },
+        "manufacturerCode": "4DR",
+        "id": 100074530,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200314056",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "displacement": 5379.0,
+          "totalValves": 24,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.4,
+          "code": "12VNAG5.4",
+          "compressorType": "NA",
+          "id": "200314055",
+          "torque": 361,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3900
+          },
+          "horsepower": 322,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Silver Seraph Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Silver Seraph",
+          "niceName": "silver-seraph",
+          "id": "Rolls_Royce_Silver_Seraph"
+        }
+      }
+    }
+  },
+  "wraith": {
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200464761
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 294025.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200488443,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200728674",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.6 Liter",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200488444",
+          "torque": 590,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 1500
+          },
+          "horsepower": 624,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Wraith Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Wraith",
+          "niceName": "wraith",
+          "id": "Rolls_Royce_Wraith"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401629127
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 304350.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 401629389,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "401629377",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.6 Liter",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "401629376",
+          "torque": 590,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 1500
+          },
+          "horsepower": 624,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Wraith Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Wraith",
+          "niceName": "wraith",
+          "id": "Rolls_Royce_Wraith"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200488210
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 284900.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200464764,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200464767",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.6 Liter",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200464763",
+          "torque": 590,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5600,
+            "torque": 1500
+          },
+          "horsepower": 624,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "coupe",
+          "body": "Coupe",
+          "modelName": "Wraith Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Wraith",
+          "niceName": "wraith",
+          "id": "Rolls_Royce_Wraith"
+        }
+      }
+    }
+  },
+  "phantom-drophead-coupe": {
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200676795
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 474600.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK83",
+        "id": 200676796,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200676798",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200676797",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200474457
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 469900.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK83",
+        "id": 200474458,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200474460",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200474459",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2011,
+          "id": 100534589
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 447000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK83",
+        "id": 101380439,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200369914",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200369913",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100519325
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 407000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "id": 100961273,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200099515",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200099514",
+          "torque": 531,
+          "compressionRatio": 11.1,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200727168
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 479775.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 200727172,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200727307",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200727306",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100527569
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 434000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK83",
+        "id": 101154537,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200055432",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200055431",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2012,
+          "id": 200420091
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 447000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK83",
+        "id": 200420092,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200420094",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200420093",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2010,
+          "id": 100530517
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 443000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK83",
+        "id": 101254297,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200065467",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200065466",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401631105
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2750.0,
+          "estimateTmv": false,
+          "baseMSRP": 492000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 401631106,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "401631108",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "401631107",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Phantom Drophead Coupe Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Drophead Coupe",
+          "niceName": "phantom-drophead-coupe",
+          "id": "Rolls_Royce_Phantom_Drophead_Coupe"
+        }
+      }
+    }
+  },
+  "phantom-coupe": {
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200474474
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 429295.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK23",
+        "id": 200474475,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200474478",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200474477",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2011,
+          "id": 100534829
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 408000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK23",
+        "id": 101382274,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200371495",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200371494",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200676523
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 433550.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK23",
+        "id": 200676524,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200676526",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200676525",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200727167
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 438325.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 200727171,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200727314",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200727305",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100527570
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 400000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK23",
+        "id": 101153765,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200012709",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200012708",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2012,
+          "id": 200420020
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 408000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK23",
+        "id": 200420021,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200420023",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200420022",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2010,
+          "id": 100530516
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 408000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK23",
+        "id": 101254273,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200065432",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200065431",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Compact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Coupe",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401627841
+        },
+        "numOfDoors": "2",
+        "name": "2dr Coupe (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 449525.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK23",
+        "id": 401627842,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "401627844",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "401627843",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "phantom-coupe",
+          "body": "Phantom Coupe",
+          "modelName": "Phantom Coupe"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom Coupe",
+          "niceName": "phantom-coupe",
+          "id": "Rolls_Royce_Phantom_Coupe"
+        }
+      }
+    }
+  },
+  "corniche": {
+    "2001": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000280
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.8L 8cyl Turbo 4A)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 800.0,
+          "estimateTmv": false,
+          "baseMSRP": 359990.0
+        },
+        "MPG": {
+          "city": "10",
+          "highway": "15"
+        },
+        "id": 100001690,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200318784",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "displacement": 6750.0,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.8,
+          "code": "8VTCG6.8",
+          "compressorType": "turbocharger",
+          "id": "200318783",
+          "torque": 544,
+          "compressionRatio": 8.0,
+          "rpm": {
+            "horsepower": 4000,
+            "torque": 2100
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Corniche Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Corniche",
+          "niceName": "corniche",
+          "id": "Rolls_Royce_Corniche"
+        }
+      }
+    },
+    "2002": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Subcompact Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100502598
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.8L 8cyl Turbo 4A)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 800.0,
+          "estimateTmv": false,
+          "baseMSRP": 363990.0
+        },
+        "manufacturerCode": "2DR",
+        "id": 100074529,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "4A",
+          "id": "200313994",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "4"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 8,
+          "valve": {
+            "gear": "overhead valve"
+          },
+          "displacement": 6.8,
+          "totalValves": 16,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.8,
+          "code": "8VTCG6.8",
+          "compressorType": "turbocharger",
+          "id": "200313993",
+          "torque": 544,
+          "compressionRatio": 8.0,
+          "rpm": {
+            "horsepower": 4000,
+            "torque": 2100
+          },
+          "horsepower": 325,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Corniche Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Corniche",
+          "niceName": "corniche",
+          "id": "Rolls_Royce_Corniche"
+        }
+      }
+    }
+  },
+  "park-ward": {
+    "2001": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2001,
+          "id": 100000281
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (5.4L 12cyl 5A)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 800.0,
+          "estimateTmv": false,
+          "baseMSRP": 259900.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "15"
+        },
+        "id": 100001691,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200318794",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "totalValves": 24,
+          "size": 5.4,
+          "name": "Engine",
+          "type": "gas",
+          "code": "12VNAG5.4",
+          "compressorType": "NA",
+          "id": "200318793",
+          "torque": 361,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3900
+          },
+          "horsepower": 322,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Park Ward Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Park Ward",
+          "niceName": "park-ward",
+          "id": "Rolls_Royce_Park_Ward"
+        }
+      }
+    },
+    "2002": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2002,
+          "id": 100502596
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (5.4L 12cyl 5A)",
+        "price": {
+          "baseInvoice": 0.0,
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 800.0,
+          "estimateTmv": false,
+          "baseMSRP": 262990.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "15"
+        },
+        "manufacturerCode": "4DR",
+        "id": 100074531,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "5A",
+          "id": "200314066",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "5"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "single overhead camshaft"
+          },
+          "displacement": 5379.0,
+          "totalValves": 24,
+          "type": "gas",
+          "name": "Engine",
+          "size": 5.4,
+          "code": "12VNAG5.4",
+          "compressorType": "NA",
+          "id": "200314065",
+          "torque": 361,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5000,
+            "torque": 3900
+          },
+          "horsepower": 322,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Park Ward Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Park Ward",
+          "niceName": "park-ward",
+          "id": "Rolls_Royce_Park_Ward"
+        }
+      }
+    }
+  },
+  "ghost-series-ii": {
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200701497
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 286750.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200701510,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200701626",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200701537",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Series II Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost Series II",
+          "niceName": "ghost-series-ii",
+          "id": "Rolls_Royce_Ghost_Series_II"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200701497
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 319400.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200701515,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200701626",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200717177",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Series II Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost Series II",
+          "niceName": "ghost-series-ii",
+          "id": "Rolls_Royce_Ghost_Series_II"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401630684
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2750.0,
+          "estimateTmv": false,
+          "baseMSRP": 295850.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 401630685,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "401630724",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "401630722",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Series II Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost Series II",
+          "niceName": "ghost-series-ii",
+          "id": "Rolls_Royce_Ghost_Series_II"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401630684
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2750.0,
+          "estimateTmv": false,
+          "baseMSRP": 329325.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 401630686,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "401630724",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "401630723",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Series II Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost Series II",
+          "niceName": "ghost-series-ii",
+          "id": "Rolls_Royce_Ghost_Series_II"
+        }
+      }
+    }
+  },
+  "dawn": {
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Convertible",
+          "market": "Exotic,Luxury,High-Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401628476
+        },
+        "numOfDoors": "2",
+        "name": "2dr Convertible (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2750.0,
+          "estimateTmv": false,
+          "baseMSRP": 335000.0
+        },
+        "MPG": {
+          "city": "12",
+          "highway": "19"
+        },
+        "id": 401628488,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "401628478",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.6 Liter",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "401628477",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "convertible",
+          "body": "Convertible",
+          "modelName": "Dawn Convertible"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Dawn",
+          "niceName": "dawn",
+          "id": "Rolls_Royce_Dawn"
+        }
+      }
+    }
+  },
+  "ghost": {
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200476545
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 256650.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200476546,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200481153",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200476578",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200476545
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 296000.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200476547,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200481153",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200476578",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2012,
+          "id": 100535029
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 250000.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 101426250,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200416975",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200416974",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2012,
+          "id": 100535029
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 290000.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 101384869,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200373157",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6592.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200373156",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      }
+    },
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2010,
+          "id": 100524806
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 245000.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 101286955,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200086538",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200086537",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2011,
+          "id": 100533971
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 246500.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "20"
+        },
+        "id": 101373090,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200363972",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "8A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200363971",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200674395
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 263200.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200674397,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200674399",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200674398",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200674395
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.6L 12cyl Turbo 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 303300.0
+        },
+        "MPG": {
+          "city": "13",
+          "highway": "21"
+        },
+        "id": 200674396,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200674399",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6593.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.6,
+          "code": "12VTTG6.6",
+          "compressorType": "twin turbocharger",
+          "id": "200674398",
+          "torque": 575,
+          "compressionRatio": 10.0,
+          "rpm": {
+            "horsepower": 5250,
+            "torque": 1500
+          },
+          "horsepower": 563,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Ghost Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Ghost",
+          "niceName": "ghost",
+          "id": "Rolls_Royce_Ghost"
+        }
+      }
+    }
+  },
+  "phantom": {
+    "2013": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200472803
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 398970.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK63",
+        "id": 200472804,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200472807",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200472806",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2013,
+          "id": 200472803
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 470295.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK03",
+        "id": 200472805,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200472807",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200472806",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2004": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2004,
+          "id": 100502960
+        },
+        "numOfDoors": "4",
+        "name": "Base 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1000.0,
+          "estimateTmv": false,
+          "baseMSRP": 320000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 100305108,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200243611",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6748.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200243610",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2011": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2011,
+          "id": 100534649
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 380000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK63",
+        "id": 101380814,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200370103",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200370102",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2011,
+          "id": 100534649
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 450000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK03",
+        "id": 101380815,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200370108",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200370107",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2005": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2005,
+          "id": 100505425
+        },
+        "numOfDoors": "4",
+        "name": "Base 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1000.0,
+          "estimateTmv": false,
+          "baseMSRP": 328750.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 100505875,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "id": "200230582",
+          "transmissionType": "AUTOMATIC",
+          "automaticType": "Shiftable automatic",
+          "name": "6A",
+          "equipmentType": "TRANSMISSION",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6748.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200230581",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2006": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury"
+        },
+        "year": {
+          "year": 2006,
+          "id": 100506880
+        },
+        "numOfDoors": "4",
+        "name": "Base 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 1000.0,
+          "estimateTmv": false,
+          "baseMSRP": 328750.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "17"
+        },
+        "id": 100655279,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200192193",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200192192",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2012": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2012,
+          "id": 200419917
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 380000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK63",
+        "id": 200419918,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200419923",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200419921",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2012,
+          "id": 200419917
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 450000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK03",
+        "id": 200419919,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200419923",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200419921",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2016": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401629131
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 417825.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 401629132,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "401629135",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "401629134",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2016,
+          "id": 401629131
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 492425.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 401629133,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "401629135",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "401629134",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2010": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2010,
+          "id": 100530515
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 380000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK63",
+        "id": 101254191,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200065397",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200065396",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2010,
+          "id": 100530515
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 450000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK03",
+        "id": 101254197,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200065403",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200065402",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2008": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100524578
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 340000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "PH",
+        "id": 100961434,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200104211",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200104210",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2008,
+          "id": 100524578
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 403000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "-EWB",
+        "id": 100962575,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200104217",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200104216",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2015": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200726518
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 407400.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 200726522,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200726574",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200726573",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2015,
+          "id": 200726518
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 480175.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "id": 200726523,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200726574",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200726573",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED",
+          "NEW"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2009": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100527549
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 380000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK63",
+        "id": 101154538,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200055391",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200055390",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2009,
+          "id": 100527549
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 450000.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "FK03",
+        "id": 101154539,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200055397",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200055396",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2007": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2007,
+          "id": 100522849
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 333350.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "PH",
+        "id": 100865135,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200127929",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200127928",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2007,
+          "id": 100522849
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 6A)",
+        "price": {
+          "tmvRecommendedRating": 0,
+          "deliveryCharges": 2000.0,
+          "estimateTmv": false,
+          "baseMSRP": 385500.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "18"
+        },
+        "manufacturerCode": "-EWB",
+        "id": 100865215,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "6A",
+          "id": "200127923",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "6"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "Engine",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200127922",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    },
+    "2014": {
+      "Base": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Midsize Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200675917
+        },
+        "numOfDoors": "4",
+        "name": "4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 402940.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK63",
+        "id": 200675919,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200675921",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200675920",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      },
+      "EWB": {
+        "categories": {
+          "vehicleType": "Car",
+          "vehicleSize": "Large",
+          "EPAClass": "Large Cars",
+          "primaryBodyType": "Car",
+          "vehicleStyle": "Sedan",
+          "market": "Exotic,Luxury,Performance"
+        },
+        "year": {
+          "year": 2014,
+          "id": 200675917
+        },
+        "numOfDoors": "4",
+        "name": "EWB 4dr Sedan (6.7L 12cyl 8A)",
+        "price": {
+          "deliveryCharges": 2500.0,
+          "estimateTmv": false,
+          "baseMSRP": 474990.0
+        },
+        "MPG": {
+          "city": "11",
+          "highway": "19"
+        },
+        "manufacturerCode": "FK03",
+        "id": 200675918,
+        "make": {
+          "name": "Rolls-Royce",
+          "niceName": "rolls-royce",
+          "id": 200005044
+        },
+        "transmission": {
+          "name": "8A",
+          "id": "200675921",
+          "equipmentType": "TRANSMISSION",
+          "transmissionType": "AUTOMATIC",
+          "numberOfSpeeds": "8"
+        },
+        "engine": {
+          "fuelType": "premium unleaded (required)",
+          "cylinder": 12,
+          "valve": {
+            "gear": "double overhead camshaft",
+            "timing": "variable valve timing"
+          },
+          "displacement": 6749.0,
+          "totalValves": 48,
+          "type": "gas",
+          "name": "6.7L V12 48 Valve   Gas",
+          "size": 6.7,
+          "code": "12VNAG6.7",
+          "compressorType": "NA",
+          "id": "200675920",
+          "torque": 531,
+          "compressionRatio": 11.0,
+          "rpm": {
+            "horsepower": 5350,
+            "torque": 3500
+          },
+          "horsepower": 453,
+          "configuration": "V",
+          "equipmentType": "ENGINE"
+        },
+        "states": [
+          "USED"
+        ],
+        "submodel": {
+          "niceName": "sedan",
+          "body": "Sedan",
+          "modelName": "Phantom Sedan"
+        },
+        "drivenWheels": "rear wheel drive",
+        "model": {
+          "name": "Phantom",
+          "niceName": "phantom",
+          "id": "Rolls_Royce_Phantom"
+        }
+      }
+    }
+  }
+}
